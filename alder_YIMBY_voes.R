@@ -1,0 +1,69 @@
+library(googlesheets4)
+library(tidyverse)
+
+## Import Alder vote data from google sheets
+
+# Authenticate with Google
+gs4_auth()
+
+# Load data from Alder Votes sheet  at this link:
+vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA")
+
+#transform list of names seperated by a ; into vector
+vote.data <- vote.data.query |>
+  mutate(Yes = strsplit(Y, ";"), 
+         No = strsplit(N, ";"),
+         Abstain = strsplit(as.character(ABS), ";"), 
+         #Convert YIMBY to logical, Y = TRUE
+         YIMBY = YIMBY == "Y"
+         ) |>
+  select(-Y, -N, -ABS) |>
+  mutate(`Yes Votes` = lengths(Yes),
+         `No Votes` = lengths(No),
+         `Abstain Votes` = lengths(Abstain)) 
+
+
+alder.votes.yes <- vote.data |>
+  mutate(Vote = "Yes") |>
+  select(Date, Legistar, Title, `Vote #`, YIMBY,Vote, Yes) |>
+  #Make each item in the lists Yes, No, and Abstain into a row
+  unnest_longer(Yes, values_to = "Alder")
+
+
+alder.votes.no <- vote.data |>
+  mutate(Vote = "No") |>
+  select(Date, Legistar, Title, `Vote #`, YIMBY,Vote, No) |>
+  #Make each item in the lists Yes, No, and Abstain into a row
+  unnest_longer(No, values_to = "Alder")
+
+
+alder.votes.abs <- vote.data |>
+  mutate(Vote = "No") |>
+  select(Date, Legistar, Title, `Vote #`, YIMBY,Vote, Abstain) |>
+  #Make each item in the lists Yes, No, and Abstain into a row
+  unnest_longer(Abstain, values_to = "Alder")
+
+alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
+    mutate(Alder = str_trim(Alder),
+           `YIMBY Vote` = ifelse(YIMBY, 
+                          ifelse(Vote == "Yes", 
+                                 TRUE, FALSE),
+                          ifelse(Vote == "No",
+                                 TRUE, FALSE))) |>
+    group_by(Date, Legistar, Title, Alder) |>
+    summarise(`YIMBY Vote` = mean(`YIMBY Vote`)) |>
+  filter(!is.na(Alder))
+
+
+## Alder Vote Percentages
+
+YIMBY.prop <- alder.votes |> 
+  group_by(Alder) |>
+  summarize(`n Votes` = n(),
+        `YIMBY prop` = mean(`YIMBY Vote`, na.rm = TRUE) ) |>
+  arrange(desc(`YIMBY prop`)) |>
+  filter(`n Votes` > 10)
+
+kableExtra::kable(YIMBY.prop)
+
+
