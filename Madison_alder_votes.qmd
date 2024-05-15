@@ -23,6 +23,7 @@ vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA")
 
 #transform list of names seperated by a ; into vector
 vote.data <- vote.data.query |>
+  replace_na(list(`Vote #` = 1)) |>
   mutate(Yes = strsplit(Y, ";"), 
          No = strsplit(N, ";"),
          Abstain = strsplit(as.character(ABS), ";"), 
@@ -62,7 +63,7 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
                                  TRUE, FALSE),
                           ifelse(Vote == "No",
                                  TRUE, FALSE))) |>
-    group_by(Date, Legistar, Title, Alder) |>
+    group_by(Date, Legistar,  Alder) |>
     summarise(`YIMBY Vote` = mean(`YIMBY Vote`)) |>
   filter(!is.na(Alder))
 
@@ -78,7 +79,65 @@ YIMBY.prop <- alder.votes |>
 
 ```
 
+```{r}
 
+##maps
+
+library(rgdal)
+library(maptools)
+library(broom)
+if (!require(gpclib)) install.packages("gpclib", type="source")
+gpclibPermit()
+
+#Alder Districts
+alder_spdf <- readOGR( 
+  dsn= paste0(getwd(),"/AlderDistrictData/") , 
+  layer="Alder_Districts",
+  verbose=FALSE
+)
+spdf_alder_fortified <- tidy(alder_spdf, region = "ALD_DIST")
+
+spdf_alder_fortified <- spdf_alder_fortified %>%
+                  mutate(`Aldermanic District` = as.numeric(id)) %>%
+                  inner_join(satya.share.alder[,c("Aldermanic District", "prop", "gain")],
+                             by = "Aldermanic District")
+
+
+ggplot() +
+  geom_polygon(data = spdf_alder_fortified, aes( x = long, y = lat, group = group, fill = prop), color="white") +
+  theme_void() 
+
+ggplot() +
+  geom_polygon(data = spdf_alder_fortified, aes( x = long, y = lat, group = group, fill = gain), color="white") +
+  theme_void() 
+
+
+
+#Wards
+ward_spdf <- readOGR( 
+  dsn= paste0(getwd(),"/ElectionData/") , 
+  layer="Wards",
+  verbose=FALSE
+)
+spdf_ward_fortified <- tidy(ward_spdf, region = "WARD")
+
+satya_spdf_ward_fortified <- spdf_ward_fortified %>%
+  mutate(`Ward` = as.numeric(id)) %>%
+  inner_join(satya.share.ward[,c("Ward", "prop", "gain")],
+             by = "Ward")
+
+total_vote_ward_fortified <- spdf_ward_fortified %>%
+                      mutate(`Ward` = as.numeric(id)) %>%
+                  inner_join(total.vote.ward, by = "Ward")
+
+ggplot() +
+  geom_polygon(data = spdf_ward_fortified, aes( x = long, y = lat, group = group, fill = prop), color="white") +
+  labs(title = "Proportion of Ward Vote for Satya Rhodes-Conway",
+       subtitle = "2023 Spring Primary") +
+  theme_void() 
+
+
+```
 
 ```{r}
 kableExtra::kable(YIMBY.prop) |>
