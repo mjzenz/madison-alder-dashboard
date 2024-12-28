@@ -7,15 +7,17 @@ library(tidyverse)
 gs4_auth()
 
 # Load data from Alder Votes sheet  at this link:
-vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA")
+vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
+                              sheet = "YIMBY Votes")
+alder.data <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
+                         sheet = "Alder Districts")
 
 #transform list of names seperated by a ; into vector
 vote.data <- vote.data.query |>
+  filter(`Development Proposal`) |>
   mutate(Yes = strsplit(Y, ";"), 
          No = strsplit(N, ";"),
-         Abstain = strsplit(as.character(ABS), ";"), 
-         #Convert YIMBY to logical, Y = TRUE
-         YIMBY = YIMBY == "Y"
+         Abstain = strsplit(as.character(ABS), ";")
          ) |>
   select(-Y, -N, -ABS) |>
   mutate(`Yes Votes` = lengths(Yes),
@@ -50,19 +52,20 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
                                  TRUE, FALSE),
                           ifelse(Vote == "No",
                                  TRUE, FALSE))) |>
-    group_by(Date, Legistar, Title, Alder) |>
+    group_by(Date, Legistar, Alder) |>
     summarise(`YIMBY Vote` = mean(`YIMBY Vote`)) |>
-  filter(!is.na(Alder))
+  filter(!is.na(Alder)) |>
+  inner_join(alder.data, by = c("Alder" = "Name"))
 
 
 ## Alder Vote Percentages
 
-YIMBY.prop <- alder.votes |> 
-  group_by(Alder) |>
+YIMBY.prop <- alder.votes |>
+  filter(is.na(`End Date`)) |>
+  group_by(Alder, `Aldermanic District`) |>
   summarize(`n Votes` = n(),
         `YIMBY prop` = mean(`YIMBY Vote`, na.rm = TRUE) ) |>
-  arrange(desc(`YIMBY prop`)) |>
-  filter(`n Votes` > 10)
+  arrange(desc(`YIMBY prop`)) 
 
 kableExtra::kable(YIMBY.prop)
 
