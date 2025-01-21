@@ -1,0 +1,21 @@
+---
+title: "Alder Detail"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: dataprocess
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(kableExtra)
+
+
+```
+
+## SECTION
+
+This is standin text.
