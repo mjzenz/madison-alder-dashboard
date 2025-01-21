@@ -1,19 +1,36 @@
 project:
   type: website
 
+
 website:
-  title: "Madison Councillytics"
+  title: "Madison Councilytics"
+  page-footer: 
+    center: |
+      [Contact Madison Councylitics](mailto:mail@mjzenz.org)
+    right: |
+      [Source Code](https://github.com/mjzenz/madison-alder-dashboard)
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    logo: "Councilytics_medium_pic.png"
+    logo-href: https://councilytics.mjzenz.org
+    background: "#65df1b"
+    right: 
       - about.qmd
+      - text: Voting Records
+        menu:
+          - Madison_alder_votes.qmd
+          - Alder_Detail.qmd
+      - text: Election 2025
+        menu: 
+          - Candidate_Summary.qmd
+  search:
+    location: navbar
+    type: overlay
+
+# contents:
+#   - index.qmd
 
 format:
   html:
+    embed-resources: true
     theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    html-table-processing: none
