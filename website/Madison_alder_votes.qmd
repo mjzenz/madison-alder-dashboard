@@ -1,0 +1,40 @@
+---
+title: "Alder Voting Record"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: loaddata
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(kableExtra)
+
+load("alder_data_processed.RData")
+
+```
+
+## % Pro-development and housing voting records (YIMBY), 2023-25 term
+
+```{r}
+kableExtra::kable(YIMBY.prop, "html") |>
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+
+```
+
+## Development and housing votes
+
+```{r}
+
+    kable(YIMBY.vote.list, "html", escape = FALSE) %>%
+    kable_styling(bootstrap_options = c("hover", "condensed")) 
+  #kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+
+```
