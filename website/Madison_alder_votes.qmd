@@ -20,6 +20,9 @@ load("alder_data_processed.RData")
 ## % Pro-development and housing voting records (YIMBY), 2023-25 term
 
 ```{r}
+#| echo: false
+#| warning: false
+#| message: false
 kableExtra::kable(YIMBY.prop, "html") |>
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
@@ -30,10 +33,12 @@ kableExtra::kable(YIMBY.prop, "html") |>
 ## Development and housing votes
 
 ```{r}
-
+#| echo: false
+#| warning: false
+#| message: false
     kable(YIMBY.vote.list, "html", escape = FALSE) %>%
-    kable_styling(bootstrap_options = c("hover", "condensed")) 
-  #kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+ 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 
 

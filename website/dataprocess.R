@@ -78,6 +78,11 @@ YIMBY.vote.list <- alder.votes |>
   select(Date, Legistar,  `Vote #`, Vote, YIMBY, `Aldermanic District`) |>
   group_by(Date, Legistar,  `Vote #`,`Aldermanic District`) |>
   arrange(.by_group = TRUE) |>
-  pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`) 
+  mutate(Vote = substr(Vote, 1, 1)) |>
+  cell_spec(Vote,color = ifelse(((Vote == "Y" & YIMBY) | (Vote == "N" & !YIMBY)),
+                                "blue", 
+                          ifelse(((Vote == "Y" & YIMBY) | (Vote == "N" & !YIMBY)),
+                          "red", "white"))) |>
+  pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`) |>
 
 save.image(file="website/alder_data_processed.RData")

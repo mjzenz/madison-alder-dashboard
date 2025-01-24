@@ -10,9 +10,9 @@ website:
     right: |
       [Source Code](https://github.com/mjzenz/madison-alder-dashboard)
   navbar:
-    logo: "Councilytics_medium_pic.png"
-    logo-href: https://councilytics.mjzenz.org
-    background: "#65df1b"
+    #logo: "Councilytics_medium_pic.png"
+    #logo-href: https://councilytics.mjzenz.org
+    background: "#66cbff"
     right: 
       - about.qmd
       - text: Voting Records
@@ -34,3 +34,4 @@ format:
     embed-resources: true
     theme: cosmo
     html-table-processing: none
+    page-layout: full
