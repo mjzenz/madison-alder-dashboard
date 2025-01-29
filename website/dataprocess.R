@@ -70,19 +70,17 @@ YIMBY.prop <- alder.votes |>
   mutate(`YIMBY %` = round(100 * `YIMBY prop`, 1)) |>
   select(-`YIMBY prop`) 
 
-YIMBY.vote.list <- alder.votes |>
-  ungroup() |>
-  filter(is.na(`End Date`)) |>
+YIMBY.vote.list <- alder.votes %>%
+  ungroup() %>%
+  filter(is.na(`End Date`)) %>%
+  arrange(Date) %>%
   mutate(Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
-         Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) |>
-  select(Date, Legistar,  `Vote #`, Vote, YIMBY, `Aldermanic District`) |>
-  group_by(Date, Legistar,  `Vote #`,`Aldermanic District`) |>
-  arrange(.by_group = TRUE) |>
-  mutate(Vote = substr(Vote, 1, 1)) |>
-  cell_spec(Vote,color = ifelse(((Vote == "Y" & YIMBY) | (Vote == "N" & !YIMBY)),
-                                "blue", 
-                          ifelse(((Vote == "Y" & YIMBY) | (Vote == "N" & !YIMBY)),
-                          "red", "white"))) |>
-  pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`) |>
+         Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
+  select(Date, Legistar,  `Vote #`, Vote, YIMBY, `Aldermanic District`) %>%
+  group_by(Date, Legistar,  `Vote #`,`Aldermanic District`) %>%
+  mutate(Vote = substr(Vote, 1, 1)) %>%
+  pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
+  select(Date, Legistar, `Vote #`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
+         `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) 
 
 save.image(file="website/alder_data_processed.RData")

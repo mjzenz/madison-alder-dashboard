@@ -3,15 +3,15 @@ project:
 
 
 website:
-  title: "Madison Councilytics"
+  title: " "
   page-footer: 
     center: |
       [Contact Madison Councylitics](mailto:mail@mjzenz.org)
     right: |
       [Source Code](https://github.com/mjzenz/madison-alder-dashboard)
   navbar:
-    #logo: "Councilytics_medium_pic.png"
-    #logo-href: https://councilytics.mjzenz.org
+    logo: "Councilytics_medium_pic.png"
+    logo-href: https://councilytics.mjzenz.org
     background: "#66cbff"
     right: 
       - about.qmd
