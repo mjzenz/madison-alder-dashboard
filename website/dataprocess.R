@@ -28,21 +28,21 @@ vote.data <- vote.data.query |>
 
 alder.votes.yes <- vote.data |>
   mutate(Vote = "Yes") |>
-  select(Date,`Minutes url` ,Legistar,`Legistar url` , Title, `Vote #`, YIMBY,Vote, Yes) |>
+  select(Date,`Minutes url` ,Legistar,`Legistar url` , `Short title`, `Vote #`, YIMBY,Vote, Yes) |>
   #Make each item in the lists Yes, No, and Abstain into a row
   unnest_longer(Yes, values_to = "Alder")
 
 
 alder.votes.no <- vote.data |>
   mutate(Vote = "No") |>
-  select(Date,`Minutes url` ,Legistar,`Legistar url` , Title, `Vote #`, YIMBY,Vote, No) |>
+  select(Date,`Minutes url` ,Legistar,`Legistar url` ,`Short title`, `Vote #`, YIMBY,Vote, No) |>
   #Make each item in the lists Yes, No, and Abstain into a row
   unnest_longer(No, values_to = "Alder")
 
 
 alder.votes.abs <- vote.data |>
   mutate(Vote = "No") |>
-  select(Date,`Minutes url` ,Legistar,`Legistar url` , Title, `Vote #`, YIMBY,Vote, Abstain) |>
+  select(Date,`Minutes url` ,Legistar,`Legistar url` ,`Short title`, `Vote #`, YIMBY,Vote, Abstain) |>
   #Make each item in the lists Yes, No, and Abstain into a row
   unnest_longer(Abstain, values_to = "Alder")
 
@@ -53,7 +53,7 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
                                       TRUE, FALSE),
                                ifelse(Vote == "No",
                                       TRUE, FALSE))) |>
-  group_by(Date, `Minutes url` ,Legistar,`Legistar url` , Title, `Vote #`, YIMBY,Vote, Alder) |>
+  group_by(Date, `Minutes url` ,Legistar,`Legistar url` , `Short title`, `Vote #`, YIMBY,Vote, Alder) |>
   summarise(`YIMBY Vote` = mean(`YIMBY Vote`)) |>
   filter(!is.na(Alder)) |>
   inner_join(alder.data, by = c("Alder" = "Name"))
@@ -76,11 +76,12 @@ YIMBY.vote.list <- alder.votes %>%
   arrange(Date) %>%
   mutate(Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
          Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
-  select(Date, Legistar,  `Vote #`, Vote, YIMBY, `Aldermanic District`) %>%
-  group_by(Date, Legistar,  `Vote #`,`Aldermanic District`) %>%
-  mutate(Vote = substr(Vote, 1, 1)) %>%
+  select(Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
+  group_by(Date, Legistar,  `Vote #`, `Short title`,`Aldermanic District`) %>%
+  mutate(Vote = substr(Vote, 1, 1), 
+         `Vote #` = ifelse(is.na(`Vote #`), 1, `Vote #`)) %>%
   pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
-  select(Date, Legistar, `Vote #`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
+  select(Date, Legistar, `Vote #`, `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
          `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) 
 
 save.image(file="website/alder_data_processed.RData")
