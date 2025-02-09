@@ -13,15 +13,15 @@ website:
     logo: "Councilytics_medium_pic.png"
     logo-href: https://councilytics.mjzenz.org
     background: "#66cbff"
-    right: 
-      - about.qmd
-      - text: Voting Records
-        menu:
-          - Madison_alder_votes.qmd
-          - Alder_Detail.qmd
-      - text: Election 2025
-        menu: 
-          - Candidate_Summary.qmd
+  #  right: 
+     # - about.qmd
+    #  - text: Voting Records
+     #   menu:
+      #    - Madison_alder_votes.qmd
+        #  - Alder_Detail.qmd
+    #  - text: Election 2025
+     #   menu: 
+      #    - Candidate_Summary.qmd
   search:
     location: navbar
     type: overlay

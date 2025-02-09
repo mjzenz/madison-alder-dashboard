@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+This is introduction text
+
+Go to the [Madison Alder Voting Record](Madison_alder_votes.qmd)
