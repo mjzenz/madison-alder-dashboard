@@ -67,13 +67,13 @@ YIMBY.prop <- alder.votes |>
   summarize(`n Votes` = n(),
             `YIMBY prop` = mean(`YIMBY Vote`, na.rm = TRUE) ) |>
   arrange(desc(`YIMBY prop`))  |>
-  mutate(`YIMBY %` = round(100 * `YIMBY prop`, 1)) |>
+  mutate(`% YIMBY` = round(100 * `YIMBY prop`, 1)) |>
   select(-`YIMBY prop`) 
 
 YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
   filter(is.na(`End Date`)) %>%
-  arrange(Date) %>%
+  arrange(Date, `Legistar`, `Vote #`) %>%
   mutate(Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
          Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
   select(Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
@@ -81,7 +81,7 @@ YIMBY.vote.list <- alder.votes %>%
   mutate(Vote = substr(Vote, 1, 1), 
          `Vote #` = ifelse(is.na(`Vote #`), 1, `Vote #`)) %>%
   pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
-  select(Date, Legistar, `Vote #`, `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
+  select(Date, Legistar, `Vote #`, `Short Title` = `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
          `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) 
 
 save.image(file="website/alder_data_processed.RData")

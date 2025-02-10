@@ -1,5 +1,5 @@
 ---
-title: "Alder Voting Record"
+title: "Madison Common Council Voting Record"
 format: html
 editor: visual
 ---
@@ -17,10 +17,11 @@ load("alder_data_processed.RData")
 
 ```
 
-## Percentage Pro-development and housing voting records (YIMBY), 2023-25 term
+## % YIMBY Voting Record of Current Alders, 2023-25 term
 
 ```{r}
-#| label: tab-YIMBY_percentage
+#| label: tbl-YIMBY_percentage
+#| tbl-cap: Percentage of votes by active alders that were pro-housing (YIMBY).
 #| echo: false
 #| warning: false
 #| message: false
@@ -31,11 +32,11 @@ kableExtra::kable(YIMBY.prop, "html") |>
 
 ```
 
-## Development and housing votes
+## All Housing Votes, 2023-25 term
 
 ```{r}
 #| label: tbl-all-votes
-#| tbl-cap: Votes of active alders. YIMBY votes in blue, anti-YIMBY votes in red.
+#| tbl-cap: Votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red.
 #| echo: false
 #| warning: false
 #| message: false
