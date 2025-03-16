@@ -36,7 +36,7 @@ kableExtra::kable(YIMBY.prop, "html") |>
 
 ```{r}
 #| label: tbl-all-votes
-#| tbl-cap: Votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red.
+#| tbl-cap: Contested votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red.
 #| echo: false
 #| warning: false
 #| message: false
