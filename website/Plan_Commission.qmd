@@ -1,7 +1,9 @@
 ---
 title: "Plan Commission"
-format: html
-editor: visual
+format: 
+  html:
+    toc: true
+
 ---
 
 ## Meeting Summaries
@@ -87,30 +89,28 @@ Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky
 
 [Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235145&GUID=933F3815-41C9-4E92-8BA2-6EDF752435C9)
 
-
-
-Madison’s Plan Commission met Tuesday, February 17 to discuss several developments items—mainly focusing on amendments to Tax Incremental Districts (TIDs) and accessory dwelling units. The meeting was held virtually, with Alder Field notably starting the meeting out during his evening Madison Metro ride home.  They took the following actions:
+Madison’s Plan Commission met Tuesday, February 17 to discuss several developments items—mainly focusing on amendments to Tax Incremental Districts (TIDs) and accessory dwelling units. The meeting was held virtually, with Alder Field notably starting the meeting out during his evening Madison Metro ride home. They took the following actions:
 
 1.  Initial approvals of amendements to several TID districts.
 2.  Recommended to Council changes to the demolition ordinance to allow buildings that are not deemed historically significant to be approved by city staff. They also made minor alterations to the demolition criteria.
-3. Recommended to Council changes to the residential zoning ordinances to increase the allowable size of ADUs, eliminate some restrictions on garrage and side-porch dimensions, and allow more configurations multiunit buildings.
+3.  Recommended to Council changes to the residential zoning ordinances to increase the allowable size of ADUs, eliminate some restrictions on garrage and side-porch dimensions, and allow more configurations multiunit buildings.
 
 Before diving in to their key items, the Commission referred discussion of conditional use at 3915 Lien Road in District 3, in which a dive through window for a coffee shop is being requested ([Legistar 86523](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96099)). Additionally, the Committee unanimously passed their consent agenda, which included:
 
 #### Consent Agenda
 
- - Consideration of a **demolition** permit for a single family home located at **2530 Dahle Street** in District 12 ([Legistar 86729](https://madison.legistar.com/LegislationDetail.aspx?ID=7090670&GUID=5076A78E-D2F7-451B-8EB5-9A8EAB2355E4)) 
- - Consideration of a **demolition** permit for a two-family residence at **6111 Femrite Drive** in District 16 ([Legistar 86730](https://madison.legistar.com/LegislationDetail.aspx?ID=7090671&GUID=9354322F-7535-46C6-954D-D151A245B526)) 
- - Consideration of a **demolition** permit for a single family residence located at **6213 Countryside Lane** in District 19 ([Legistar 86731](https://madison.legistar.com/LegislationDetail.aspx?ID=7090672&GUID=190FAA9F-A0B4-4395-97BF-174CCB89FE43)) 
- - Approval of **revised preliminary platting** of Hill Valley, located in District 1, which includes **940-1050 South High Point Road**, 1051 Pleasantview Road, and 902 Landmark Trail ([Legistar 86737](https://madison.legistar.com/LegislationDetail.aspx?ID=7092049&GUID=D3EE1893-44BC-49B8-A20F-127709DCB398)) 
- - Approval of Hill Valley **plat** in District 1, located at **1050 South Highpoint Road** and 1051 Pleasantview Road ([Legistar 86738](https://madison.legistar.com/LegislationDetail.aspx?ID=7092050&GUID=079E0FFE-32CB-497C-8652-641F8BD29CE4))
+-   Consideration of a **demolition** permit for a single family home located at **2530 Dahle Street** in District 12 ([Legistar 86729](https://madison.legistar.com/LegislationDetail.aspx?ID=7090670&GUID=5076A78E-D2F7-451B-8EB5-9A8EAB2355E4))
+-   Consideration of a **demolition** permit for a two-family residence at **6111 Femrite Drive** in District 16 ([Legistar 86730](https://madison.legistar.com/LegislationDetail.aspx?ID=7090671&GUID=9354322F-7535-46C6-954D-D151A245B526))
+-   Consideration of a **demolition** permit for a single family residence located at **6213 Countryside Lane** in District 19 ([Legistar 86731](https://madison.legistar.com/LegislationDetail.aspx?ID=7090672&GUID=190FAA9F-A0B4-4395-97BF-174CCB89FE43))
+-   Approval of **revised preliminary platting** of Hill Valley, located in District 1, which includes **940-1050 South High Point Road**, 1051 Pleasantview Road, and 902 Landmark Trail ([Legistar 86737](https://madison.legistar.com/LegislationDetail.aspx?ID=7092049&GUID=D3EE1893-44BC-49B8-A20F-127709DCB398))
+-   Approval of Hill Valley **plat** in District 1, located at **1050 South Highpoint Road** and 1051 Pleasantview Road ([Legistar 86738](https://madison.legistar.com/LegislationDetail.aspx?ID=7092050&GUID=079E0FFE-32CB-497C-8652-641F8BD29CE4))
 
 #### Tax Incremental District Amendments
 
- - TID #36 (Capitol Gateway), [Legistar 86995](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96514)
- - TID #44 (Royster Clark), [Legistar 86996](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96515)
- - TID #46 (Research Park), [Legistar 87014](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96528)
- - TID #51 (South Madison), [Legistar 87015](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96529)
+-   TID #36 (Capitol Gateway), [Legistar 86995](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96514)
+-   TID #44 (Royster Clark), [Legistar 86996](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96515)
+-   TID #46 (Research Park), [Legistar 87014](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96528)
+-   TID #51 (South Madison), [Legistar 87015](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96529)
 
 The Commission then moved on to public hearings related to proposals for changes to TIDs in District 6 and District 12. Amending the TIDs and gaining board approval would allow the City to use expected increased tax increment to invest in those areas. Funds could be used for items such as redeveloping property, improvements to streets and lighting, as well as offer assistance to businesses. Typically, items are still in the conception phase; however, public improvements tend to be more planned out and “ready to go,” according to Rolls. Public improvement items in the current proposal include additional lighting along Fish Hatchery Road to increase public safety.
 
@@ -134,7 +134,7 @@ MTHP overall argued for changing the language in the new ordinance to include �
 
 #### Accessory Dwelling Units and Encroachments
 
-[Legistar 86650](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96221) 
+[Legistar 86650](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96221)
 
 Reaching their final item of the night, the Commission evaluated an amendment to a Chapter 28 section related to accessory dwelling units (ADUs) and other minor adjustments to residential zones to make infill housing easier to construct. Katie Bannon, the City’s Zoning Administrator, went over a request their office received in evaluating how the City can make single family homes easier to build and improve, as well as identify current obstacles in obtaining middle housing. Zoning found the main obstacles to be encroachment limits and usable space requirements.
 
@@ -148,8 +148,6 @@ This is in contrast to Madison resident Linda Leonard’s stance that usable spa
 
 Commissioner Heck asked for more information from Bannon on the impact in increasing height limits for ADUs, to which Bannon replied the height was outside of their investigative scope, but she had no objections so long as the units did not match or exceed the existing single family structures. The Plan Commission decided to ask for an amendment to their height to allow for an increase before going over issues for upcoming meetings and adjourning for the night. At their next meeting, residents can expect the conditional use for a drive through window on Lien Road to be discussed, as well as updates to FEMA’s flood plain requirements and how the city will have to address changes in order to remain eligible for flood insurance.
 
-
-
 ### 2025-3-3, Tuesday 5:30pm
 
 By Tori Cooper
@@ -158,29 +156,29 @@ Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky
 
 [Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235146&GUID=17573E4C-D31A-4C88-A095-1426BAABB724)
 
-
 The March 3, 2025 Plan Commission Meeting discussed the following actions:
 
-1. Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip be denied.
-2. 
+1.  Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip be denied.
+2.  Recommend that Council amend the Lamp House Report to make it clear that did not adopt its recommended changes to height restrictions around the Lamp House.
+3.  Approved conditional use for a drive-through coffee shop in a TOD overlay district at 3915 Lien Road.
+4.  Approved demolition single-family homes and recommended rezoning around 922 Fair Oaks, 3222 East Washington for future multi-family.
+5.  Recommended Council reject rezoning and preliminary plat for new Leo Living subdivision at 6303 Portage Road.
 
 Before diving in to their key items, the Commission referred discussion of conditional use at 3915 Lien Road in District 3, in which a dive through window for a coffee shop is being requested ([Legistar 86523](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96099)). Additionally, the Committee unanimously passed their consent agenda, which included:
 
 #### Consent Agenda
 
-
- - Creating Chapter 21 of the Madison General Ordinances related to **Zoning Floodplain Regulations** and Maps ([Legistar 86804](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96353))
- - Amending various sections within Chapter 28 of the Madison General Ordinances to remove **floodplain references** ([Legistar 86807](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96356))
-Creating Section 28.022-00703 of the Madison General Ordinances to change the zoning of property located at 321 Russell Street from PD (Planned Development) District to TSS (Traditional Shopping Street) District. (District 6) ([Legistar 86989](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96508))
- - **623 N Lake Street** (District 2): Consideration of a **conditional use** in the Downtown Residential 2 (DR2) District for a multi-family dwelling with greater than eight (8) dwelling units, and consideration of a conditional use in the DR2 District for a lodging house, all to allow alterations to an approved eight-story mixed-use building to contain 21 apartments and a ten-room lodging house. ([Legistar 86728](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96285))
- - **1240 Sherman Avenue** (District 6): Consideration of a **conditional use** to allow construction of two accessory buildings on a lakefront parcel ([Legistar 86857](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96406)).
- - Adjacent to **3111 Burke Road**, Town of Sun Prairie: Consideration of a **Certified Survey Map** within the City's Extraterritorial Jurisdiction to create one residential lot ([Legistar 86860](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96409)).
+-   Creating Chapter 21 of the Madison General Ordinances related to **Zoning Floodplain Regulations** and Maps ([Legistar 86804](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96353))
+-   Amending various sections within Chapter 28 of the Madison General Ordinances to remove **floodplain references** ([Legistar 86807](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96356)) Creating Section 28.022-00703 of the Madison General Ordinances to change the zoning of property located at 321 Russell Street from PD (Planned Development) District to TSS (Traditional Shopping Street) District. (District 6) ([Legistar 86989](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96508))
+-   **623 N Lake Street** (District 2): Consideration of a **conditional use** in the Downtown Residential 2 (DR2) District for a multi-family dwelling with greater than eight (8) dwelling units, and consideration of a conditional use in the DR2 District for a lodging house, all to allow alterations to an approved eight-story mixed-use building to contain 21 apartments and a ten-room lodging house. ([Legistar 86728](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96285))
+-   **1240 Sherman Avenue** (District 6): Consideration of a **conditional use** to allow construction of two accessory buildings on a lakefront parcel ([Legistar 86857](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96406)).
+-   Adjacent to **3111 Burke Road**, Town of Sun Prairie: Consideration of a **Certified Survey Map** within the City's Extraterritorial Jurisdiction to create one residential lot ([Legistar 86860](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96409)).
 
 #### 77 Sirloin Strip Development
 
-[Demoltion, Legistar 86732](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96289)
-[Conditional Use, Legistar 86733](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96290)
-[Zoning, Legistar 86990](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96509)
+-   [Demoltion, Legistar 86732](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96289)
+-   [Conditional Use, Legistar 86733](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96290)
+-   [Zoning, Legistar 86990](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96509)
 
 A new development proposal has been submitted for 77 sirloin strip in district 14 on Madison’s south side. The application covers demolition (legislar 86732), rezoning from Traditional Residential- Varied 2 to Traditional Residential- Urban 1 (TR-V2 to TR-U1 under Legistar 86990), and consideration of conditional use in a TR-U1 zone for a multi-family dwelling to allow for a 74 unit, 55+ Senior Living apartment building (Legistar 86733).
 
@@ -196,35 +194,40 @@ The situation gave the Commission pause, as Commissioner Solheim draw attention 
 
 [Legistar 86824](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96373)
 
-The commission moved on to discuss a potential Amendment to the Report of the Lamp House Block Ad Hoc Plan. Previously, the report cited concerns over further developing the Lamphouse, as it is listed on the National Register for Historic Places due to having been designed by Frank Lloyd Wright. Despite rezoning in 2012, the City previously decided against approving development in order to preserve Madison’s scenic views of the lake and Capitol. 
+The commission moved on to discuss a potential Amendment to the Report of the Lamp House Block Ad Hoc Plan. Previously, the report cited concerns over further developing the Lamphouse, as it is listed on the National Register for Historic Places due to having been designed by Frank Lloyd Wright. The report called for the maintenance of several lines of sight both to the Lamp House from the street and from the Lamp House out to Lake Mendota. This is in conflict with the 6 story height limits in the surrounding areas. In 2021, Council considered whether to officially alter nearby height limits to match what was requested in the Lamp House report, but rejected the idea. Nonetheless, staff consider the Lamp House report to be a part of city plans, and so will not allow development that conflicts with it.
+
+Alder Bennett proposed an amendment to the Lamp House report to eliminate recommendations to preserve views that limit development opportunities. This was met with criticism at Landmarks Commission, who in particular were concerned that editing the report itself disrespected the integrity of the original recommendations. Alder Field proposed a substitute ammendment that would place an adendem at the end of the Lamp House report stating that Council chose not to change height limits in response to the report. This is intended to end the conflict between city plans and the Lamp House report that has prevented development.
 
 Bruce Bosben, who currently owns the Lamphouse, has previously applied to further develop the building while preserving the design while adding residential space above the existing structure in order to meet the city’s current housing needs in the downtown area. Bosben has no desire to demolish the building, but notes that it is currently not sustainable as a stand-alone tourist attraction, even with its status as a Frank Lloyd Wright structure. As part of his venture, which began in 2014, Bosben has been in contact with the Frank Lloyd Wright Conservancy in Chicago. According to the Chicago office, there is no reason not to add residential space above the Lamphouse, so long as the integrity and as much of the original architecture as possible is preserved.
 
-While Bosben aims to maintain the property and keep it true to its original architecture, aside from the proposed additions, the Madison Historical Trust is highly against further development. Opponents such as Jack Holzhueter went as far as to request a vote be passed “to put [the proposal] on file with prejudice [because] this is a self-serving act on the part of individuals.” This led Alder Bennett to further inquire into Bosben’s conversations with the Frank Lloyd Wright Conservancy. Bosben reiterated the Conservancy feels they “must advocate for the protection of Wright resources;” however, they are in favor of the project because it would allow for redevelopment while placing Wright’s work as a key, functioning competent in the new structure. Bosben clarified the Lamphouse is not falling apart, taking credit for being a “good custodian” despite how harsh student renters can be on this and similar properties he owns, and stated he did not want this to be a fight with the City, but would like to find some sort of middle ground in order to help address the housing crisis.
-
-
+While Bosben aims to maintain the property and keep it true to its original architecture, aside from the proposed additions, the Madison Historical Trust is highly against further development. Opponents such as Jack Holzhueter went as far as to request a vote be passed “to put \[the proposal\] on file with prejudice \[because\] this is a self-serving act on the part of individuals.” This led Alder Bennett to further inquire into Bosben’s conversations with the Frank Lloyd Wright Conservancy. Bosben reiterated the Conservancy feels they “must advocate for the protection of Wright resources;” however, they are in favor of the project because it would allow for redevelopment while placing Wright’s work as a key, functioning competent in the new structure. Bosben clarified the Lamphouse is not falling apart, taking credit for being a “good custodian” despite how harsh student renters can be on this and similar properties he owns, and stated he did not want this to be a fight with the City, but would like to find some sort of middle ground in order to help address the housing crisis.
 
 #### Lein Road Coffee Shop
 
+[Legistar 86523](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96099)
+
 Further discussion occurred regarding the Consideration of a conditional use in the Commercial Corridor-Transitional (CC-T) District and Transit-Oriented Development (TOD) Overlay District for a drive-through window to allow construction a coffee shop with drive-through window (legistar 86523). The proposed coffee shop, which would be located at 3915 Lien Road in District 3, aims to offer two drive through lanes, as well as a walk-up window option for pedestrians. City Staff believe the conditional use conditions have been met, as there is ample, safe space for pedestrian use and cyclists would be able to use the lanes just as a vehicle would. The only notable concerns brought to the commission were grading surrounding the build site, as the flat is lower than the neighboring streets of East Washington Avenue and Lein Road.
 
-Subsequently, Alder field requested more information regarding accessibility. Malena Olivera, a representative in attendance on behalf of te developers, Plaza Street Partners, provided clarification on how they are currently looking to how to add additional access points that will be both handi-capable and ADA compliant, depending on how many they can add and where they will be able to get approval for the access points’ locations while taking into consideration the grade and safety of existing retaining walls. Alder Field also inquired as to whether or not the Plan Commission could request additional signage requirements in order to make access points easier to locate and navigate. City Staff member Parks clarified they cannot control signage, but they could advise and/or advocate for additional postings. Field made a movement to request language on signage to be added, to which Commissioner Tuttle weighed in and the Plan Commission was agreeable with. Ultimately, the request was approved before moving on to the next topic of the evening.
+Subsequently, Alder Field requested more information regarding accessibility. Malena Olivera, a representative in attendance on behalf of the developers, Plaza Street Partners, provided clarification on how they are currently looking to how to add additional access points that will be both handi-capable and ADA compliant, depending on how many they can add and where they will be able to get approval for the access points’ locations while taking into consideration the grade and safety of existing retaining walls. Alder Field also inquired as to whether or not the Plan Commission could request additional signage requirements in order to make access points easier to locate and navigate. City Staff member Parks clarified they cannot control signage, but they could advise and/or advocate for additional postings. Field made a motion to request language on signage to be added, to which Commissioner Tuttle weighed in and the Plan Commission was agreeable with. Ultimately, the request was approved before moving on to the next topic of the evening.
 
-#### Demolitions and Future Use
+#### Demolitions and rezoning around 922 Fair Oaks, 3222 East Washington
 
-The Commission quickly reviewed demolition and future use for two locations. The first parcel, located at 922-926 N Fair Oaks Avenue in District 12, included Legistars 86734 and 86991. Consideration calls for the demolition of two single-family homes and rezoning from a TR-C1 (Traditional Residential-Consistent 1) District to a CC-T (Commercial Corridor-Transitional) District. The second concerned 3222, 3230, and 3238 E Washington Avenue, also in District 12, regarding the consideration of a demolition permit to demolish three single-family residences.This is in conjunction with legistar 86992, which allows for the to change the zoning of property located at 3222-3238 East Washington Avenue and 3229 Ridgeway Avenue from a TR-C1 (Traditional Residential-Consistent 1) district and a TR-C4 (Traditional Residential-Consistent 4) district to TR-U2 (Traditional Residential-Urban 2) district. All four items passed, allowing for further development to take place within District 12.
- 6303 Portage Road and 4821 Hoepker Road
- 
-#### LEO Living Subdivision Plat 
- 
+-   [Demolition 922-926 N Fair Oaks Legistar 86734](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96291)
+-   [Rezoning 922-926 N Fair Oaks Legistar 86991](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96510)
+-   [Demolition 3222-3238 East Washington Legistar 86735](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96292)
+-   [Rezoning 3222-3238 East Washington Legistar 86992](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96511)
+
+The Commission quickly reviewed demolition and future use for two locations. The first parcel, located at 922-926 N Fair Oaks Avenue in District 12, included Legistars 86734 and 86991. Consideration calls for the demolition of two single-family homes and rezoning from a TR-C1 (Traditional Residential-Consistent 1) District to a CC-T (Commercial Corridor-Transitional) District. The second concerned 3222, 3230, and 3238 E Washington Avenue, also in District 12, regarding the consideration of a demolition permit to demolish three single-family residences.This is in conjunction with legistar 86992, which changes the zoning of property located at 3222-3238 East Washington Avenue and 3229 Ridgeway Avenue from a TR-C1 (Traditional Residential-Consistent 1) district and a TR-C4 (Traditional Residential-Consistent 4) district to TR-U2 (Traditional Residential-Urban 2) district. All four items passed, allowing for further development to take place within District 12. These changes make way for two future apartment developments.
+
+#### LEO Living Subdivision Plat at 6303 Portage Road
+
+-   [Rezoning Legistar 86993](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96512)
+-   [Preliminary Plat Legistar 86736](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96293)
+
 The final item of the night included legistars 86993 and 86736, which focus on development proposals at 6303 Portage Road and 4821 Hoepker Road in District 17. The first component was comprised of changing the zoning of the property located at 6303 Portage Road and 4821 Hoepker Road from a Temp. A (Temporary Agricultural) District to an A (Agricultural) District, as well as changing the zoning of the property located at 6303 Portage Road and 4821 Hoepker Road from a Temp. A (Temporary Agricultural) District to a TR-P (Traditional Residential-Planned) District. The second consisted of approving the preliminary plat of the LEO Living on property addressed as 6303 Portage Road and 4821 Hoepker Road.
 
-Staff immediately proposed denying the requests, stating they do not believe the proposal fits their recommendation for the site due topographical concerns within the 6303 parcel. Namely, the intermittent stream located on the property and floodplains. Due to this, Staff referenced the likelihood of future structural issues due to erosion, even with the plan’s inclusion of retaining walls.
+Staff immediately proposed denying the requests, stating they do not believe the proposal fits their city plans for the site due topographical concerns within the 6303 parcel. Namely, the intermittent stream located on the property and floodplains and other topographical issues led city plans ([Pumpkin Hollow Neighborhood Plan](https://www.cityofmadison.com/dpced/planning/documents/Pumpkin_Hollow_NDP.pdf) and \[Rattman Neighborhood Plan(https://www.cityofmadison.com/dpced/planning/documents/Rattman_NDP_update_070219.pdf)\]) to not call for housing on the developed portion of the land. Due to this, Staff referenced the likelihood of future structural issues due to erosion, even with the plan’s inclusion of retaining walls.
 
-Joann Rubio, a member of the development team proposing future housing on the parcels, stated they believe their team would be meeting the Pumpkin Hollow development objectives by constructing a mixed-use building which would be available to families, seniors, and community resources. Rubio further argued the Department of Natural Resources does not include the intermittent stream in their 1988 assessment as an environmental corridor—noting the DNR has not issue with the proposed building plans so long as the developer recognizes and utilized the natural drain-off. Rubio also mentioned retaining walls were only included in the proposal due to the developer’s haste in getting their paperwork submitted to the City, but that they were open to modifications and suggestions on how to best address both the flood plains and grading of the parcels.
-Commissioner Solheim asked Staff Tim Parks to review the DNR’s assessment, to which Parks responded, noting the City is aware of the stream’s impact on the parcel. Parks emphasized its importance, noting is is protected by both “law and environmental ethos,” and clarifying its not being included in the DNR’s assessment does not negate its importance to local waterways. According to City records and the Staff report, the intermittent stream begins on the property before joining other tributaries that ultimately flow into Starkwater Creek.
+Joann Rubio, a member of the development team proposing future housing on the parcels, stated they believe their team would be meeting the Pumpkin Hollow development objectives by constructing a mixed-use building which would be available to families, seniors, and community resources. Rubio further argued the Department of Natural Resources does not include the intermittent stream in their 1988 assessment as an environmental corridor—noting the DNR has not issue with the proposed building plans so long as the developer recognizes and utilized the natural drain-off. Rubio also mentioned retaining walls were only included in the proposal due to the developer’s haste in getting their paperwork submitted to the City, but that they were open to modifications and suggestions on how to best address both the flood plains and grading of the parcels. Commissioner Solheim asked Staff Tim Parks to review the DNR’s assessment, to which Parks responded, noting the City is aware of the stream’s impact on the parcel. Parks emphasized its importance, noting is is protected by both “law and environmental ethos,” and clarifying its not being included in the DNR’s assessment does not negate its importance to local waterways. According to City records and the Staff report, the intermittent stream begins on the property before joining other tributaries that ultimately flow into Starkwater Creek.
 
-Solheim moved to put the rezoning request on file without prejudice due to inconsistencies with Ratman’s and Pumpkin Hollow’s development objectives, as well as zoning incompatibility/failure to meet future use requirements and was passed by the Plan Commission. Solheim then moved to deny the approval of the preliminary plat due to concerns over stormwater and street recommendations. The Commission agreed and legistar 86736 was denied before the meeting adjourned.
-
-
-
+Solheim moved to put the rezoning request on file without prejudice due to inconsistencies with Rattman’s and Pumpkin Hollow’s development objectives, as well as zoning incompatibility/failure to meet future use requirements and was passed by the Plan Commission. Solheim then moved to deny the approval of the preliminary plat due to concerns over stormwater and street recommendations. The Commission agreed and legistar 86736 was denied before the meeting adjourned.
