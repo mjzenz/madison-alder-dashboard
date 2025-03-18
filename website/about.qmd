@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+Madison Councilytics is a project of ZENZ Analytics, which promotes the availability of information and analysis of state and local politics and good governance.
+
+## Madison Councilytics Team
+
+### Michael Zenz
+
+### Tori Cooper
+
+### Diane Zenz

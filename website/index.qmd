@@ -21,7 +21,7 @@ load("alder_data_processed.RData")
 
 ```{r}
 #| label: tbl-YIMBY_percentage
-#| tbl-cap: Percentage of votes by active alders that were pro-housing (YIMBY).
+#| tbl-cap: Percentage of contested votes by active alders that were pro-housing (YIMBY).
 #| echo: false
 #| warning: false
 #| message: false
