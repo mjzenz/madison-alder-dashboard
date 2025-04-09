@@ -109,3 +109,33 @@ kableExtra::kable(YIMBY.prop, "html") |>
 
 
 ```
+
+
+Loop version
+
+```{r}
+#| label: tbl-all-votes2
+#| tbl-cap: Contested votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red.
+#| echo: false
+#| warning: false
+#| message: false
+
+
+
+library(kableExtra)
+
+kable(YIMBY.vote.list, "html", escape = FALSE) %>%
+  # Loop over columns 6 to 25
+  purrr::reduce(6:25, ~ .x %>% 
+              column_spec(.y, 
+              color = ifelse(
+              ((YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "Y") |
+              (!YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "N")) |
+                                  is.na(YIMBY.vote.list[[as.character(.y)]]), 
+                                "blue", "red")), .init = .) %>%
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+```
+
+

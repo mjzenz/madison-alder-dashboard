@@ -14,11 +14,11 @@ website:
     logo-href: https://councilytics.mjzenz.org
     background: "#66cbff"
     left: 
-  #    - text: What Happened at
-   #     menu:  
-    #     - Plan_Commission.qmd
-     #    - Landmarks.qmd
-  #    - about.qmd
+      - text: What Happened at
+        menu:  
+         - Plan_Commission.qmd
+         - Landmarks.qmd
+      - about.qmd
       - text: Who's Your Alder?
         href: https://www.cityofmadison.com/council/councilmembers/findAlderByAddress.cfm
     #right:
