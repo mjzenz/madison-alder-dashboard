@@ -68,7 +68,7 @@ The Plan Commission continued their meeting, moving their focus to **development
 
 A motion was made and the request was **approved unanimously.**
 
-####Mackenzie House
+#### Mackenzie House
 
 The committee reviewed the National Register of Historic Places **nomination** for the Mackenzie House, located at **2525 Marshall Parkway** in **District 13** [Legistar 86953](URL). Not only does the home have distinctive architecture, but there is also an archaeological site on the property.
 
@@ -79,7 +79,7 @@ The nomination was supported by the Landmarks Commission, who will submit commen
 The commission also discussed an **addition** proposal in the University Heights Historic District, specifically **2006 Van Hise Avenue** in **District 5** [Legistar 86669](URL). After reviewing the Certificate of Appropriateness for the Mediterranean revival style home, which was constructed in 1924, the Commission went over the proposed work. This includes the construction of a new rear addition, replacement of non-historic windows, masonry repair, and miscellaneous site work. Ultimately, the Commission **approved** the proposal.
 
 
-###Landmarks Commission Meeting Notes - Monday March 10, 2025
+### Landmarks Commission Meeting Notes - Monday March 10, 2025
 By Diane Zenz
 
 The commission members met virtually at 5pm with all present except Katie Kal, who arrived at 5:20 pm.  Richard Arnesen chaired the meeting until Kal’s arrival. Only one item was moved to the consent agenda, which passed unanimously:
