@@ -111,31 +111,35 @@ kableExtra::kable(YIMBY.prop, "html") |>
 ```
 
 
-Loop version
 
-```{r}
-#| label: tbl-all-votes2
-#| tbl-cap: Contested votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red.
-#| echo: false
-#| warning: false
-#| message: false
-
+<!-- ```{r} -->
+<!-- #| label: tbl-all-votes2 -->
+<!-- #| tbl-cap: Contested votes of active alders, listed by their district. YIMBY votes in blue, anti-YIMBY votes in red. -->
+<!-- #| echo: false -->
+<!-- #| warning: false -->
+<!-- #| message: false -->
 
 
-library(kableExtra)
 
-kable(YIMBY.vote.list, "html", escape = FALSE) %>%
-  # Loop over columns 6 to 25
-  purrr::reduce(6:25, ~ .x %>% 
-              column_spec(.y, 
-              color = ifelse(
-              ((YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "Y") |
-              (!YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "N")) |
-                                  is.na(YIMBY.vote.list[[as.character(.y)]]), 
-                                "blue", "red")), .init = .) %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+<!-- library(kableExtra) -->
+
+<!-- kable(YIMBY.vote.list, "html", escape = FALSE) %>% -->
+<!--   # Loop over columns 6 to 25 -->
+<!--   purrr::reduce(6:25, ~ .x %>%  -->
+<!--               column_spec(.y,  -->
+<!--               color = ifelse( -->
+<!--               ((YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "Y") | -->
+<!--               (!YIMBY.vote.list$YIMBY & YIMBY.vote.list[[as.character(.y)]] == "N")) | -->
+<!--                                   is.na(YIMBY.vote.list[[as.character(.y)]]),  -->
+<!--                                 "blue", "red")), .init = .) %>% -->
+<!--   kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) -->
 
 
-```
+<!-- ``` -->
+
+
+## Methodology
+
+The "YIMBY voting scale" is intended to be an objective measure of the pro-housing alignment of Madison Common Council Members. However, you should be highly skeptical of any measure that purportes to be "objective," because every measure of attitudes requires some value judgements. Our measure is no different! When evaluating a vote we employ maximalist YIMBY criteria, even though this is not necessarily how we would vote: Housing developments should always be approved if they meet minimal standards for safety and functionality; all zoning that prevents the most housing possible from being built should always be eliminated; transportation policy should promote car-free living (or at least the ability to live without a car). All alder votes relevant to YIMBY issues are weighted equally, with votes on particular amendments or motions of an issue averaged together so that an issue doesn't get more weight because it was voted on multiple times.    
 
 

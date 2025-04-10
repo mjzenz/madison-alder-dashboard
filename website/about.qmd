@@ -2,12 +2,18 @@
 title: "About"
 ---
 
-Madison Councilytics is a project of ZENZ Analytics, which promotes the availability of information and analysis of state and local politics and good governance.
-
 ## Madison Councilytics Team
 
-### Michael Zenz
+The purpose of Madison Councilytics (other than having a funny name) is to bring information about their city government to the people of Madison. And in particular we focus on housing, land use, and transportation policy. 
 
 ### Tori Cooper
 
+Tori is a native Madisonian and graduate of both MMSD and the University of Wisconsin-Madison. Tori earned a BA in English Literature along with a certificate in Chican@ and Latin@ Studies, but “for some unknown reason” has pursued a financial career where she is surrounded by numbers. In addition to working with ZENZ Analytics outside of her normal nine-to-five, Tori has also been an Election Official for the City of Madison since the 2016 General Election, moving to a Chief Inspector position in 2021. When not working, you can find Tori propagating her ever growing collection of plants, tending to the myriad of pets she has, or off on another adventure with her “bestie.”
+
 ### Diane Zenz
+
+Diane was born and raised in Florence, WI, but has lived in Green Bay for the past 50 years. She is married with two adult children and enjoys spending time with them, their spouses and her two grandchildren. She attended UW-Green Bay and graduated with a Bachelors of Science in Social Work 1995. She was employed by Brown County Human Services her entire career and primarily worked with adults with mental illness and developmental disabilities. She retired in 2011. Since her retirement, she has enjoyed traveling throughout the USA and Europe and has made many friends along the way. She has a love for history and architecture and especially loves old buildings.
+
+### Mike Zenz
+
+Mike started watching Madison Common Council, Plan Commission and other public meetings during the pandemic and (for some reason) he hasn't stopped since. These days he live-tweets most of these meetings [on Bluesky](https://bsky.app/profile/therealzenz.bsky.social). He also enjoys writing bad R code, making better coffee, and thinking about political philosophy and ethics. Learn more about these other pursuits at [mjzenz.org](mjzenz.org). 
