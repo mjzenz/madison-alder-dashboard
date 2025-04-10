@@ -6,7 +6,7 @@ On Monday night, the City of Madison’s Landmarks Commission met to discuss sev
  - [Legistar 86590](URL): **Land Combination/Division** at **1937 Arlington Place** and **2013-2021 Chamberlain Ave** in the University Heights Historic District located in **District 5**
  - [Legistar 86668](URL): An **addition to a Designated Madison Landmark,** namely St. Bernard’s Catholic Church, located at **2450 Atwood Ave** in **District 15** 
 
-####Amending the 2013 Report of the Lamp House Block Ad Hoc Plan Committee[Legistar 86824](URL).
+#### Amending the 2013 Report of the Lamp House Block Ad Hoc Plan Committee[Legistar 86824](URL).
 
 The Lamp House is a Frank Lloyd Wright building situated two blocks northeast of the Capitol.  It was built in 1903 and is the oldest Wright building in Madison.  It was added to the National Register of Historic Places in 1978.  The mid-block location (unique among Wright’s works) is bound by East Washington, Mifflin, Webster, and Butler Streets.  It is only accessible from Butler Street via a narrow, ascending driveway on a right of way between two homes. The keyhole lot then opens up, producing a compression/ release dynamic encountered frequently in Wright's works. Although completely landlocked, the home originally provided viewscapes comparable to lakefront residential buildings. It has always been surrounded on all four sides by residential buildings and although the southern viewshed towards Lake Monona has been cut off by a high-rise on the adjacent lot and the westward view toward the Capitol was blocked by new construction in 2015, the penthouse enclosure (added on the roof) still has a view of Lake Mendota to the North and west.  This three story building has exposed basement windows and a rooftop garden.
 
