@@ -86,9 +86,9 @@ The commission members met virtually at 5pm with all present except Katie Kal, w
 
  - Request for **Certificate of Appropriateness** regarding exterior alteration of signage in the Third Lake Ridge Historic District for a property located at **315 S. Blount St** in **District 6** [Legistar 87365](https://madison.legistar.com/LegislationDetail.aspx?ID=7149217&GUID=0835CE4C-A5C6-44EA-AEA5-2D82088D4AFA&Options=ID|Text|&Search=87365).
 
-####Benjamin and Amy Butts House
+#### Benjamin and Amy Butts House
 
-The first item of the night was approving a **landmark nomination** for the **Benjamin and Amy Butts house,** located at **633 East Johnson Street** in **District 6** [Legistar 87159](URL). Staff recommends this property for nomination indicating it meets Criteria A & B. 
+The first item of the night was approving a **landmark nomination** for the **Benjamin and Amy Butts house,** located at **633 East Johnson Street** in **District 6** [Legistar 87159](https://madison.legistar.com/LegislationDetail.aspx?ID=7134940&GUID=0E8FFD08-F5B9-43C5-AB4D-06EC4D9243B4&Options=ID|Text|&Search=87159). Staff recommends this property for nomination indicating it meets Criteria A & B. 
 
 Regarding criteria A, the House is associated with the broad patterns of cultural, political, economic, or social history of the nation, state or community. The nomination makes a well-documented case for this property’s association with the early era of Madison’s African-American community. Madison’s Underrepresented Communities Historic Resources Survey identifies this period as spanning from Madison’s first recorded African- American resident in 1839 until the early 20th Century.  The activism and community - building undertaken by the Butts family while they lived at this home had a significant effect on their community as Madison grew.  
 
@@ -114,7 +114,7 @@ Staff believe the standards are met for granting the Certificate of Appropriaten
 
 #### Mansion Hill Historic District
 
-The commission shifted their focus to the **combination of land and new construction** at **124 East Gorham Street** in the Mansion Hill Historic District, which resides in **District 2** [Legistar 87103](URL).
+The commission shifted their focus to the **combination of land and new construction** at **124 East Gorham Street** in the Mansion Hill Historic District, which resides in **District 2** [Legistar 87103](https://madison.legistar.com/LegislationDetail.aspx?ID=7130279&GUID=726ADE85-F867-4C30-B501-98AE1331BE04&Options=ID|Text|&Search=87103).
 
 Joel Koeppen, design leader of Kahler Slater INC,  submitted materials and presented the plans. This included:
 
@@ -130,7 +130,7 @@ Keeping the lot separate with a new residential structure at the front, which wo
 
 The informational presentation is exploring the feasibility of the second option. Staff have concerns about the massing, contextual setback, and architectural character of the proposed new construction. Connecting the new structure to the carriage house will also raise problems with Zoning standards. The historic carriage house needs space so that it is not obscured. If the property is a part of the landmark site, then the new construction will need to look like it belongs to that site, but with significant separation from the historic resources so that the new construction does not overwhelm them.  
  
-Commissioner Morrison commented the lot sizes need to be considered and look at comparable structures in the area.  The carriage house connector can be tricky and recommend making the connector look like it could be removed.  The lowering of the roof line to 4 stories helps a lot.  Proportion of window space to wall space seems off and makes the windows look small. Similarly, Commissioner Kal stated the porches look too modern and suggests making the front of the building more pronounced and less like a driveway.
+Commissioner Morrison commented the lot sizes need to be considered and look at comparable structures in the area.  The carriage house connector can be tricky and recommend making the connector look like it could be removed. The lowering of the roof line to 4 stories helps a lot.  Proportion of window space to wall space seems off and makes the windows look small. Similarly, Commissioner Kal stated the porches look too modern and suggests making the front of the building more pronounced and less like a driveway.
 
 Bob Klebba spoke in opposition. Klebba also owns the Governor’s Mansion Inn, a boutique hotel located at 130 East Gillman St. Klebba explained the current Brown House and carriage house resembles the original look of the area with the buildings on the large lots, using historical maps to give the Commision a visual representation. Klebba further complained how neighboring lots have been filled in with 1950’s apartment buildings as well as the 1970’s Verex Plaza building, which provide no context to the National Landmark buildings.
 
@@ -138,7 +138,7 @@ Bruce Bosben of Apex Properties spoke in support his company, as Apex Properties
 
 Commissioner Arnesen stated their belief that the proposed building is too large for the site and crowds out the carriage house. They further voiced concern about brick size for the project, which proposes using a modular size brick rather than a utility size brick. Alternatively, Commissioner Taylor stated he likes the way the building looks and argued the owner is making an effort. 
 
-Alder Latimer Burris mentioned wanting to take a look at the property, stating the proposal is a lot to digest expressing the desire for more time to get additional feedback.  Alder Latimer Burris asked if the Madison Trust has weighed in at all, to which Heather Bailey responded the Madison Trust has not weighed in, but the Commission will hear from them when an actual application is completed. 
+Alder Latimer Burris mentioned wanting to take a look at the property, stating the proposal is a lot to digest expressing the desire for more time to get additional feedback. Alder Latimer Burris asked if the Madison Trust has weighed in at all, to which Heather Bailey responded the Madison Trust has not weighed in, but the Commission will hear from them when an actual application is completed. 
 
 Commissioner Harris spoke on how the Carriage House is not designated a Historical site, only the Brown house—drawing attention to how the primary consideration at hand is the new construction.
 
@@ -146,13 +146,13 @@ Koeppen thanked the Commission for their input and comments before stating they 
 
 #### 2604 Waunona Way
 
-Proposed **demolition** of buildings located at **2604 Waunona Way** in **Distract X** was also on the evening’s agenda [Legistar 86033](URL). Having been built between 1901 and 1902, Staff recommended a finding of historical value related to vernacular architecture; however, the building itself is not historically significant. This property is also located within the boundary of the Waunona Mounds site and any ground-disturbing activity would need to secure a Request to Disturb from the Wisconsin State Archaeologist and notify the Ho-Chunk National Tribal Historic Preservation Office.
+Proposed **demolition** of buildings located at **2604 Waunona Way** in **Distract 14** was also on the evening’s agenda [Legistar 86033](https://madison.legistar.com/LegislationDetail.aspx?ID=7018190&GUID=E100353D-F94B-42DD-8568-E51B450CDFF4&Options=ID|Text|&Search=86033). Having been built between 1901 and 1902, Staff recommended a finding of historical value related to vernacular architecture; however, the building itself is not historically significant. This property is also located within the boundary of the Waunona Mounds site and any ground-disturbing activity would need to secure a Request to Disturb from the Wisconsin State Archaeologist and notify the Ho-Chunk National Tribal Historic Preservation Office.
 
 The commission determined there is no historical value to the home, but acknowledged the Waunona Mounds site and the need to secure a Request to Disturb. A motion was made to approve and **unanimously passed.**
 
 #### Short Items
 
-With the meeting nearing a close, the Commission quickly reviewed historical value for **6105 South Highland Avenue** in **District X** and **2326 Vondron Drive** in **District X.**
+With the meeting nearing a close, the Commission quickly reviewed historical value for **6105 South Highland Avenue** in **District X** and **2326 Vondron Drive** in **District 16.**
 
 Although 6105 South Highland Avenue is a single family home built in 1875, Staff recommended no historic value. Similarly, 2326 Vondron Road was not recommended to have historic value as it was built in 2000. Notably, 2326 suffered a fire, which has lead the Madison Fire Department to submit a request to demolish the commercial building.
 
