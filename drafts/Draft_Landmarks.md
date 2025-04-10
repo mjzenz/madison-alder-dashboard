@@ -28,7 +28,7 @@ Their statements were echeod by Robert Klebba, a well known preservationist with
 
 After much discussion a motion was made to return the request to LEAD with the Recommendation to **Place on File without Prejudice** to the Plan Commission. **The motion passed unanimously.** 
 
-####Repealing and recreating Section 28.185 and creating Section 41.28 of the Madison General Ordinances related to demolition of buildings to update the approval process [Legistar 86649](URL).
+#### Repealing and recreating Section 28.185 and creating Section 41.28 of the Madison General Ordinances related to demolition of buildings to update the approval process [Legistar 86649](URL).
 
 The Landmarks Commission currently sees all requests for demolition to determine historical value then the application goes to the Planning Commission where a Public Hearing is held before being either approved or denied.  
 
@@ -52,7 +52,7 @@ Eleven people from the community spoke against the proposed change. There were c
 
 A motion was made to return this to LEAD with the **recommendation for approval of the revised language** in the historic preservation ordinance with the addition of language regarding archaeology under historic value Criterion C (No Historic Value). The landmarks Commission requested Common Council re-refer the item to the Landmarks Commission in order to have sufficient time to review the zoning section of the ordinance. **The motion passed unanimously.** 
 
-####1 South Ingersol Street
+#### 1 South Ingersol Street
 
 The Plan Commission continued their meeting, moving their focus to **development adjacent to a designated Madison landmark** at the Gisholt Machine Co. Manufacturing Complex at 1301 East Washington Avenue [Legistar 86671](URL). The historic property in question: **1 South Ingersoll St.** in **District 6.** Proposed work is fairly extensive, including: 
 
@@ -102,7 +102,7 @@ While Elizabeth Miller was present for questions, there were none and the public
 
 Motion made by Maurice Taylor, which was seconded by Jacob Morrison before being **passed unanimously.**
 
-####St. Bernard’s Catholic Church
+#### St. Bernard’s Catholic Church
 
 The next item up for discussion was the request for a **Certificate of Appropriateness** for an addition to St. Bernard’s Catholic Church, a designated Madison landmark located at **2450 Atwood Avenue** in **District 15.** Specifically,the request is to build onto the existing structure in order to construct a crypt.
 
@@ -112,7 +112,7 @@ Bradley Servin was available for questions and stated the roof for the crypt wil
 
 Staff believe the standards are met for granting the Certificate of Appropriateness and recommended the Landmarks Commission approve the project with conditions which relate to the specification for the new fencing and window details for the crypt to be approved by staff when available. The item **passed unanimously,** with conditions on the fencing and windows as stated.  
 
-####Mansion Hill Historic District
+#### Mansion Hill Historic District
 
 The commission shifted their focus to the **combination of land and new construction** at **124 East Gorham Street** in the Mansion Hill Historic District, which resides in **District 2** [Legistar 87103](URL).
 
@@ -144,13 +144,13 @@ Commissioner Harris spoke on how the Carriage House is not designated a Historic
 
 Koeppen thanked the Commission for their input and comments before stating they will continue to work towards a design that will meet the needs of the city while maintaining the integrity of the historical significance of the area. 
 
-####2604 Waunona Way
+#### 2604 Waunona Way
 
 Proposed **demolition** of buildings located at **2604 Waunona Way** in **Distract X** was also on the evening’s agenda [Legistar 86033](URL). Having been built between 1901 and 1902, Staff recommended a finding of historical value related to vernacular architecture; however, the building itself is not historically significant. This property is also located within the boundary of the Waunona Mounds site and any ground-disturbing activity would need to secure a Request to Disturb from the Wisconsin State Archaeologist and notify the Ho-Chunk National Tribal Historic Preservation Office.
 
 The commission determined there is no historical value to the home, but acknowledged the Waunona Mounds site and the need to secure a Request to Disturb. A motion was made to approve and **unanimously passed.**
 
-####Short Items
+#### Short Items
 
 With the meeting nearing a close, the Commission quickly reviewed historical value for **6105 South Highland Avenue** in **District X** and **2326 Vondron Drive** in **District X.**
 
@@ -158,7 +158,7 @@ Although 6105 South Highland Avenue is a single family home built in 1875, Staff
 
 The Commission agree with Staff, and a motion finding no historic value was **unanimously passed.**
 
-####Report Highlights
+#### Report Highlights
 
 During the annual report, it was mentioned that this was the second busiest year for the Plan Commission to date. The Secretary’s Report then reminded the Commission the new demolition process went into effect March 9, 2025, but the Landmarks Commission will still see all demolition applications.
 
