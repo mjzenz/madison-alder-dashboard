@@ -3,10 +3,10 @@ By Diane Zenz
 
 On Monday night, the City of Madison’s Landmarks Commission met to discuss several proposals and items--most notably the Lamphouse, development adjacent to an established historical building, and additions to historic districts. Among the consent agenda:
 
- - [Legistar 86590](URL): **Land Combination/Division** at **1937 Arlington Place** and **2013-2021 Chamberlain Ave** in the University Heights Historic District located in **District 5**
- - [Legistar 86668](URL): An **addition to a Designated Madison Landmark,** namely St. Bernard’s Catholic Church, located at **2450 Atwood Ave** in **District 15** 
+ - [Legistar 86590](https://madison.legistar.com/LegislationDetail.aspx?ID=7083905&GUID=1C14B4D8-A64F-4977-A5FB-35B775A0D772&Options=ID|Text|&Search=86590): **Land Combination/Division** at **1937 Arlington Place** and **2013-2021 Chamberlain Ave** in the University Heights Historic District located in **District 5**
+ - [Legistar 86668](https://madison.legistar.com/LegislationDetail.aspx?ID=7087048&GUID=67D752B6-921B-44D5-A340-DBC7E8588360&Options=ID|Text|&Search=86668): An **addition to a Designated Madison Landmark,** namely St. Bernard’s Catholic Church, located at **2450 Atwood Ave** in **District 15** 
 
-#### Amending the 2013 Report of the Lamp House Block Ad Hoc Plan Committee[Legistar 86824](URL).
+#### Amending the 2013 Report of the Lamp House Block Ad Hoc Plan Committee [Legistar 86824](https://madison.legistar.com/LegislationDetail.aspx?ID=7252915&GUID=C3767CD2-F2F0-4942-A46A-54DD4D55D7BD&Options=ID|Text|&Search=86824).
 
 The Lamp House is a Frank Lloyd Wright building situated two blocks northeast of the Capitol.  It was built in 1903 and is the oldest Wright building in Madison.  It was added to the National Register of Historic Places in 1978.  The mid-block location (unique among Wright’s works) is bound by East Washington, Mifflin, Webster, and Butler Streets.  It is only accessible from Butler Street via a narrow, ascending driveway on a right of way between two homes. The keyhole lot then opens up, producing a compression/ release dynamic encountered frequently in Wright's works. Although completely landlocked, the home originally provided viewscapes comparable to lakefront residential buildings. It has always been surrounded on all four sides by residential buildings and although the southern viewshed towards Lake Monona has been cut off by a high-rise on the adjacent lot and the westward view toward the Capitol was blocked by new construction in 2015, the penthouse enclosure (added on the roof) still has a view of Lake Mendota to the North and west.  This three story building has exposed basement windows and a rooftop garden.
 
@@ -28,7 +28,7 @@ Their statements were echeod by Robert Klebba, a well known preservationist with
 
 After much discussion a motion was made to return the request to LEAD with the Recommendation to **Place on File without Prejudice** to the Plan Commission. **The motion passed unanimously.** 
 
-#### Repealing and recreating Section 28.185 and creating Section 41.28 of the Madison General Ordinances related to demolition of buildings to update the approval process [Legistar 86649](URL).
+#### Repealing and recreating Section 28.185 and creating Section 41.28 of the Madison General Ordinances related to demolition of buildings to update the approval process [Legistar 86649](https://madison.legistar.com/LegislationDetail.aspx?ID=7139916&GUID=08ED78F9-21E9-4625-A20C-4A9C0AA97459&Options=ID|Text|&Search=86649).
 
 The Landmarks Commission currently sees all requests for demolition to determine historical value then the application goes to the Planning Commission where a Public Hearing is held before being either approved or denied.  
 
@@ -54,7 +54,7 @@ A motion was made to return this to LEAD with the **recommendation for approval 
 
 #### 1 South Ingersol Street
 
-The Plan Commission continued their meeting, moving their focus to **development adjacent to a designated Madison landmark** at the Gisholt Machine Co. Manufacturing Complex at 1301 East Washington Avenue [Legistar 86671](URL). The historic property in question: **1 South Ingersoll St.** in **District 6.** Proposed work is fairly extensive, including: 
+The Plan Commission continued their meeting, moving their focus to **development adjacent to a designated Madison landmark** at the Gisholt Machine Co. Manufacturing Complex at 1301 East Washington Avenue [Legistar 86671](https://madison.legistar.com/LegislationDetail.aspx?ID=7087063&GUID=32E195CA-F599-42CA-90D7-DD96947E85A6&Options=ID|Text|&Search=86671). The historic property in question: **1 South Ingersoll St.** in **District 6.** Proposed work is fairly extensive, including: 
 
  - Construct new rear addition
  - Replace non historic windows
@@ -70,13 +70,13 @@ A motion was made and the request was **approved unanimously.**
 
 #### Mackenzie House
 
-The committee reviewed the National Register of Historic Places **nomination** for the Mackenzie House, located at **2525 Marshall Parkway** in **District 13** [Legistar 86953](URL). Not only does the home have distinctive architecture, but there is also an archaeological site on the property.
+The committee reviewed the National Register of Historic Places **nomination** for the Mackenzie House, located at **2525 Marshall Parkway** in **District 13** [Legistar 86953](https://madison.legistar.com/LegislationDetail.aspx?ID=7126128&GUID=D509F9AD-62AB-4A39-817F-B782CA638A04&Options=ID|Text|&Search=86953). Not only does the home have distinctive architecture, but there is also an archaeological site on the property.
 
 The nomination was supported by the Landmarks Commission, who will submit comments as the certified local government to the State Preservation Review Board and National Park Service.  A motion made and the **passed unanimously.**
 
-####University Heights Historic District
+#### University Heights Historic District
 
-The commission also discussed an **addition** proposal in the University Heights Historic District, specifically **2006 Van Hise Avenue** in **District 5** [Legistar 86669](URL). After reviewing the Certificate of Appropriateness for the Mediterranean revival style home, which was constructed in 1924, the Commission went over the proposed work. This includes the construction of a new rear addition, replacement of non-historic windows, masonry repair, and miscellaneous site work. Ultimately, the Commission **approved** the proposal.
+The commission also discussed an **addition** proposal in the University Heights Historic District, specifically **2006 Van Hise Avenue** in **District 5** [Legistar 86669](https://madison.legistar.com/LegislationDetail.aspx?ID=7087049&GUID=3AD994DC-FA6A-4A18-ABAA-13EA1B703A52&Options=ID|Text|&Search=86669). After reviewing the Certificate of Appropriateness for the Mediterranean revival style home, which was constructed in 1924, the Commission went over the proposed work. This includes the construction of a new rear addition, replacement of non-historic windows, masonry repair, and miscellaneous site work. Ultimately, the Commission **approved** the proposal.
 
 
 ### Landmarks Commission Meeting Notes - Monday March 10, 2025
@@ -84,7 +84,7 @@ By Diane Zenz
 
 The commission members met virtually at 5pm with all present except Katie Kal, who arrived at 5:20 pm.  Richard Arnesen chaired the meeting until Kal’s arrival. Only one item was moved to the consent agenda, which passed unanimously:
 
- - Request for **Certificate of Appropriateness** regarding exterior alteration of signage in the Third Lake Ridge Historic District for a property located at **315 S. Blount St** in **District 6** [Legistar 87365](URL).
+ - Request for **Certificate of Appropriateness** regarding exterior alteration of signage in the Third Lake Ridge Historic District for a property located at **315 S. Blount St** in **District 6** [Legistar 87365](https://madison.legistar.com/LegislationDetail.aspx?ID=7149217&GUID=0835CE4C-A5C6-44EA-AEA5-2D82088D4AFA&Options=ID|Text|&Search=87365).
 
 ####Benjamin and Amy Butts House
 
