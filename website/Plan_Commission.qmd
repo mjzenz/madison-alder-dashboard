@@ -6,10 +6,36 @@ format:
 
 ---
 
+
 ## Meeting Summaries
 
+| Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
+|------------|---------------|----------------|--------------|-------|
+| 2025-4-7   | 0             | 0              | 0            | 0     |
+| 2025-3-17  | 0             | 0              | 60           | 60    |
+| 2025-3-3   | 0             | 0              | 0            | 0     |
+| 2025-2-3   | 0             | 0              | 0            | 0     |
+| 2025-1-20  | 0             | 0              | 0            | 0     |
+| 2025-1-13  | 0             | 0              | 0            | 0     |
+|------------|---------------|----------------|--------------|-------|
+| TOTAL      | 0             | 0              | 60           | 60    |
 
-### 2025-4-7, Tuesday 5:30pm
+*Table 1: Housing Approval Counts*
+
+ - [2025-4-7](#2025-4-7): Approved a new surface parking lot for a UW-Madison park-and-ride at 2230 Pennsylvania Avenue, and a new electric generator at Greentree Landfill.
+ - [2025-3-17](#2025-3-17): Approved a conditional use for a nightclub at Jay's, and a demolition permit for 210 Bernard Court.
+ - [2025-3-3](#2025-3-3): Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip, and recommended Council reject rezoning and preliminary plat for new Leo Living subdivision at 6303 Portage Road. Approved a conditional use for a drive-through coffee shop at 3915 Lien Road, and a demolition permit for 922 Fair Oaks Avenue.
+ - [2025-2-03](#2025-2-03): Staff discussed the progress report for the Madison comprehensive plan.
+ - [2025-1-20](#2025-1-20): Approved later operating hours for Essen Haus vollyball courts, and denied a demolition permit for two single-family homes on a single parcel at 1007 Edgewood Ave.
+
+
+## Meeting Details
+
+### 2025-4-7
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lmazzahv322g)
+
+
 
 By Tori Cooper
 
@@ -31,7 +57,7 @@ Tuesday night Madison was treated to another short and sweet Plan Commission mee
 
 #### Electric Generator for Green Tree Landfill
 
-Item 11 of the night focused on [Legistar 87469](https://madison.legistar.com/LegislationDetail.aspx?ID=7249848&GUID=7B2932B3-5397-4B49-87A1-16416F7BA8F2): **Conditional use** in the **Conservancy (CN) District** to allow for the installation and use of an emergency electric generator at the Greetree Landfill, located at **6802 Hammersley Road** in **District 20.**  Staff reviewed the proposal, noting the site is currently supported by one gas generator. The new electric generator is set to be installed on a pad directly next to the current unit, which sits 140 feet from the nearest residence. The emergency generator pad would be roughly five feet closer and is expected to run 20 hours a year total. The run time estimate is based on one hour a month for maintenance on the gas generator (twelve hours total) and power outages that would stop the existing unit’s pump and halt operation (expected eight hours a year, but would be weather dependent).
+Item 11 of the night focused on [Legistar 87469](https://madison.legistar.com/LegislationDetail.aspx?ID=7249848&GUID=7B2932B3-5397-4B49-87A1-16416F7BA8F2): **Conditional use** in the **Conservancy (CN) District** to allow for the installation and use of an emergency electric generator at the Greentree Landfill, located at **6802 Hammersley Road** in **District 20.**  Staff reviewed the proposal, noting the site is currently supported by one gas generator. The new electric generator is set to be installed on a pad directly next to the current unit, which sits 140 feet from the nearest residence. The emergency generator pad would be roughly five feet closer and is expected to run 20 hours a year total. The run time estimate is based on one hour a month for maintenance on the gas generator (twelve hours total) and power outages that would stop the existing unit’s pump and halt operation (expected eight hours a year, but would be weather dependent).
 
 Jay McLellan, a district resident, voiced concern over the need for the generator and their confusion surrounding communications sent out by City Engineering. McLellan stated they received a postcard last week with notice of tonight’s meeting, but no information on why an additional generator was slated to be installed at the landfill. This was concerning, as the location has a history of danger, with McLellan referencing the explosion of a home on Hammersley Road in the 1980’s as a result of gasses escaping the landfill. They had no issues with views or noise that would be caused by the new unit, but rather safety and how the need was assessed.
 
@@ -39,7 +65,7 @@ Jack Brody, present to answer questions on behalf of the City’s Engineering di
 
 The item **passed** with unanimous approval from the plan commission.
 
-#### Additional Park-and-Ride Lot for the University of Wisconsin-Madison
+#### Park-and-Ride Lot for the University of Wisconsin-Madison
 
 [Legistars 87471](https://madison.legistar.com/LegislationDetail.aspx?ID=7249866&GUID=C84FAF01-E6A2-4713-B787-08676CD4B989) and [87475](https://madison.legistar.com/LegislationDetail.aspx?ID=7249935&GUID=6CE0EA40-F16E-4286-AAF8-B920C465261E)
  both concerned additional parking for UW—the former being for **conditional use in an Industrial-Limited (IL) District** and the later for **approving a certified survey map** of a property owned by Madison Square Storage, LLC. in order to make way for a parking lot located at **2230 Pennsylvania Avenue** in **District 12.**
@@ -75,7 +101,9 @@ Tuttle also drew attention to several development highlights from this past year
 
 
 
-### 2025-3-17, Tuesday 5:30pm
+### 2025-3-17
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235147&GUID=D5D7C999-88C7-4DD3-A3F5-D01B181D4DDA)
 
 By Tori Cooper
 
@@ -108,11 +136,12 @@ Closing out the meeting, Secretary Tuttle mentioned a three week break in meetin
 
 
 
-### 2025-3-3, Tuesday 5:30pm
+### 2025-3-3
 
 By Tori Cooper
 
 Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3ljj5w7npkk2a)
+
 
 [Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235146&GUID=17573E4C-D31A-4C88-A095-1426BAABB724)
 
@@ -194,11 +223,12 @@ Solheim moved to put the rezoning request on file without prejudice due to incon
 
 
 
-### 2025-02-03, Tuesday 5:30pm
+### 2025-02-03
 
 By Tori Cooper
 
 [Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235144&GUID=15A19A7C-6944-4DD4-B5EB-CCDE285764AC)
+
 
 #### Consent Agenda
 
@@ -230,7 +260,7 @@ Commissioner Solheim requested clarification on how the City anticipates adverti
 
 
 
-### 2025-01-13, Tuesday 5:30pm
+### 2025-01-13
 
 By Tori Cooper
 
