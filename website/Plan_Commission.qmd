@@ -3,41 +3,47 @@ title: "Plan Commission"
 format: 
   html:
     toc: true
+    toc-location: left
 
 ---
 
 
 ## Meeting Summaries
 
-| Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
-|------------|---------------|----------------|--------------|-------|
-| 2025-4-7   | 0             | 0              | 0            | 0     |
-| 2025-3-17  | 0             | 0              | 60           | 60    |
-| 2025-3-3   | 0             | 0              | 0            | 0     |
-| 2025-2-3   | 0             | 0              | 0            | 0     |
-| 2025-1-20  | 0             | 0              | 0            | 0     |
-| 2025-1-13  | 0             | 0              | 0            | 0     |
-|------------|---------------|----------------|--------------|-------|
-| TOTAL      | 0             | 0              | 60           | 60    |
+ - [2025-04-7](#april-7-2025): Approved a new surface parking lot for a UW-Madison park-and-ride at 2230 Pennsylvania Avenue, and a new electric generator at Greentree Landfill.
+ - [2025-03-17](#march-17-2025): Approved a conditional use for a nightclub at Jay's, and a demolition permit for 210 Bernard Court.
+ - [2025-03-03](#march-3-2025): Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip, and recommended Council reject rezoning and preliminary plat for new Leo Living subdivision at 6303 Portage Road. Approved a conditional use for a drive-through coffee shop at 3915 Lien Road, and a demolition permit for 922 Fair Oaks Avenue.
+ - [2025-02-03](#february-3-2025): Staff discussed the progress report for the Madison comprehensive plan.
+ - [2025-01-13](#january-13-2025): Approved later operating hours for Essen Haus vollyball courts, and denied a demolition permit for two single-family homes on a single parcel at 1007 Edgewood Ave.
+
 
 *Table 1: Housing Approval Counts*
 
- - [2025-4-7](#2025-4-7): Approved a new surface parking lot for a UW-Madison park-and-ride at 2230 Pennsylvania Avenue, and a new electric generator at Greentree Landfill.
- - [2025-3-17](#2025-3-17): Approved a conditional use for a nightclub at Jay's, and a demolition permit for 210 Bernard Court.
- - [2025-3-3](#2025-3-3): Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip, and recommended Council reject rezoning and preliminary plat for new Leo Living subdivision at 6303 Portage Road. Approved a conditional use for a drive-through coffee shop at 3915 Lien Road, and a demolition permit for 922 Fair Oaks Avenue.
- - [2025-2-03](#2025-2-03): Staff discussed the progress report for the Madison comprehensive plan.
- - [2025-1-20](#2025-1-20): Approved later operating hours for Essen Haus vollyball courts, and denied a demolition permit for two single-family homes on a single parcel at 1007 Edgewood Ave.
+| Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
+|------------|---------------|----------------|--------------|-------|
+| 2025-04-07 | 0             | 0              | 0            | 0     |
+| 2025-03-17 | 0             | 0              | 60           | 60    |
+| 2025-03-03 | 0             | 0              | 0            | 0     |
+| 2025-02-03 | 0             | 0              | 0            | 0     |
+| 2025-01-20 | 0             | 0              | 0            | 0     |
+| 2025-01-13 | 0             | 0              | 0            | 0     |
+| **TOTAL**  | **0**         | **0**          | **60**       | 60    |
+
+
+
 
 
 ## Meeting Details
 
-### 2025-4-7
+### April 7, 2025
+
+
+By Tori Cooper
 
 Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lmazzahv322g)
 
 
 
-By Tori Cooper
 
 Tuesday night Madison was treated to another short and sweet Plan Commission meeting, with the ten items being passed with the evening’s consent agenda and three items making it to the floor—two of which were bundled together.
 
@@ -101,13 +107,14 @@ Tuttle also drew attention to several development highlights from this past year
 
 
 
-### 2025-3-17
-
-[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235147&GUID=D5D7C999-88C7-4DD3-A3F5-D01B181D4DDA)
+### March 17, 2025
 
 By Tori Cooper
 
-The March 3, 2025 Plan Commission Meeting was short and sweet, with most of the items being passed or placed on file without prejudice as part of this week’s consent agenda. Although Alder Field, along with Commissioners McCahill and Mendez, disclosed their affiliation with the University of Wisconsin-Madison, Commissioner Mendez was the only member to abstain from voting on the 210 Bernard Court demolition, as Mendez has direct involvement with the project. Alder Field and Commissioner McCahill stated for the record they are not involved in the request and their employment status at the University would not impact their votes.
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235147&GUID=D5D7C999-88C7-4DD3-A3F5-D01B181D4DDA)
+
+
+The March 17th, 2025 Plan Commission Meeting was short and sweet, with most of the items being passed or placed on file without prejudice as part of this week’s consent agenda. Although Alder Field, along with Commissioners McCahill and Mendez, disclosed their affiliation with the University of Wisconsin-Madison, Commissioner Mendez was the only member to abstain from voting on the 210 Bernard Court demolition, as Mendez has direct involvement with the project. Alder Field and Commissioner McCahill stated for the record they are not involved in the request and their employment status at the University would not impact their votes.
 
 The consent agenda consisted of six items total, three of which were passed unanimously and three of which were placed on file without prejudice.
 
@@ -132,11 +139,11 @@ Commissioner Heck led the discussion with Wanserski, clarifying that live music 
 
 #### Closing Remarks
 
-Closing out the meeting, Secretary Tuttle mentioned a three week break in meetings and heavier agendas coming next month due to the April 1st election and Alder turnover. Along with providing updates regarding 77 Sirloin Strip from the Common Council Meeting, Secretary Tuttle also noted the Lamphouse substitute was adopted by the Madison Alders. The Commission adjourned, with the next meeting scheduled for Monday, April 7th.
+Closing out the meeting, Secretary Tuttle mentioned a three week break in meetings and heavier agendas coming next month due to the April 1st election and Alder turnover. Along with providing updates regarding 77 Sirloin Strip from the Common Council Meeting, Secretary Tuttle also noted the Lamp House substitute was adopted by the Madison Alders. The Commission adjourned, with the next meeting scheduled for Monday, April 7th.
 
 
 
-### 2025-3-3
+### March 3, 2025
 
 By Tori Cooper
 
@@ -179,17 +186,17 @@ Julian Walters, a representative from Imminent Development assured the Commissio
 
 The situation gave the Commission pause, as Commissioner Solheim draw attention to how the plans provided with the application do not include some of the spaces Walters mentioned, in addition to Staff’s concerns over the height of the building and construction in an area of Madison which is already getting a considerable facelift as part of the 2025 Comprehensive Plan. While Commissioner Heck was concerned over WHEDA’s cyclical funding, the Commission ultimately placed all three items on file as the plans seemed “half-baked.” The items will be revisited at the March 17th, 2025 meeting to allow Imminent Development and Sketchworks to create a more holistic plan before the Commission makes a decision.
 
-#### Ammending The Lamphouse Report
+#### Amending The Lamp House Report
 
 [Legistar 86824](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96373)
 
-The commission moved on to discuss a potential Amendment to the Report of the Lamp House Block Ad Hoc Plan. Previously, the report cited concerns over further developing the Lamphouse, as it is listed on the National Register for Historic Places due to having been designed by Frank Lloyd Wright. The report called for the maintenance of several lines of sight both to the Lamp House from the street and from the Lamp House out to Lake Mendota. This is in conflict with the 6 story height limits in the surrounding areas. In 2021, Council considered whether to officially alter nearby height limits to match what was requested in the Lamp House report, but rejected the idea. Nonetheless, staff consider the Lamp House report to be a part of city plans, and so will not allow development that conflicts with it.
+The commission moved on to discuss a potential Amendment to the Report of the Lamp House Block Ad Hoc Plan. Previously, the report cited concerns over further developing the Lamp House, as it is listed on the National Register for Historic Places due to having been designed by Frank Lloyd Wright. The report called for the maintenance of several lines of sight both to the Lamp House from the street and from the Lamp House out to Lake Mendota. This is in conflict with the 6 story height limits in the surrounding areas. In 2021, Council considered whether to officially alter nearby height limits to match what was requested in the Lamp House report, but rejected the idea. Nonetheless, staff consider the Lamp House report to be a part of city plans, and so will not allow development that conflicts with it.
 
 Alder Bennett proposed an amendment to the Lamp House report to eliminate recommendations to preserve views that limit development opportunities. This was met with criticism at Landmarks Commission, who in particular were concerned that editing the report itself disrespected the integrity of the original recommendations. Alder Field proposed a substitute ammendment that would place an adendem at the end of the Lamp House report stating that Council chose not to change height limits in response to the report. This is intended to end the conflict between city plans and the Lamp House report that has prevented development.
 
-Bruce Bosben, who currently owns the Lamphouse, has previously applied to further develop the building while preserving the design while adding residential space above the existing structure in order to meet the city’s current housing needs in the downtown area. Bosben has no desire to demolish the building, but notes that it is currently not sustainable as a stand-alone tourist attraction, even with its status as a Frank Lloyd Wright structure. As part of his venture, which began in 2014, Bosben has been in contact with the Frank Lloyd Wright Conservancy in Chicago. According to the Chicago office, there is no reason not to add residential space above the Lamphouse, so long as the integrity and as much of the original architecture as possible is preserved.
+Bruce Bosben, who currently owns the Lamp House, has previously applied to further develop the building while preserving the design while adding residential space above the existing structure in order to meet the city’s current housing needs in the downtown area. Bosben has no desire to demolish the building, but notes that it is currently not sustainable as a stand-alone tourist attraction, even with its status as a Frank Lloyd Wright structure. As part of his venture, which began in 2014, Bosben has been in contact with the Frank Lloyd Wright Conservancy in Chicago. According to the Chicago office, there is no reason not to add residential space above the Lamp House, so long as the integrity and as much of the original architecture as possible is preserved.
 
-While Bosben aims to maintain the property and keep it true to its original architecture, aside from the proposed additions, the Madison Historical Trust is highly against further development. Opponents such as Jack Holzhueter went as far as to request a vote be passed “to put \[the proposal\] on file with prejudice \[because\] this is a self-serving act on the part of individuals.” This led Alder Bennett to further inquire into Bosben’s conversations with the Frank Lloyd Wright Conservancy. Bosben reiterated the Conservancy feels they “must advocate for the protection of Wright resources;” however, they are in favor of the project because it would allow for redevelopment while placing Wright’s work as a key, functioning competent in the new structure. Bosben clarified the Lamphouse is not falling apart, taking credit for being a “good custodian” despite how harsh student renters can be on this and similar properties he owns, and stated he did not want this to be a fight with the City, but would like to find some sort of middle ground in order to help address the housing crisis.
+While Bosben aims to maintain the property and keep it true to its original architecture, aside from the proposed additions, the Madison Historical Trust is highly against further development. Opponents such as Jack Holzhueter went as far as to request a vote be passed “to put \[the proposal\] on file with prejudice \[because\] this is a self-serving act on the part of individuals.” This led Alder Bennett to further inquire into Bosben’s conversations with the Frank Lloyd Wright Conservancy. Bosben reiterated the Conservancy feels they “must advocate for the protection of Wright resources;” however, they are in favor of the project because it would allow for redevelopment while placing Wright’s work as a key, functioning competent in the new structure. Bosben clarified the Lamp House is not falling apart, taking credit for being a “good custodian” despite how harsh student renters can be on this and similar properties he owns, and stated he did not want this to be a fight with the City, but would like to find some sort of middle ground in order to help address the housing crisis.
 
 #### Lein Road Coffee Shop
 
@@ -223,7 +230,7 @@ Solheim moved to put the rezoning request on file without prejudice due to incon
 
 
 
-### 2025-02-03
+### February 3, 2025
 
 By Tori Cooper
 
@@ -260,7 +267,7 @@ Commissioner Solheim requested clarification on how the City anticipates adverti
 
 
 
-### 2025-01-13
+### January 13, 2025
 
 By Tori Cooper
 
@@ -297,6 +304,6 @@ The Committee also addressed reapplication to demolish two adjacent single-famil
 
 #### 6201 Old Middleton Rd., Certified Survey Map
 
-Legistar 86415\](https://madison.legistar.com/LegislationDetail.aspx?ID=7045770&GUID=E7CBF326-10DD-41C0-8100-61BF440A7FFC)
+[Legistar 86415](https://madison.legistar.com/LegislationDetail.aspx?ID=7045770&GUID=E7CBF326-10DD-41C0-8100-61BF440A7FFC)
 
 After spending over an hour hearing speakers in support and opposition of the demolition application, the committee wrapped up their meeting with a brief review and vote towards approving an official survey map for a parcel located at 6201 Old Middleton Road on Madison’s west side. While questions were raised about the accuracy of an aerial survey that had been conducted, City staff Chris Wells confirmed the discrepancy, noting that aerial surveys are often only estimates whereas physical surveys yield actual square footage of the area in question. The intended use for the lot(s) in question would include one or multiple deep end residences. The movement for an official survey passed unanimously, and intended use will be determined at a later time, pending the survey’s findings.

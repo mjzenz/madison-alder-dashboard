@@ -4,11 +4,11 @@ title: "About"
 
 ## Madison Councilytics Team
 
-The purpose of Madison Councilytics (other than having a funny name) is to bring information about their city government to the people of Madison. And in particular we focus on housing, land use, and transportation policy. 
+The purpose of Madison Councilytics is to bring information about their city government to the people of Madison. And in particular we focus on housing, land use, and transportation policy. 
 
 ### Tori Cooper
 
-Tori is a native Madisonian and graduate of both MMSD and the University of Wisconsin-Madison. Tori earned a BA in English Literature along with a certificate in Chican@ and Latin@ Studies, but “for some unknown reason” has pursued a financial career where she is surrounded by numbers. In addition to working with ZENZ Analytics outside of her normal nine-to-five, Tori has also been an Election Official for the City of Madison since the 2016 General Election, moving to a Chief Inspector position in 2021. When not working, you can find Tori propagating her ever growing collection of plants, tending to the myriad of pets she has, or off on another adventure with her “bestie.”
+Tori is a native Madisonian and graduate of both MMSD and the University of Wisconsin-Madison. Tori earned a BA in English Literature along with a certificate in Chican@ and Latin@ Studies, but “for some unknown reason” has pursued a financial career where she is surrounded by numbers. In addition to working with Councylitics outside of her normal nine-to-five, Tori has also been an Election Official for the City of Madison since the 2016 General Election, moving to a Chief Inspector position in 2021. When not working, you can find Tori propagating her ever growing collection of plants, tending to the myriad of pets she has, or off on another adventure with her “bestie.”
 
 ### Diane Zenz
 
@@ -16,4 +16,4 @@ Diane was born and raised in Florence, WI, but has lived in Green Bay for the pa
 
 ### Mike Zenz
 
-Mike started watching Madison Common Council, Plan Commission and other public meetings during the pandemic and (for some reason) he hasn't stopped since. These days he live-tweets most of these meetings [on Bluesky](https://bsky.app/profile/therealzenz.bsky.social). He also enjoys writing bad R code, making better coffee, and thinking about political philosophy and ethics. Learn more about these other pursuits at [mjzenz.org](mjzenz.org). 
+Mike started watching Madison Common Council, Plan Commission and other public meetings during the pandemic and (for some reason) he hasn't stopped. These days he live-tweets most of these meetings [on Bluesky](https://bsky.app/profile/therealzenz.bsky.social). He also enjoys writing bad R code, making better coffee, and thinking about political philosophy and ethics. Learn more about these other pursuits at [mjzenz.org](https://www.mjzenz.org). 

@@ -74,14 +74,17 @@ YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
   filter(is.na(`End Date`)) %>%
   arrange(Date, `Legistar`, `Vote #`) %>%
-  mutate(Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
+  mutate(date = Date,
+         Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
          Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
-  select(Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
-  group_by(Date, Legistar,  `Vote #`, `Short title`,`Aldermanic District`) %>%
+  select(date,Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
+  group_by(date,Date, Legistar,  `Vote #`, `Short title`,`Aldermanic District`) %>%
   mutate(Vote = substr(Vote, 1, 1), 
          `Vote #` = ifelse(is.na(`Vote #`), 1, `Vote #`)) %>%
   pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
-  select(Date, Legistar, `Vote #`, `Short Title` = `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
-         `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) 
+  select(date,Date, Legistar, `Vote #`, `Short Title` = `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
+         `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) %>%
+  ungroup() %>%
+  arrange(desc(date), Legistar, `Vote #`)
 
 save.image(file="website/alder_data_processed.RData")
