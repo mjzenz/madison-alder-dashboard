@@ -40,14 +40,15 @@ All in all, while the Commission like certain aspects of the design, just about 
 The Plan Commission recommended to approve an alternate resolution to the Lamphouse Ad Hoc Report. Attached to the approval was an appendix which included changes previously discussed by the Urban Design Committee--namely, outright protecting View 1, while protecting Views 2 and 3 as appropriate in conjunction with downtown heigh maps and zoning codes. Additionally the LEO development‘s preliminary plat on Madison’s East side was denied and  placed on file without prejudice. Lastly, the Plan Commission took the Urban Design Commission’s recommendation regarding Seven Brew Coffee development planned for East Washington Avenue, approving the proposal with the condition of adding additional pedestrian way-finding.
 
 
-### 2025-2-19
+### 2025-2-19, Monday 4:30pm
+by Tori Cooper
 
 
 The Urban Design Committee convened February 19th to unanimously pass the evening’s consent agenda and review two additional items: a new office-warehouse building proposal in District 16 and plans for the 7 Brew coffee application slated for District 3.
 
 #### Consent Agenda:
 
- - [Legistar 86819](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96367): **Exterior modifications** to an existing public building in **Urban Design District 8,8* located at **1 South Ingersoll Street** in **District 6.**
+ - [Legistar 86819](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96367): **Exterior modifications** to an existing public building in **Urban Design District 8,** located at **1 South Ingersoll Street** in **District 6.**
 
 #### 5001 Femrite Drive
 
@@ -93,7 +94,7 @@ Commissioner Bernau also pointed out the wave-type bike rack used in WYSER’s p
 
 After extensive discussion, the Commission ultimately **approved the initial design.**
 
-###3 Secretary’s Report
+### 3 Secretary’s Report
 
 It was noted that the Plan Commission will be the approving body on upcoming changes proposed for demolition permits submitted to the City of Madison. The move stems from the City’s desire to remove administrative tasks from the purview of various Commissions and Committees and instead relocate them to City Staff who are more familiar with the requirements and ordinances associated with applications.
 
