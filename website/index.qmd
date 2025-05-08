@@ -1,5 +1,5 @@
 ---
-title: "Madison Common Council Voting Record"
+title: "Voting Record"
 format: 
   html:
     toc: true
@@ -20,7 +20,9 @@ load("alder_data_processed.RData")
 
 ```
 
-## % YIMBY Voting Record of Current Alders, 2023-25 term
+## YIMBY Score
+
+The % of votes that are pro-housing (YIMBY) for each active alder. The YIMBY score is calculated as the number of pro-housing votes divided by the total number of contested votes.  See #yimby-score for methedological details.
 
 ```{r}
 #| label: tbl-YIMBY_percentage
@@ -295,6 +297,8 @@ YIMBY.vote.list.2023 <- YIMBY.vote.list %>%
 
 
 ## Methodology
+
+### YIMBY Score
 
 The "YIMBY" ("Yes in my backyard") voting scale is intended to be an objective measure of the pro-housing alignment of Madison Common Council Members. However, you should be highly skeptical of any measure that purports to be "objective," because every scale of attitudes requires some value judgement. Our measure is no different! When evaluating a vote we employ maximalist YIMBY criteria, even though this is not necessarily how we would vote and is not the view of any particular pro-housing advocates or organization. But it provides a useful reference point. The standard holds that housing developments should always be approved if they meet minimal standards for safety and functionality; zoning that prevents the most housing possible from being built should be eliminated; transportation policy should promote car-free living (or at least the ability to live without a car). All alder votes relevant to YIMBY issues are weighted equally, with votes on particular amendments or motions of an item averaged together so that an item doesn't get more weight because it had multiple votes for amendments, etc. 
 
