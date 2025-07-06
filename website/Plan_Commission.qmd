@@ -10,6 +10,12 @@ format:
 
 ## Meeting Summaries
 
+- [2025-06-23](#june-23-2025): Approved a 93-unit affordable housing development on Verona Road and WMC building replacement on E Wash.
+- [2025-06-09](#june-9-2025): Approved several significant housing developments, including at 3535-3553 University Ave. and Voit Farm, and multiple zoning code amendments to streamline development processes.
+- [2025-06-02](#june-2-2025): Special meeting focused on land use law education and area plan updates.
+- [2025-05-19](#may-19-2025): No substantive items
+- [2025-05-12](#may-12-2025): Approved a conditional use for a 21-unit apartment building at 305 Bear Claw Way, and discussed updates to the city's code of conduct.
+ - [2025-04-28](#april-28-2025): Denied a conditional use for Minocqua Brewing Company to allow amplified sound on an outdoor eating patio, and approved a conditional use for Brennan's Market to allow outdoor music and a restaurant-nightclub.
  - [2025-04-7](#april-7-2025): Approved a new surface parking lot for a UW-Madison park-and-ride at 2230 Pennsylvania Avenue, and a new electric generator at Greentree Landfill.
  - [2025-03-17](#march-17-2025): Approved a conditional use for a nightclub at Jay's, and a demolition permit for 210 Bernard Court.
  - [2025-03-03](#march-3-2025): Recommended that Council deny a rezoning request for a 74 unit apartment development at 77 Sirloin Strip, and recommended Council reject rezoning and preliminary plat for new Leo Living subdivision at 6303 Portage Road. Approved a conditional use for a drive-through coffee shop at 3915 Lien Road, and a demolition permit for 922 Fair Oaks Avenue.
@@ -17,23 +23,542 @@ format:
  - [2025-01-13](#january-13-2025): Approved later operating hours for Essen Haus vollyball courts, and denied a demolition permit for two single-family homes on a single parcel at 1007 Edgewood Ave.
 
 
-*Table 1: Housing Approval Counts*
+*Table 1: 2025 Housing Approval Counts*
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
 |------------|---------------|----------------|--------------|-------|
+| 2025-06-23 | 0             | 0              | 316          | 316   |
+| 2025-06-09 | 0             | 0              | 302          | 302   |
+| 2025-05-19 | 0             | 0              | 0            | 0     |
+| 2025-05-12 | 0             | 0              | 21           | 21    |
+| 2025-04-27 | 0             | 0              | 0            | 0     |
 | 2025-04-07 | 0             | 0              | 0            | 0     |
 | 2025-03-17 | 0             | 0              | 60           | 60    |
 | 2025-03-03 | 0             | 0              | 0            | 0     |
 | 2025-02-03 | 0             | 0              | 0            | 0     |
 | 2025-01-20 | 0             | 0              | 0            | 0     |
 | 2025-01-13 | 0             | 0              | 0            | 0     |
-| **TOTAL**  | **0**         | **0**          | **60**       | 60    |
+|**Total**   | **0**         |**0**           | **699**      |**699**|
 
 
 
 
 
 ## Meeting Details
+
+
+### June 23, 2025
+
+By Michael Zenz with the help of Claude AI
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lscuzblzzs2e)
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235180&GUID=1AE942D8-20A9-4784-A074-0C0E92305B79)
+
+The Madison Plan Commission held a virtual meeting on June 23, 2025, approving several significant development projects including a contentious 93-unit affordable housing development that sparked debate about comprehensive planning and residential safety standards.
+
+#### Major Affordable Housing Approval
+
+##### Verona Road Mixed-Use Development
+
+[Legistar 87879](https://madison.legistar.com/LegislationDetail.aspx?ID=7296853&GUID=2A23EFFC-AF18-4493-866B-086652874422)
+
+The Commission unanimously approved a conditional use for a five-story mixed-use building at 4506-4514 Verona Road containing 324 square feet of commercial space and 93 apartments. This project became the evening's most controversial item due to concerns about comprehensive plan consistency and pedestrian safety.
+
+![Verona Road Development](resources/PC_2025-06-23_2.jpg){#fig-PC_2025-06-23_2}
+
+**Project Details:**
+- 45 one-bedroom units
+- 23 two-bedroom units  
+- 25 two-bedroom units
+- Approximately 1 parking space per unit (underground)
+- 324 square feet of rentable commercial space
+- WHEDA-funded affordable housing
+- On-site amenities include play area, community room, and case-management space
+
+**Staff Concerns:**
+The item was referred from the previous meeting, with staff expressing concerns that the location is designated as general commercial in the comprehensive plan and may be inconsistent with residential use. Staff noted the site is designed for big-box retail development, and the comprehensive plan calls for commercial rather than residential use.
+
+![Verona Road Site](resources/PC_2025-06-23_1.jpg){#fig-PC_2025-06-23_1}
+
+Madison Police Department expressed skepticism about pedestrian safety and anticipated more service calls. Routes to nearby parks require crossing Verona Road, and the frontage road carries approximately 3,500 cars per day.
+
+**Applicant Response:**
+The developer addressed traffic and highway proximity concerns by describing sound mitigation measures, sheltered open spaces, and walkability to parks and groceries. They assured that the shared driveway with University Book Store would not be affected.
+
+![Nearby Bus Routes](resources/PC_2025-06-23_7.jpg){#fig-PC_2025-06-23_7}
+
+![Nearby Bike Routes](resources/PC_2025-06-23_8.jpg){#fig-PC_2025-06-23_8}
+
+**Community Opposition:**
+The Orchard Ridge Neighborhood Association, located west of the site, expressed concerns about traffic safety in the area. Some residents characterized the placement of low-income housing in this location as "modern redlining" and creating a "polluted ghetto." One resident specifically mentioned concerns about increased police calls associated with the low-income development.
+
+**Planning Discussion:**
+The project highlighted tensions between housing needs and comprehensive planning. While the site is already zoned Commercial Center (CC), which allows residential use through conditional use permits, the comprehensive plan designates the area for general commercial use. Staff noted that conditional uses don't necessarily need to be consistent with the comprehensive plan, but the plan serves as evidence for appropriateness.
+
+A key issue was the developer's use of minimal commercial space (~350 square feet) to classify the project as "mixed use," thereby exceeding the 50-unit limit typically allowed in the zone - a strategy described as exploiting a zoning code loophole to enable more housing.
+
+**Commission Decision:**
+Chair Gnam questioned the applicant's walk time calculations, noting her own 12-minute walk to a park the applicant claimed was 4 minutes away.
+
+Alder Field questioned why general commercial areas shouldn't allow housing when mixed-use areas do. Staff explained that recent area plan changes from mixed-use to general commercial were made due to proximity to freeways or large commercial developments inconsistent with housing.
+
+Alder Guequierre moved to approve the conditional use, stating that walking times to amenities and the Southwest Path support housing at this location. He noted that he personally walked the area and found pedestrian access "very good" without "a scary amount of traffic." He suggested that big-box retail patterns are changing nationally and locally, and that the Southwest Area Plan might alter future land use designations.
+
+Commissioner Wasniewski supported approval, saying his children had traversed the area safely in the past.
+
+The Commission found that conditional use standards 1, 2, 4, and 8 were met based on:
+- Additional information in supplemental materials
+- Safety and ease of pedestrian access, including paths and crosswalks
+- Available access to parks and amenities
+- Plans for improvements at Britta Park
+- Potential long-term transitions of large-format retail areas
+
+#### University Bay Drive Projects
+
+##### Lakeshore Nature Preserve Visitor Center
+
+[Legistar 87841](https://madison.legistar.com/LegislationDetail.aspx?ID=7268816&GUID=6CA4779B-C71D-4E51-9346-F3A9C80E0778), [Legistar 87657](https://madison.legistar.com/LegislationDetail.aspx?ID=7268816&GUID=6CA4779B-C71D-4E51-9346-F3A9C80E0778), & [Legistar 88477](https://madison.legistar.com/LegislationDetail.aspx?ID=7268816&GUID=6CA4779B-C71D-4E51-9346-F3A9C80E0778)
+
+The Commission recommended approval of rezoning property at 1970-1978 University Bay Drive from CN (Conservancy) to PR (Parks and Recreation) District and conditional uses for an 11,500 square-foot visitor center for the Lakeshore Nature Preserve on the University of Wisconsin-Madison campus. The project also included street vacation and realignment to accommodate the development.
+
+Commissioner Mendez recused himself from these items due to his employment with UW-Madison and direct involvement in the proposal.
+
+#### East Washington Avenue Development
+
+##### WMC Foundation Building Replacement
+
+[Legistar 88203](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB), [Legistar 88204](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB), & [Legistar 88209](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB)
+
+![WMC Building Replacement](resources/PC_2025-06-23_10.jpg){#fig-PC_2025-06-23_3}
+
+The Commission approved demolition of an office building at 501 E Washington Avenue and conditional uses for a seven-story, 223-unit apartment building in Urban Design District 4. The project also included a certified survey map approval.
+
+#### Tax Incremental Financing Districts
+
+The Commission approved several TID amendments, including:
+
+[Legistar 88728](https://madison.legistar.com/LegislationDetail.aspx?ID=7433816&GUID=B2B3C40D-1401-4C74-BB93-2CEBFD089A50) - Tax Incremental District #55 (Voit Farm) for affordable housing development
+
+Additional TID approvals:
+- [Legistar 88724](https://madison.legistar.com/LegislationDetail.aspx?ID=88724) - TID #42 (Wingra) amendment
+- [Legistar 88725](https://madison.legistar.com/LegislationDetail.aspx?ID=88725) - TID #45 (Capitol Square West) amendment  
+- [Legistar 88726](https://madison.legistar.com/LegislationDetail.aspx?ID=88726) - TID #48 (Regent Street) amendment
+- [Legistar 88727](https://madison.legistar.com/LegislationDetail.aspx?ID=88727) - TID #53 (East Wilson Street) amendment
+
+#### Referred Items
+
+Several items were re-referred to future meetings at applicant requests:
+
+- [Legistar 88449](https://madison.legistar.com/LegislationDetail.aspx?ID=88449) & [Legistar 88206](https://madison.legistar.com/LegislationDetail.aspx?ID=88206) - Reiland Grove development with 264 single-family lots and multi-family residences (re-referred to July 7, 2025)
+- [Legistar 88341](https://madison.legistar.com/LegislationDetail.aspx?ID=88341) - Private school conditional use at 1402 Pankratz Street (re-referred to future meeting)
+- [Legistar 88336](https://madison.legistar.com/LegislationDetail.aspx?ID=88336) - 80-unit apartment building at 709 Northport Drive (re-referred to July 7, 2025)
+
+#### Additional Approvals
+
+[Legistar 88450](https://madison.legistar.com/LegislationDetail.aspx?ID=88450) - Rezoning 1138 Williamson Street from TR-V2 to TSS (Traditional Shopping Street)
+
+The meeting highlighted ongoing tensions between housing advocacy and comprehensive planning, with the Verona Road decision demonstrating the Commission's willingness to prioritize housing development even when it conflicts with adopted land use plans. The discussion underscored the importance of comprehensive plan designations in determining development appropriateness and revealed strategies developers use to maximize housing density within existing zoning frameworks.
+
+### June 9, 2025
+
+By Tori Cooper
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lr7hspe6mk2g)
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235179&GUID=A87E133B-6897-4364-96F6-69DB2F322DBD)
+
+The Madison Plan Commission held a virtual meeting on June 9, 2025, approving several significant housing developments and multiple zoning code amendments to streamline development processes.
+
+#### Zoning Code Amendments
+
+##### Conditional Use Extensions Clarification
+
+[Legistar 88003](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97340)
+
+Staff presented proposed language changes to clarify that conditional uses for alterations are eligible for time extensions, not just the projects themselves. The goal was to make it clearer that Plan Commission approval is also extended when the City extends it, up to one year.
+
+Linda Leferntz, the first registered speaker, agreed that extensions hadn't been an issue in the past but voiced concern that the proposed language could still be clearer and might be misused by staff and developers because it was "too broad." Commissioner Bhasin questioned what specific problem the language change was trying to address.
+
+Zoning Administrator Katie Bannon explained that alterations do not need to come back to Plan Commission if they're minor, but the current language makes it seem as if the Commission cannot approve minor alterations if they are approved by the city. The modification clarifies that Plan Commission approval is also extended when the City extends it.
+
+After clarification, the item passed unanimously.
+
+##### Place of Worship Requirements
+
+[Legistar 88006](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97343)
+
+Although part of the zoning packet, Linda Leonards spoke in strong opposition to changes regarding place of worship capacity requirements. She claimed "600 is too many for capacity," mentioning that the same type of higher classification street requires conditional use. She argued the conditional use would no longer give preference to smaller, local streets. Despite her opposition, the Plan Commission passed the item unanimously.
+
+##### Restaurant and Alcohol-Related Uses
+
+[Legistar 88319](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97599)
+
+Staff Bannon presented changes to streamline alcohol and entertainment licensing. Currently, Madison requires an additional entertainment license (beyond conditional use) if you have an alcohol license and want amplified sound indoors. The proposed changes aim to be quicker to obtain and more business-friendly while placing less administrative burden on the City.
+
+Linda Leonards spoke passionately against the changes, referencing the Plan B controversy from the mid-2010s, where the Alcohol License Review Committee (ALRC) could not consider intended use with licenses like the Plan Commission can with conditional use applications. She argued that indoor amplified music can disturb neighborhoods, noting that Plan B could be heard in people's houses with vibrations felt throughout the neighborhood. She also mentioned "drunks stumbling through the neighborhood at 2am, making random porches their home for the night."
+
+Commissioner Bhasin asked about different factors taken into account with licenses. Bannon gave an overview of ALRC powers, noting that ALRC can impose various conditions with entertainment licenses and that license revocation significantly impacts businesses.
+
+Alder Figueroa Cole moved to eliminate the restaurant-nightclub wording because "they do not go hand-in-hand, the definitions are changing." The amended proposal passed unanimously.
+
+
+#### University Avenue Mixed-Use Project
+
+[Legistar 88325](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97605) & [87881](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97242)
+
+The Commission approved a six-story mixed-use building at 3535-3553 University Avenue and 733-737 N Meadow Lane containing approximately 4,300 square feet of commercial space and 146 apartments. The project required rezoning from TR-C1 to CC-T and multiple conditional uses.
+
+![University Ave. Side](resources/PC_2025-06-09_4.jpg){#fig-PC_2025-06-09_4}
+
+Staff Colin Punt noted the applicant had previously received approval for a five-story building but now wanted approval for six stories. Staff raised questions about approval standard regarding building height, as the permitted height is five stories and this would exceed permissions. The previous design exceeded almost 30 feet above the transition line, but the current design exceeds about 12 feet because of step-backs to houses to the north.
+
+![Meadow Lane Side](resources/PC_2025-06-09_5.jpg){#fig-PC_2025-06-09_5}
+
+The developer team, including Randy Christianson from JLA Architects and Walter Briggs Development, had conducted neighborhood meetings. They requested conditional approval for setbacks at the back of the building rather than the front to maintain building quality, and asked for the sixth floor for community mixed-use. The project includes 7-foot sidewalks to aid bike and pedestrian traffic.
+
+**Community Concerns:**
+- Thomas Meloney opposed the project due to traffic concerns, noting 71 units were already being added before this project and calling additional units "horrendous." He suggested the Capitol Clinic and "Puff and Pass" store site should be used instead, with entrance and exit solely on University Avenue
+- Michael Pomrany, representing the "overwhelming majority" in favor of development, appreciated the traffic calming deposit but wanted to know when it would be assessed and requested stronger traffic calming efforts
+- Rick Kedzior, a neighbor with a fourth-grader, had safety concerns and recommended a four-times deposit increase and a 5-7 foot wide pedestrian island on Meadow Lane
+- Jesse Dury worried about westbound University traffic needing to access the residential area
+
+![Current Building](resources/PC_2025-06-09_7.jpg){#fig-PC_2025-06-09_7}
+
+
+**Project Details:**
+- Studios rent for about $1,500/month (described as "market rate")
+- Target residents are primarily professionals, UW Hospital employees, Epic employees, and occasional graduate students
+- All units will have yearly leases
+- Studios sell out fast, while two-bedroom units rent more slowly
+
+A $10,000 deposit was required for traffic calming measures if the City needs to alter traffic flow due to development pressure. The City Engineer plans to conduct speed studies after development completion to determine appropriate traffic calming measures.
+
+Both items passed unanimously, though Alder Field was excused for this vote.
+
+#### Milwaukee Street Development
+
+[Legistar 88200](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97500)
+
+![First Voit Farm Development](resources/PC_2025-06-09_1.jpg){#fig-PC_2025-06-09_1}
+
+The Commission approved a four-story mixed-use building at 3450 Milwaukee Street containing approximately 6,200 square feet of commercial space and 156 apartments on Lot 4 and associated site improvements on Outlots 2 and 3 of the approved Starkweather plat (Voit Farm). The project passed unanimously.
+
+
+![Voit Farm Development Plan](resources/PC_2025-06-09_2.jpg){#fig-PC_2025-06-09_2}
+
+#### Substance Abuse Treatment Facility
+
+[Legistar IDs 88198](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97498) & [88199](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97499)
+
+The Commission approved converting an assisted living facility at 842 Jupiter Drive into an approximately 54-bed residential substance abuse treatment facility with inpatient and outpatient counseling services.
+
+Staff explained the facility would not have significant negative impact on the surrounding community, largely due to an experienced director being brought in from their Brookfield location and an approved security plan. Staff determined that ample street parking plus a small staff parking lot would be sufficient.
+
+Ryan Schneider, the director from Brookfield, outlined the need for the facility, noting that one in five people develop a substance disorder in their lifetime and highlighting 380 addiction deaths in Dane County in 2023 alone. Key facility details:
+- Exclusively treats voluntary clients
+- No sex offenders or people charged with violent offenses would be admitted
+- No EMS vehicles (unlike the current physical rehabilitation facility)
+- Scheduled admission only, reducing ambulance traffic
+- Treatment stays range from 30 to 45 days, with 45 days being most effective
+- Since residents won't have cars, parking is only for outpatient treatment and staff
+- Additional leased space in Madison provides more parking for outpatient care if needed
+
+Both items passed unanimously.
+
+
+#### Personal Storage Facility
+
+[Legistar 88201](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97501) & [88207](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97507)
+
+The Commission approved a personal indoor storage facility at 6901-6933 Manufacturers Drive. City staff noted that zoning requires the proposed building to be a minimum of two stories, but determined changes to the design could be altered to fit current zoning requirements.
+
+![A 2-story self-storage?](resources/PC_2025-06-09_3.jpg){#fig-PC_2025-06-09_3}
+
+Staff cited concerns over future plans for the site regarding Dane County's future intersection redesign. The lots may be required to convert ingress and egress rights to the interstate when there is a design change by the Department of Transportation, though the City doesn't currently know when that may happen.
+
+Weston Zuleger, speaking for the development team, said "We really don't have any issues at this point" with altering the design to meet zoning codes and potentially turning rights over to the DOT in the future.
+
+Commissioner Bhasin asked about effective facility designs. Alder Guequierre questioned why the developer was looking at including a decorative tower to satisfy the two-story requirement rather than adding more usable space, referencing a 2018 rule aimed at pushing for denser development.
+
+Staff Bannon clarified there are no specific language markers defining what constitutes a second story or required footprint, contrasting this with stricter zoning rules being imposed on 7 Brew Coffee planned for construction at the edge of the east side HyVee parking lot on East Washington Avenue.
+
+Despite some deliberation, both items passed unanimously.
+
+#### Additional Approvals
+
+Several other items were approved on consent or with minimal discussion:
+
+[Legistar 88329](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97609) - Street right-of-way vacation on Schewe Road
+
+[Legistar 88195](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97495) - Conditional use for restaurant-tavern and food sales at 10 S Paterson Street
+
+[Legistar 88202](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97502) - Demolition permit for single-family residence at 6105 S Highlands Avenue
+
+**Additional Zoning Amendments:**
+- [Legistar 88001](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97338) - SR-C3 District dimensional requirements
+- [Legistar 88004](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97341) - Lakefront development setback requirements  
+- [Legistar 88005](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97342) - Lodge, Private Club, Reception Hall uses in Suburban Employment Districts
+
+#### Referred Items
+
+[Legistar 87879](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97240) - A five-story mixed-use building at 4506-4514 Verona Road with 324 square feet of commercial space and 93 apartments was re-referred to the June 23, 2025 meeting at the applicant's request.
+
+The meeting demonstrates continued strong development activity in Madison, with the Commission balancing community concerns about traffic and neighborhood impacts against the city's housing needs and development goals.
+
+
+### June 2, 2025
+
+By Michael Zenz with the help of Claude AI
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lqnswgeyys2m)
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1243598&GUID=C36CE722-831B-4CDE-AC96-7780ECA17484)
+
+The Madison Plan Commission held a special in-person meeting on June 2, 2025, focusing on legal education for commissioners and updates on two major area planning processes.
+
+#### Land Use Law Education Session
+
+**Legistar ID:** [88387](https://madison.legistar.com/View.ashx?M=F&ID=14239927&GUID=BCA5CE67-4181-49EE-AD06-4762C3EDC95E)
+
+Assistant City Attorney Kate Smith provided commissioners with an overview of Wisconsin land use law and the Plan Commission's role within that framework. The presentation highlighted the hierarchical nature of municipal land use authority.
+
+![Creatures of the State](resources/PC_2025-06-02_1.jpg){#fig-PC_2025-06-02_1}
+
+According to meeting commentary, land use regulation in the United States is largely governed by state law, with Wisconsin granting cities significant authority to regulate zoning and set development conditions, but less latitude in determining whether individual developments meet those conditions.
+
+![Land Use](resources/PC_2025-06-02_2.jpg){#fig-PC_2025-06-02_2}
+
+
+The discussion outlined three levels of municipal authority, from most to least discretionary:
+
+- **Comprehensive Plans**: Cities have the most latitude when designing comprehensive plans, which describe the types of development and zoning changes the city will accept
+- **Zoning Changes**: Less latitude is available for zoning changes that are consistent with the comprehensive plan
+- **Conditional Use Permits**: The least discretion is available for conditional use permits
+
+
+![Levels of Authority](resources/PC_2025-06-02_4.jpg){#fig-PC_2025-06-02_4}
+
+
+##### Conditional Use Permit Framework
+
+The session explained that conditional use permits exist because some uses, such as large apartment buildings, are considered generally acceptable in various zones but only if certain conditions are met through a review process. However, there remains an expectation that cities will approve applications when conditions are met.
+
+
+A key legal principle was illustrated through a recent court case: if a city denies a conditional use permit when the applicant has met all conditions and the city lacks reasons consistent with existing land-use ordinances, the applicant can successfully appeal to court. For example, a carwash development in a Transit-Oriented Development (TOD) on East Washington Avenue was initially denied its conditional use permit partly due to traffic concerns, but the developers won in court because no objective traffic study had been conducted to demonstrate increased traffic impacts.
+
+
+![Conditional Use Permits](resources/PC_2025-06-02_5.jpg){#fig-PC_2025-06-02_5}
+
+
+
+
+
+
+The legal framework incentivizes cities to clearly articulate their land use goals in comprehensive plans and zoning ordinances, which increases predictability for developers and property owners. Changes to comprehensive plans, in particular, can grant developers additional rights, such as the ability to build more housing.
+
+#### Southwest and Southeast Area Plan Updates
+
+**Southwest Area Plan Legistar ID:** [88388](https://madison.legistar.com/LegislationDetail.aspx?ID=7300954&GUID=D9ACDD71-BFE5-4E53-9A96-B50001999ECE)
+**Southeast Area Plan Legistar ID:** [88389](https://madison.legistar.com/LegislationDetail.aspx?ID=7300954&GUID=D9ACDD71-BFE5-4E53-9A96-B50001999ECE)
+
+
+Planning Division staff provided updates on both area planning processes for the Southeast and Southwest parts of the city, which are currently in the community engagement phase. The timeline calls for first draft plans to be developed in Fall 2025 with approvals targeted for Spring 2026.
+
+
+![Southwest Area Plan](resources/PC_2025-06-02_6.jpg){#fig-PC_2025-06-02_6}
+
+![Southeast Area Plan](resources/PC_2025-06-02_7.jpg){#fig-PC_2025-06-02_7}
+
+
+##### Community Feedback
+
+Staff reported receiving diverse feedback from residents, with significant concerns raised about housing, transportation, and jobs throughout both planning areas.
+
+
+![Public Engagement](resources/PC_2025-06-02_8.jpg){#fig-PC_2025-06-02_8}
+![Southwest Concerns](resources/PC_2025-06-02_9.jpg){#fig-PC_2025-06-02_9}
+![Southwest Concerns](resources/PC_2025-06-02_10.jpg){#fig-PC_2025-06-02_10}
+
+
+##### Southeast Area Focus
+
+According to meeting commentary, some of the most significant changes to land use and transportation patterns could occur in the southeast area. The city plans to address several key issues:
+
+![Southeast Concerns](resources/PC_2025-06-02_11.jpg){#fig-PC_2025-06-02_11}
+
+
+- Correcting inappropriate land-use recommendations along the Highway 151 corridor
+- Improving connectivity across the highway
+- Recommending sidewalks for any road reconstruction projects
+
+
+![Southeast Concerns](resources/PC_2025-06-02_12.jpg){#fig-PC_2025-06-02_12}
+
+
+
+Staff noted that sidewalk recommendations, despite residents no longer being required to pay for them, are likely to be the most controversial element of any area plan.
+
+#### Additional Business
+
+The meeting also included member announcements about upcoming events:
+
+- Alder Guequierre provided an update on the May 29, 2025 Smart Growth Madison housing summit titled "Building Blocks: The Housing Development Process and Financing"
+- Darrin Wasniewski announced a June 4, 2025 AARP Wisconsin discussion on universal design in housing for aging in place
+- Alder Glenn highlighted "Wear Orange Day" events scheduled for June 6-8 to promote gun safety awareness
+
+
+
+
+
+### May 19, 2025
+
+
+Also [live-tweeted on Bluesky by ZENZ]()
+
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235178&GUID=71B6F89D-7D4A-4997-9517-9A8711FCAFDB)
+
+
+No substantive items were discussed at this meeting.
+
+
+### May 12, 2025
+
+By Michael Zenz with the help of Claude AI
+
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3loz5bidfls2g)
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235177&GUID=5B3C0A05-B4A1-4335-A598-0EE08C2B99C5)
+
+
+The Madison Plan Commission met virtually on May 12, 2025, to consider several development projects and policy updates, including revisions to the city's code of conduct for elected and appointed officials.
+
+#### Code of Conduct Updates
+
+**Legistar ID:** [87483](https://madison.legistar.com/LegislationDetail.aspx?ID=7250376&GUID=DE973233-9BDA-4584-8C19-041B3730B8E8)
+
+The commission reviewed additions to the city code of conduct that would include provisions for the treatment of staff and members of the public. According to social media commentary on the meeting, the updates were characterized as covering obvious standards of behavior, and notably do not extend to social media conduct.
+
+![Code of Conduct Changes](resources/PC_2025-05-12_1.jpg){#fig-PC_2025-05-12_1}
+![Code of Conduct Changes](resources/PC_2025-05-12_2.jpg){#fig-PC_2025-05-12_2}
+![Code of Conduct Changes](resources/PC_2025-05-12_3.jpg){#fig-PC_2025-05-12_3}
+
+#### Bear Claw Way Apartment Development
+
+**Legistar ID:** [87658](https://madison.legistar.com/LegislationDetail.aspx?ID=7269029&GUID=23813EAB-66C8-4402-A48C-082437419EFB)
+
+The commission unanimously approved a conditional use for a 21-unit apartment building at 305 Bear Claw Way/9453 Spirit Street in a new west side subdivision. The project consists of approximately 80% two-bedroom units with the remainder being one-bedroom apartments.
+
+![Streetside](resources/PC_2025-05-12_5.jpg){#fig-PC_2025-05-12_5}
+
+
+A key discussion point centered on parking requirements. The developers requested 30 parking stalls, with most housed in single-stall garages. The Urban Design Commission (UDC) had recommended eliminating 4 parking stalls to extend green space, but Alder Guequierre moved to approve the building with the full 30 stalls as requested by the developers, ignoring the UDC recommendation.
+
+![Parking](resources/PC_2025-05-12_6.jpg){#fig-PC_2025-05-12_6}
+
+
+Alder Field noted during discussion that the location is approximately 1.5 miles from transit. The area will also have street parking available in addition to possible driveway parking in front of garage doors. Observers noted this represents a relatively low unit-to-parking ratio for the area.
+
+#### Nakoma Road Rezoning Eliminates Restrictive Planned Development
+
+**Legistar ID:** [87842](https://madison.legistar.com/LegislationDetail.aspx?ID=7300954&GUID=D9ACDD71-BFE5-4E53-9A96-B50001999ECE)
+
+The commission unanimously recommended approval of a rezoning at 3821 Nakoma Road from PD (Planned Development) to LMX (Limited Mixed Use). The case highlighted issues with Madison's older, overly prescriptive zoning practices.
+
+![](resources/PC_2025-05-12_9.jpg){#fig-PC_2025-05-12_9}
+
+The property owner, who operates first-floor commercial space with second-floor residential, explained that the current PD zoning contains unusual restrictions requiring him to rent "to a family with not more than 2 children" or "single people working." Staff noted that the two-story mixed-use building next to residential was exactly what the LMX district was designed for.
+
+Alder Field expressed satisfaction with eliminating another instance of PD zoning, stating that PD requirements are often hard to find and are less transparent than newer standardized zoning districts. PD zones, which are custom to each property, were very common in the past to customize zoning for individual developments.
+
+#### Other Business
+
+The commission also approved on the consent agenda an 11,000 square foot visitor center at the base of Picnic Point, though this item was later referred to a future meeting date.
+
+![The New Picnic Point](resources/PC_2025-05-12_4.jpg){#fig-PC_2025-05-12_4}
+
+
+### April 28, 2025
+
+By Tori Cooper
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lnvshy7cuk26)
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235149&GUID=5D153D41-1422-43D2-A889-7F566DD7947D)
+
+
+
+
+The Plan Commission met Monday, April 28th to review several items; however, a considerable amount of the agenda was moved either to the consent agenda or moved to later meetings. Here's the breakdown:
+
+##### Consent Agenda
+
+- [Legistar 87597](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96999): Creating Section 28.022-00709 of the Madison General Ordinances to change the zoning of property generally located at 149 Wisteria Street from SR-C2 (Suburban Residential-Consistent 2) District to TR-C3 (Traditional Residential-Consistent 3) District. (District 9)
+
+- [Legistar 87630](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97027): 722 Moorland Road (District 14): Consideration of a conditional use in the Suburban Residential-Consistent 3 (SR-C3) District for a housing cooperative.
+
+- [Legistar 87633](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97030): 1522 Waunona Way (District 14): Consideration of a conditional use to construct a single-family residence on a lakefront parcel.
+
+- [Legistar 87720](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97109): 2604 Waunona Way (District 14): Consideration of a demolition permit to demolish a single-family residence.
+
+- [Legistar 87655](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97050): 4313 Buckley Road, Town of Burke: Consideration of a Certified Survey Map within the City's Extraterritorial Jurisdiction to create one residential lot.
+
+- [Legistar 87656](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97051): 6059 Portage Road, Town of Burke: Consideration of a Certified Survey Map within the City's Extraterritorial Jurisdiction to create three residential lots.
+
+##### Referred to May 12th
+
+- [Legistar 87470](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=96902): 345 W Main Street (District 4): Consideration of a demolition permit to demolish a 44-unit assisted living facility.
+
+- [Legistar 87598](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97000): Creating Section 28.022-00710 of the Madison General Ordinances to change the zoning of property located at 333-345 West Main Street, 110 South Henry Street, and 334 West Doty Street from PD (Planned Development) District to Amended PD (GDP) (Planned Development-General Development Plan) District and creating Section 28.022-00711 to approve a Specific Implementation Plan. (District 4)
+
+##### Referred to May 19th
+
+- [Legistar 83269](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=92371): 709-711 E Johnson Street (District 6): Consideration of a conditional use in the Neighborhood Mixed-Use (NMX) District for an outdoor eating area open past 9:00 p.m.
+
+#### Minocqua Brewing Company
+
+[Legistar 87634](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97031) 
+
+The most heated item on tonight's agenda was in regard to the **consideration of conditional use** for Minocqua Brewing Company, located at **2927 E Washington Avenue** in **District 15.** The request specifically asks for **amplified sound** on an outdoor eating patio for a tasting room in a **Commercial Corridor-Transitional District (CC-T) District.**
+
+Staff Chris Wells presented, reminding the Commission of the 2024 approval for the biergarten to have amplified sound until 9pm. According to the application, owner Kirk Bangstad does not anticipate having music going the entire window—only planning to have music and sound playing until 8:45pm; however, this contradicts the establishment's prior behavior. According to Staff Wells, Minocqua Brewing was notified of a violation in October 2024 after reports of amplified sound coming from the biergarten after 9pm. Commissioner Heck later inquired into this notice, with City Inspector Matt Tucker offering some clarity into the complaint and the investigative process. Tucker, who was personally involved in the case, stated the City first receives a complaint. At that point, their office issues a notice while they look into the issue. If the notice resolves the issue, no further action is taken; however, if the behavior is not corrected, the establishment is issued a municipal citation and the case runs the potential to get referred daily to the City Attorney's Office for legal action.
+
+In this specific case, the City found an event had taken place in the backyard area after their 9pm cutoff. Additionally, the Inspector's Office discovered a website with a list of upcoming music events in the patio area—several of which were stated to go past the 9pm cut-off. Tucker said Bangstad was sent a reminder about outdoor music being prohibited and that it was too late in the evening for these events. According to Tucker, Minocqua Brewing was not cited as the behavior was corrected.
+
+Along with noting the notice, Staff Wells drew attention to only eight of the previous 78 applications similar to Minocqua's having been approved. Of those eight, the median distance to the nearest residence was 138 feet, compared to 40 feet in this case. While Bangstad's application does include sound dampening measures, Staff still raised concern over previous violations with sound amplification. Ultimately, the Staff Report recommended placing the application on file without prejudice.
+
+Bangstad was the first to speak during the public hearing, kicking things off with a passionate and well-rehearsed speech. The Minocqua Brewing Company Owner reminisced over a Parisian cafe once frequented by late American icons, expressing his desire to create the same atmosphere right here in Wisconsin. Then, the reign of Donald Trump and the COVID-19 Pandemic threatened his business—ultimately forcing him out of his original Minocqua location. Bangstad placed a great deal of blame on "Trumpers" and politics. Despite shared liberal views, Bangstad went on to state "Madison is a sanctuary from the worst Wisconsin has become... unfortunately politics got in the way again [of his idea Biergarten Cafe]."
+
+Alex Sherwood, who lives on the neighboring property, provided testimony in stark contrast to Bangstad's. Sherwood argued wherever sound is amplified there is "stress and conflict," but stated "this is different." Any time the patio is open, Sherwood and their partner can hear conversations from inside their home—calling the location an "acoustic marvel" with how effortlessly the concrete design causes sound to bounce around and amplify. While Sherwood and their spouse are musicians, and love their neighborhood because of its focus on the arts, the sound has become a major source of stress. They would rather be in their yard writing about joy, instead they are stuck documenting sound disturbances. As part of their final statement, Sherwood referenced the potential one-year trial period in the proposal before tonight's commission members, but reminded them of the previous year's misconduct. According to the neighbor, Minocqua Brewing has basically already had a year trial period full of disturbances and violations. Another year would simply lead to additional agitation and stress.
+
+Nick Pjevak, who previously served as Chair for the City of Madison's Arts Commission, acknowledged both sides of the evening's debate. While he urged the City to be more supportive of the arts, he agreed with Staff and Sherwood that the condensed nature of our city has its drawbacks. Drawing on two examples, Pjevak praised the Harmony Bar for their ability to meet zoning requirements while also maintaining a conscious effort towards being good stewards of sound in their neighborhood.
+
+Alder Field began by asking about the October violation and what steps had been taken to ensure it did not happen again. Bangstad claimed to be unaware, saying he did not know anything about activities going later than 9pm. Rather than answering the second half of Alder Field's question, Bangstad took the opportunity to take a jab at their neighbor, claiming Sherwood is simply building a record to hurt their Biergarten, to which he quickly realized his misstep and added an acknowledgment of their relationship not being great, but "it is what it is." Meanwhile, Alder Guequerre was more interested to hear what other neighbors had to say about the situation and called on the representative present from the Shenk-Atwood neighborhood. Doug Johnson responded, noting the email they sent in mostly echoes Staff's comments about not meeting condition three of the zoning appropriateness. Johnson drew further attention to the proposal's only inclusion of noise dampening being putting blankets on the fence. According to Johnson, this would not help with sound going up to neighbors' second floors or deter noise from bouncing up into bedrooms. Newly elected Alder Carmela Glenn (District 18) also noted this later, asking for Bangstad to be more specific with how the sound dampening would work. The owner stated that the Minocqua Brewing Company would allow the sound to bounce off patrons, then onto the barriers included in the proposal, before dissipating. Alder Glenn did not follow up, but did not seem impressed with the answer as it did not address the issue of sound reaching the second floor.
+
+Newly elected Alder Pritchett took a much gentler approach when conversing with Bangstad, despite her authoritative undertone. While she urged the owner to engage with neighbors more to offer clarity and foster better relations, Alder Pritchett reminded Bangstad that "after all, the neighborhood was there before you came... you're going to have to do some work. And that means engaging them. That will buy you a whole lot of currency." Alder Pritchett then asked what attempts would be made moving forward to connect with the residents and Bangstad once again became flustered. He immediately referenced the 120 decibels from the F35s quaking the buildings every day to compare to the amplified sound he proposes—"maybe every now and then you hear some opera, or some jazz, or some Celtic music" before making another direct dig at his neighbors, saying "maybe that isn't enough for some people [to have music instead of jets]."
+
+Ultimately, the Plan Commission voted to place the Minocqua Brewing Company's application on file without prejudice.
+
+#### Brennan's Market
+
+[Legistar 87636](https://madison.legistar.com/LegislationDetail.aspx?ID=7266227&GUID=31A6A2D6-59BE-4408-BD18-DBDA941FBA5E)
+
+
+The final item of the night was a similar application for Brennan's Market, located at **8216 Watts Road** in **District 1.** Specifically, the consideration of an **alteration to an approved Planned Development District-Specific Implementation Plan (PD-SIP) to amend the zoning text to remove the prohibition of outdoor amplified sound and add conditional uses,** as well as the consideration of a **conditional use in the Planned Development (PD) District for a restaurant-nightclub** and consideration of a **conditional use in the PD District for amplified sound in an outdoor eating area,** all to allow a winery to be converted into a restaurant-nightclub with amplified sound in an existing outdoor eating area. Simply put, Brennan's wants to expand the existing eating area tied to their deli and wine market to include a more welcoming environment—which includes outdoor music.
+
+Staff Wells once again presented, reminding the Commission of a previous zoning amendment that allowed amplified sound from 11am to 11pm and outdoor seating for up to 25 people. In this case, the applicant wants to change the conditional use to include a restaurant-nightclub to accommodate alcohol sales. While Brennan's is a wine vendor, they currently do not sell wine by the glass. The applicant would also like to host live music events outside seasonally, roughly one to two times per week anywhere from 9am to 9pm, which would be well within the previous amendment's allowance. Wells specified that the nearest residence is 160 feet from the patio—landing above the median for previously approved applications. This is in addition to the parking area between the residence and Brennan's, as well as a cross street (Commerce Drive). Overall, staff were optimistic and believed the standards to be met, pending a six month trial period.
+
+Despite Staff's positive recommendation, the neighboring All Saints Neighborhood, a 55+ community located across Watts Road, submitted their opposition. Included with concerns by residents were those of doctors and treating specialists involved with the care of a number of the All Saints residents. Commissioner Heck specifically asked Brennan's owner, Tim Mulcahy, if the applicant would have any issue not playing music until after 3pm, Monday through Friday. Mulcahy said there would be no issue—emphasizing they do not want to have early music, how their neighbors are their patrons, and that they just want to "add dimension" to their surrounding community. The applicant went on to clarify they only envision utilizing the conditions Thursdays through Sundays after 5pm to draw people in; furthermore, they want to make sure all parties are happy in this whole scenario. Mulcahy reassured the Commission "our business is not hanging in the balance by this approval or denial, just adding a layer of ambiance and excitement to the venue."
+
+Alder Pritchett joined the conversation, giving some constructive criticism on how to better connect with neighbors and assuage the concerns of the All Saints Neighborhood. Most notably, Alder Pritchett encouraged Mulcahy to include music that would appeal to their elderly neighbors—something they could sit on their patios and listen to. Mulcahy excitedly told Alder Pritchett, "you are definitely hired as my event coordinator for sure!" This was followed by praise from Alder Harrington-McKinny, who commended Mulcahy for "wanting to be a good neighbor" to a group that is often excluded.
+
+As a group, many acknowledged previous complaints made against Cider Farm, who attempted a similar venture prior to the Brennan's application. Alder Duncan specifically asked about issues with the former leases, to which Mulcahy responded they were not sure who made the complaints; however, they would be interested in finding out so as to ensure their comfort and prevent them from being disturbed unreasonably in any way. Alder Guequerre followed up for clarification regarding the intended hours of live music, asking if changing the language to disallow amplified music Monday through Friday would have a significant impact on the applicant. Mulcahy said although they had hoped to include Thursdays for music, limiting to weekends only was an amenable compromise.
+
+In the end, Alder Guequerre moved to approve the application with specific conditions provided by Staff, limiting music to Saturdays and Sundays only from 5pm to 9pm. The motion was seconded by Alder Glenn and passed.
+
+
 
 ### April 7, 2025
 
@@ -73,7 +598,7 @@ The item **passed** with unanimous approval from the plan commission.
 
 #### Park-and-Ride Lot for the University of Wisconsin-Madison
 
-[Legistars 87471](https://madison.legistar.com/LegislationDetail.aspx?ID=7249866&GUID=C84FAF01-E6A2-4713-B787-08676CD4B989) and [87475](https://madison.legistar.com/LegislationDetail.aspx?ID=7249935&GUID=6CE0EA40-F16E-4286-AAF8-B920C465261E)
+[Legistar 87471](https://madison.legistar.com/LegislationDetail.aspx?ID=7249866&GUID=C84FAF01-E6A2-4713-B787-08676CD4B989) and [87475](https://madison.legistar.com/LegislationDetail.aspx?ID=7249935&GUID=6CE0EA40-F16E-4286-AAF8-B920C465261E)
  both concerned additional parking for UW—the former being for **conditional use in an Industrial-Limited (IL) District** and the later for **approving a certified survey map** of a property owned by Madison Square Storage, LLC. in order to make way for a parking lot located at **2230 Pennsylvania Avenue** in **District 12.**
 
 Commissioner Mendez recused themselves from voting, as their employment with the University is ties directly to this project. Alder Field and Commissioner McCahill also disclosed their employment with UW-Madison, but stated it would not impact their votes.
