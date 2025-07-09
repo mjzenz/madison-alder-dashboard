@@ -20,7 +20,11 @@ load("alder_data_processed.RData")
 
 ```
 
-## YIMBY Score
+**YIMBY Score for the new Madison Common Council coming in August 2025!**
+
+
+## 2023-2025 YIMBY Scores
+
 
 The % of votes that are pro-housing (YIMBY) for each active alder. The YIMBY score is calculated as the number of pro-housing votes divided by the total number of contested votes.  See #yimby-score for methedological details.
 
@@ -37,7 +41,7 @@ kableExtra::kable(YIMBY.prop, "html") |>
 
 ```
 
-## All Housing Votes, 2023-Present
+## All Housing Votes, 2023-2025 Term
 
 
 ### 2025

@@ -10,6 +10,7 @@ format:
 
 ## Meeting Summaries
 
+- [2025-07-07](#july-7-2025): Approved several significant housing developments, including a 80-unit apartment building on Northport Drive and a large mixed-use complex on City View Drive, new Reiland Grove subdivision, and advanced key "Housing Forward" zoning initiatives.
 - [2025-06-23](#june-23-2025): Approved a 93-unit affordable housing development on Verona Road and WMC building replacement on E Wash.
 - [2025-06-09](#june-9-2025): Approved several significant housing developments, including at 3535-3553 University Ave. and Voit Farm, and multiple zoning code amendments to streamline development processes.
 - [2025-06-02](#june-2-2025): Special meeting focused on land use law education and area plan updates.
@@ -23,10 +24,11 @@ format:
  - [2025-01-13](#january-13-2025): Approved later operating hours for Essen Haus vollyball courts, and denied a demolition permit for two single-family homes on a single parcel at 1007 Edgewood Ave.
 
 
-*Table 1: 2025 Housing Approval Counts*
+*2025 Housing Approval Counts*
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
 |------------|---------------|----------------|--------------|-------|
+| 2025-07-07 | 394           | 154            | 290          | 838   |
 | 2025-06-23 | 0             | 0              | 316          | 316   |
 | 2025-06-09 | 0             | 0              | 302          | 302   |
 | 2025-05-19 | 0             | 0              | 0            | 0     |
@@ -38,13 +40,127 @@ format:
 | 2025-02-03 | 0             | 0              | 0            | 0     |
 | 2025-01-20 | 0             | 0              | 0            | 0     |
 | 2025-01-13 | 0             | 0              | 0            | 0     |
-|**Total**   | **0**         |**0**           | **699**      |**699**|
+|**Total**   | **394**       |**154**         | **989**      |**1537**|
 
 
 
 
 
 ## Meeting Details
+
+### July 7, 2025
+
+By Michael Zenz with the help of Claude AI
+
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3ltfvzoxh3c2h)
+
+The Madison Plan Commission held a virtual meeting on July 7, 2025, approving several significant housing developments and advancing key "Housing Forward" zoning initiatives aimed at streamlining residential development across the city.
+
+#### Major Housing Approvals
+
+##### Northport Drive Multi-Family Development
+
+[Legistar 88336](https://madison.legistar.com/LegislationDetail.aspx?ID=7398856&GUID=FC21DB45-57F6-4456-80F7-A0F2D2B46CCE) 
+
+![Northport Drive Development](resources/PC_2025-07-07_1.jpg){#PC_2025-07-07_1}
+
+
+The Commission approved on the consent agenda a four-story, 80-unit apartment building at 709 Northport Drive in a planned multi-use site that will also contain a proposed four-story, 24-unit apartment building and an existing place of worship. The project included approval of a certified survey map for the lot split adjacent to the church.
+
+
+##### City View Drive Mixed-Use Complex
+
+[Legistar 88551](https://madison.legistar.com/LegislationDetail.aspx?ID=7421256&GUID=F7EB4271-20CF-4127-B957-A28D45CB7B0E)
+
+![City View Drive Development](resources/PC_2025-07-07_2.jpg){#PC_2025-07-07_2}
+
+The Commission approved a large-scale development at 2222-2304 City View Drive consisting of multiple buildings of various sizes, including a four-story mixed-use building containing approximately 4,600 square feet of commercial space and 60 apartments, plus a four-story 47-unit apartment building, a five-story 39-unit apartment building, and a five-story 40-unit apartment building. The project also included approval of a certified survey map.
+
+#### Reiland Grove Subdivision
+
+##### Controversial Residential Development
+
+[Legistar 88449](https://madison.legistar.com/LegislationDetail.aspx?ID=7418519&GUID=2EA3BA1C-FA59-4662-BD13-26FBE53A57AC) & [Legistar 88206](https://madison.legistar.com/LegislationDetail.aspx?ID=7418519&GUID=2EA3BA1C-FA59-4662-BD13-26FBE53A57AC)
+
+The more controversial item involved a residential subdivision by Veridian on current farmland at Commercial Avenue and Reiner Road. The Commission unanimously recommended approval of both the rezoning and preliminary plat for "Reiland Grove" to the Common Council.
+
+![Reiland Grove Subdivision](resources/PC_2025-07-07_3.jpg){#PC_2025-07-07_3}
+
+**Community Concerns:**
+One public speaker expressed concern that this is entirely a residential, car-oriented development without any commercial component. The speaker also raised issues about the width of streets and alleys in the development, noting a 100-foot right-of-way that may allow for high speeds without parked cars.
+
+![Example Streets in Right of Way](resources/PC_2025-07-07_8.jpg){#PC_2025-07-07_8}
+
+**Developer Response:**
+The developer noted that the city's comprehensive plan calls for commercial development south of the residential area. Both the developer and staff indicated that commercial development often follows after residential demand is established.
+
+![City Plan for the Area - subdivision in red square](resources/PC_2025-07-07_6.jpg){#PC_2025-07-07_6}
+
+**Project Evolution:**
+The city required the developer to relocate several residential lots around the proposed city park because they were thought to encroach on park uses, resulting in a larger public park. The development also includes a private park. The preliminary plat includes several outlots in the southeast designated for future development, which may include multifamily and/or mixed-use components.
+
+![Original Park Design](resources/PC_2025-07-07_10.jpg){#PC_2025-07-07_10}
+
+**Development Timeline:**
+The subdivision will be developed over the next 15 years, with specific street design details to be determined later. Currently, only the geometry of lots and street right-of-ways are being established.
+
+#### Housing Forward Zoning Initiatives
+
+The Commission advanced three major zoning changes under the "Housing Forward" initiative, all receiving unanimous recommendations for approval at the following week's Common Council meeting:
+
+##### Duplexes in All Residential Zones
+
+[Legistar 88736](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97946)
+
+![Duplex Zoning Change](resources/PC_2025-07-07_12.jpg){#PC_2025-07-07_12}
+
+The Commission recommended allowing duplexes in all single-family zones, though not in Planned Development (PD) zones. This change builds on recent modifications to duplex policies that allowed more configurations of two-unit buildings, with some potentially created through internal conversions of existing homes.
+
+##### Flag Lot Development
+
+[Legistar 88735](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97945)
+
+The Commission approved changes to facilitate "flag lot" divisions, which break a single large lot into multiple lots by extending a thin driveway portion to the street with the new lot placed at the rear. The changes will decrease the required width of the driveway portion, standardize lot size and setbacks, and streamline the approval process.
+
+![Flag Lot Changes](resources/PC_2025-07-07_16.jpg){#PC_2025-07-07_16}
+
+Commissioner Guequierre raised questions about potential conflicts with existing private covenants. Staff explained that the city does not track private agreements, but legal action could be taken if such covenants exist and are violated.
+
+##### Downtown Apartment Streamlining
+
+[Legistar 88737](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97947)
+
+The Commission recommended allowing more medium-sized apartment buildings to be built by right (without Plan Commission review) in downtown districts:
+- In DC and UMX districts: increase height limit by right from 4 to 6 stories
+- DR1 district: increase by-right units from 4 to 12 units
+- DR2 district: increase by-right units from 8 to 36 units
+
+![DC and UMX Zone Changes](resources/PC_2025-07-07_20.jpg){#PC_2025-07-07_20}
+
+![DR1 Zone Changes](resources/PC_2025-07-07_21.jpg){#PC_2025-07-07_18}
+
+![DR2 Zone Changes](resources/PC_2025-07-07_22.jpg){#PC_2025-07-07_22}
+
+
+**Commission Concerns:**
+Commissioner Heck expressed concern about how buildings adjacent to landmarks would be reviewed, noting this represents another policy that appears to empower the Landmarks Commission. Commissioner Solheim questioned what would happen if Landmarks requested changes to a permitted building and who would review such decisions if not the Plan Commission.
+
+Staff explained that for downtown buildings permitted by right, Landmarks serves in an advisory capacity to the Urban Design Commission (UDC) and staff for approvals "using the standards that are in the ordinance." Landmarks makes final decisions for landmark buildings and those in historic districts, while UDC decides matters for buildings adjacent to landmarks.
+
+Commissioner Heck requested that staff map out the roles of various commissions in approving apartments that become permitted uses to avoid future misunderstandings about Landmarks/UDC authority.
+
+#### Additional Approvals
+
+##### Cemetery Expansion
+[Legistar 88555](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97791) - Conditional use for crypt addition to Saint Bernard of Clairvaux Cathedral at 2438-2462 Atwood Avenue
+
+##### Additional Survey Maps and Zoning
+[Legistar 88557](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97793) - Certified Survey Map for property at 1626 and 1634 Baker Avenue
+
+[Legistar 88717](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97927) - Zoning assignment for property at 60 White Oaks Lane
+
+The meeting demonstrated the Commission's continued focus on expanding housing options while addressing concerns about the evolving roles of various city commissions in the development review process.
 
 
 ### June 23, 2025
@@ -65,7 +181,7 @@ The Madison Plan Commission held a virtual meeting on June 23, 2025, approving s
 
 The Commission unanimously approved a conditional use for a five-story mixed-use building at 4506-4514 Verona Road containing 324 square feet of commercial space and 93 apartments. This project became the evening's most controversial item due to concerns about comprehensive plan consistency and pedestrian safety.
 
-![Verona Road Development](resources/PC_2025-06-23_2.jpg){#fig-PC_2025-06-23_2}
+![Verona Road Development](resources/PC_2025-06-23_2.jpg){#PC_2025-06-23_2}
 
 **Project Details:**
 - 45 one-bedroom units
@@ -79,16 +195,16 @@ The Commission unanimously approved a conditional use for a five-story mixed-use
 **Staff Concerns:**
 The item was referred from the previous meeting, with staff expressing concerns that the location is designated as general commercial in the comprehensive plan and may be inconsistent with residential use. Staff noted the site is designed for big-box retail development, and the comprehensive plan calls for commercial rather than residential use.
 
-![Verona Road Site](resources/PC_2025-06-23_1.jpg){#fig-PC_2025-06-23_1}
+![Verona Road Site](resources/PC_2025-06-23_1.jpg){#PC_2025-06-23_1}
 
 Madison Police Department expressed skepticism about pedestrian safety and anticipated more service calls. Routes to nearby parks require crossing Verona Road, and the frontage road carries approximately 3,500 cars per day.
 
 **Applicant Response:**
 The developer addressed traffic and highway proximity concerns by describing sound mitigation measures, sheltered open spaces, and walkability to parks and groceries. They assured that the shared driveway with University Book Store would not be affected.
 
-![Nearby Bus Routes](resources/PC_2025-06-23_7.jpg){#fig-PC_2025-06-23_7}
+![Nearby Bus Routes](resources/PC_2025-06-23_7.jpg){#PC_2025-06-23_7}
 
-![Nearby Bike Routes](resources/PC_2025-06-23_8.jpg){#fig-PC_2025-06-23_8}
+![Nearby Bike Routes](resources/PC_2025-06-23_8.jpg){#PC_2025-06-23_8}
 
 **Community Opposition:**
 The Orchard Ridge Neighborhood Association, located west of the site, expressed concerns about traffic safety in the area. Some residents characterized the placement of low-income housing in this location as "modern redlining" and creating a "polluted ghetto." One resident specifically mentioned concerns about increased police calls associated with the low-income development.
@@ -130,7 +246,7 @@ Commissioner Mendez recused himself from these items due to his employment with 
 
 [Legistar 88203](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB), [Legistar 88204](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB), & [Legistar 88209](https://madison.legistar.com/LegislationDetail.aspx?ID=7371081&GUID=1CEBFF64-AB21-4E92-AEDF-91F41E67D5CB)
 
-![WMC Building Replacement](resources/PC_2025-06-23_10.jpg){#fig-PC_2025-06-23_3}
+![WMC Building Replacement](resources/PC_2025-06-23_10.jpg){#PC_2025-06-23_3}
 
 The Commission approved demolition of an office building at 501 E Washington Avenue and conditional uses for a seven-story, 223-unit apartment building in Urban Design District 4. The project also included a certified survey map approval.
 
@@ -209,11 +325,11 @@ Alder Figueroa Cole moved to eliminate the restaurant-nightclub wording because 
 
 The Commission approved a six-story mixed-use building at 3535-3553 University Avenue and 733-737 N Meadow Lane containing approximately 4,300 square feet of commercial space and 146 apartments. The project required rezoning from TR-C1 to CC-T and multiple conditional uses.
 
-![University Ave. Side](resources/PC_2025-06-09_4.jpg){#fig-PC_2025-06-09_4}
+![University Ave. Side](resources/PC_2025-06-09_4.jpg){#PC_2025-06-09_4}
 
 Staff Colin Punt noted the applicant had previously received approval for a five-story building but now wanted approval for six stories. Staff raised questions about approval standard regarding building height, as the permitted height is five stories and this would exceed permissions. The previous design exceeded almost 30 feet above the transition line, but the current design exceeds about 12 feet because of step-backs to houses to the north.
 
-![Meadow Lane Side](resources/PC_2025-06-09_5.jpg){#fig-PC_2025-06-09_5}
+![Meadow Lane Side](resources/PC_2025-06-09_5.jpg){#PC_2025-06-09_5}
 
 The developer team, including Randy Christianson from JLA Architects and Walter Briggs Development, had conducted neighborhood meetings. They requested conditional approval for setbacks at the back of the building rather than the front to maintain building quality, and asked for the sixth floor for community mixed-use. The project includes 7-foot sidewalks to aid bike and pedestrian traffic.
 
@@ -223,7 +339,7 @@ The developer team, including Randy Christianson from JLA Architects and Walter 
 - Rick Kedzior, a neighbor with a fourth-grader, had safety concerns and recommended a four-times deposit increase and a 5-7 foot wide pedestrian island on Meadow Lane
 - Jesse Dury worried about westbound University traffic needing to access the residential area
 
-![Current Building](resources/PC_2025-06-09_7.jpg){#fig-PC_2025-06-09_7}
+![Current Building](resources/PC_2025-06-09_7.jpg){#PC_2025-06-09_7}
 
 
 **Project Details:**
@@ -240,12 +356,12 @@ Both items passed unanimously, though Alder Field was excused for this vote.
 
 [Legistar 88200](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97500)
 
-![First Voit Farm Development](resources/PC_2025-06-09_1.jpg){#fig-PC_2025-06-09_1}
+![First Voit Farm Development](resources/PC_2025-06-09_1.jpg){#PC_2025-06-09_1}
 
 The Commission approved a four-story mixed-use building at 3450 Milwaukee Street containing approximately 6,200 square feet of commercial space and 156 apartments on Lot 4 and associated site improvements on Outlots 2 and 3 of the approved Starkweather plat (Voit Farm). The project passed unanimously.
 
 
-![Voit Farm Development Plan](resources/PC_2025-06-09_2.jpg){#fig-PC_2025-06-09_2}
+![Voit Farm Development Plan](resources/PC_2025-06-09_2.jpg){#PC_2025-06-09_2}
 
 #### Substance Abuse Treatment Facility
 
@@ -273,7 +389,7 @@ Both items passed unanimously.
 
 The Commission approved a personal indoor storage facility at 6901-6933 Manufacturers Drive. City staff noted that zoning requires the proposed building to be a minimum of two stories, but determined changes to the design could be altered to fit current zoning requirements.
 
-![A 2-story self-storage?](resources/PC_2025-06-09_3.jpg){#fig-PC_2025-06-09_3}
+![A 2-story self-storage?](resources/PC_2025-06-09_3.jpg){#PC_2025-06-09_3}
 
 Staff cited concerns over future plans for the site regarding Dane County's future intersection redesign. The lots may be required to convert ingress and egress rights to the interstate when there is a design change by the Department of Transportation, though the City doesn't currently know when that may happen.
 
@@ -323,11 +439,11 @@ The Madison Plan Commission held a special in-person meeting on June 2, 2025, fo
 
 Assistant City Attorney Kate Smith provided commissioners with an overview of Wisconsin land use law and the Plan Commission's role within that framework. The presentation highlighted the hierarchical nature of municipal land use authority.
 
-![Creatures of the State](resources/PC_2025-06-02_1.jpg){#fig-PC_2025-06-02_1}
+![Creatures of the State](resources/PC_2025-06-02_1.jpg){#PC_2025-06-02_1}
 
 According to meeting commentary, land use regulation in the United States is largely governed by state law, with Wisconsin granting cities significant authority to regulate zoning and set development conditions, but less latitude in determining whether individual developments meet those conditions.
 
-![Land Use](resources/PC_2025-06-02_2.jpg){#fig-PC_2025-06-02_2}
+![Land Use](resources/PC_2025-06-02_2.jpg){#PC_2025-06-02_2}
 
 
 The discussion outlined three levels of municipal authority, from most to least discretionary:
@@ -337,7 +453,7 @@ The discussion outlined three levels of municipal authority, from most to least 
 - **Conditional Use Permits**: The least discretion is available for conditional use permits
 
 
-![Levels of Authority](resources/PC_2025-06-02_4.jpg){#fig-PC_2025-06-02_4}
+![Levels of Authority](resources/PC_2025-06-02_4.jpg){#PC_2025-06-02_4}
 
 
 ##### Conditional Use Permit Framework
@@ -348,7 +464,7 @@ The session explained that conditional use permits exist because some uses, such
 A key legal principle was illustrated through a recent court case: if a city denies a conditional use permit when the applicant has met all conditions and the city lacks reasons consistent with existing land-use ordinances, the applicant can successfully appeal to court. For example, a carwash development in a Transit-Oriented Development (TOD) on East Washington Avenue was initially denied its conditional use permit partly due to traffic concerns, but the developers won in court because no objective traffic study had been conducted to demonstrate increased traffic impacts.
 
 
-![Conditional Use Permits](resources/PC_2025-06-02_5.jpg){#fig-PC_2025-06-02_5}
+![Conditional Use Permits](resources/PC_2025-06-02_5.jpg){#PC_2025-06-02_5}
 
 
 
@@ -366,9 +482,9 @@ The legal framework incentivizes cities to clearly articulate their land use goa
 Planning Division staff provided updates on both area planning processes for the Southeast and Southwest parts of the city, which are currently in the community engagement phase. The timeline calls for first draft plans to be developed in Fall 2025 with approvals targeted for Spring 2026.
 
 
-![Southwest Area Plan](resources/PC_2025-06-02_6.jpg){#fig-PC_2025-06-02_6}
+![Southwest Area Plan](resources/PC_2025-06-02_6.jpg){#PC_2025-06-02_6}
 
-![Southeast Area Plan](resources/PC_2025-06-02_7.jpg){#fig-PC_2025-06-02_7}
+![Southeast Area Plan](resources/PC_2025-06-02_7.jpg){#PC_2025-06-02_7}
 
 
 ##### Community Feedback
@@ -376,16 +492,16 @@ Planning Division staff provided updates on both area planning processes for the
 Staff reported receiving diverse feedback from residents, with significant concerns raised about housing, transportation, and jobs throughout both planning areas.
 
 
-![Public Engagement](resources/PC_2025-06-02_8.jpg){#fig-PC_2025-06-02_8}
-![Southwest Concerns](resources/PC_2025-06-02_9.jpg){#fig-PC_2025-06-02_9}
-![Southwest Concerns](resources/PC_2025-06-02_10.jpg){#fig-PC_2025-06-02_10}
+![Public Engagement](resources/PC_2025-06-02_8.jpg){#PC_2025-06-02_8}
+![Southwest Concerns](resources/PC_2025-06-02_9.jpg){#PC_2025-06-02_9}
+![Southwest Concerns](resources/PC_2025-06-02_10.jpg){#PC_2025-06-02_10}
 
 
 ##### Southeast Area Focus
 
 According to meeting commentary, some of the most significant changes to land use and transportation patterns could occur in the southeast area. The city plans to address several key issues:
 
-![Southeast Concerns](resources/PC_2025-06-02_11.jpg){#fig-PC_2025-06-02_11}
+![Southeast Concerns](resources/PC_2025-06-02_11.jpg){#PC_2025-06-02_11}
 
 
 - Correcting inappropriate land-use recommendations along the Highway 151 corridor
@@ -393,7 +509,7 @@ According to meeting commentary, some of the most significant changes to land us
 - Recommending sidewalks for any road reconstruction projects
 
 
-![Southeast Concerns](resources/PC_2025-06-02_12.jpg){#fig-PC_2025-06-02_12}
+![Southeast Concerns](resources/PC_2025-06-02_12.jpg){#PC_2025-06-02_12}
 
 
 
@@ -441,9 +557,9 @@ The Madison Plan Commission met virtually on May 12, 2025, to consider several d
 
 The commission reviewed additions to the city code of conduct that would include provisions for the treatment of staff and members of the public. According to social media commentary on the meeting, the updates were characterized as covering obvious standards of behavior, and notably do not extend to social media conduct.
 
-![Code of Conduct Changes](resources/PC_2025-05-12_1.jpg){#fig-PC_2025-05-12_1}
-![Code of Conduct Changes](resources/PC_2025-05-12_2.jpg){#fig-PC_2025-05-12_2}
-![Code of Conduct Changes](resources/PC_2025-05-12_3.jpg){#fig-PC_2025-05-12_3}
+![Code of Conduct Changes](resources/PC_2025-05-12_1.jpg){#PC_2025-05-12_1}
+![Code of Conduct Changes](resources/PC_2025-05-12_2.jpg){#PC_2025-05-12_2}
+![Code of Conduct Changes](resources/PC_2025-05-12_3.jpg){#PC_2025-05-12_3}
 
 #### Bear Claw Way Apartment Development
 
@@ -451,12 +567,12 @@ The commission reviewed additions to the city code of conduct that would include
 
 The commission unanimously approved a conditional use for a 21-unit apartment building at 305 Bear Claw Way/9453 Spirit Street in a new west side subdivision. The project consists of approximately 80% two-bedroom units with the remainder being one-bedroom apartments.
 
-![Streetside](resources/PC_2025-05-12_5.jpg){#fig-PC_2025-05-12_5}
+![Streetside](resources/PC_2025-05-12_5.jpg){#PC_2025-05-12_5}
 
 
 A key discussion point centered on parking requirements. The developers requested 30 parking stalls, with most housed in single-stall garages. The Urban Design Commission (UDC) had recommended eliminating 4 parking stalls to extend green space, but Alder Guequierre moved to approve the building with the full 30 stalls as requested by the developers, ignoring the UDC recommendation.
 
-![Parking](resources/PC_2025-05-12_6.jpg){#fig-PC_2025-05-12_6}
+![Parking](resources/PC_2025-05-12_6.jpg){#PC_2025-05-12_6}
 
 
 Alder Field noted during discussion that the location is approximately 1.5 miles from transit. The area will also have street parking available in addition to possible driveway parking in front of garage doors. Observers noted this represents a relatively low unit-to-parking ratio for the area.
@@ -467,7 +583,7 @@ Alder Field noted during discussion that the location is approximately 1.5 miles
 
 The commission unanimously recommended approval of a rezoning at 3821 Nakoma Road from PD (Planned Development) to LMX (Limited Mixed Use). The case highlighted issues with Madison's older, overly prescriptive zoning practices.
 
-![](resources/PC_2025-05-12_9.jpg){#fig-PC_2025-05-12_9}
+![](resources/PC_2025-05-12_9.jpg){#PC_2025-05-12_9}
 
 The property owner, who operates first-floor commercial space with second-floor residential, explained that the current PD zoning contains unusual restrictions requiring him to rent "to a family with not more than 2 children" or "single people working." Staff noted that the two-story mixed-use building next to residential was exactly what the LMX district was designed for.
 
@@ -477,7 +593,7 @@ Alder Field expressed satisfaction with eliminating another instance of PD zonin
 
 The commission also approved on the consent agenda an 11,000 square foot visitor center at the base of Picnic Point, though this item was later referred to a future meeting date.
 
-![The New Picnic Point](resources/PC_2025-05-12_4.jpg){#fig-PC_2025-05-12_4}
+![The New Picnic Point](resources/PC_2025-05-12_4.jpg){#PC_2025-05-12_4}
 
 
 ### April 28, 2025
@@ -618,10 +734,10 @@ Stemming from questioning from Commissioners McCahill and Heck, Butcher did disc
 While Commissioners Heck and McCahill did so begrudgingly—finding it difficult to approve a parking lot instead of housing—the items **both passed unanimously.**
 
 
-![Existing UW-Madison park and ride nearby that the proposed parking lot will replace](resources/UWLot206_2025-04-07.jpg){#fig-UWLOT206}
+![Existing UW-Madison park and ride nearby that the proposed parking lot will replace](resources/UWLot206_2025-04-07.jpg){#UWLOT206}
 
 
-![UW-Madison private bus service information](resources/UWShuttle_2025-04-07.jpg){#fig-UWShuttle}
+![UW-Madison private bus service information](resources/UWShuttle_2025-04-07.jpg){#UWShuttle}
 
 
 #### Secretary’s Report
@@ -778,7 +894,7 @@ This year’s plan is made up of 7 elements, which include 14 goals, 59 strategi
 
 The plan includes its own Neighborhood and Housing element, which Collin’s drew much attention to. Noteworthy items included the rehabilitation of the Tree Lane public housing units, the addition of 639 housing units throughout Madison, and redevelopment at the Triangle—primarily, the replacement of old public housing with mixed income apartments and complexes such as Bayview, revamping their properties to include more colorful and vibrant housing.  Secretary Tuttle later commented on the City’s approval of over 5,600 permits for new homes between 2023 and 2024–commending the Plan Commission for its involvement in the approval of many of those requests and aiding in the City’s housing development efforts.
 
-![Planning Process](resources/Plan_Structure_2025-02-03.jpg){#fig-planning_process}
+![Planning Process](resources/Plan_Structure_2025-02-03.jpg){#planning_process}
 
 Madison Metro’s BRT is once again on everyone’s mind, as the City strives to keep improving the newly introduced system. Collins focused on the Comprehensive Plan’s use of federal funds to aid in the procurement of larger buses and the City’s implementation of a new fare system, citing the BRT as being the backbone of Madison’s public transportation due to its "Point A to Point B design." Towards the end of the meeting, Commissioner Heck requested additional details regarding Strategy 7.D, ("Develop and implement a park-and-ride plan to increase accessibility to downtown and the
 UW–Madison campus."). City staff responded by noting how other communities with public transportation tend to have more park and ride options with larger lots in addition to greater access with less restrictive routes. If the City is able to implement the plan successfully, public transportation will be available to a larger part of the Madison Metropolitan population, effectively decreasing automobile traffic and congestion in the downtown area while creating safer spaces for pedestrians and cyclists.
