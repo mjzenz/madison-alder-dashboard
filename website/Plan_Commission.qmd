@@ -10,6 +10,11 @@ format:
 
 ## Meeting Summaries
 
+
+- [2025-08-11](#august-11-2025): Discussed proposed tree protection ordinance changes, approved a 73-unit apartment building on North Butler Street, and provided updates on downtown area planning and economic strategy coordination.
+
+
+
 - [2025-07-07](#july-7-2025): Approved several significant housing developments, including a 80-unit apartment building on Northport Drive and a large mixed-use complex on City View Drive, new Reiland Grove subdivision, and advanced key "Housing Forward" zoning initiatives.
 - [2025-06-23](#june-23-2025): Approved a 93-unit affordable housing development on Verona Road and WMC building replacement on E Wash.
 - [2025-06-09](#june-9-2025): Approved several significant housing developments, including at 3535-3553 University Ave. and Voit Farm, and multiple zoning code amendments to streamline development processes.
@@ -28,6 +33,7 @@ format:
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
 |------------|---------------|----------------|--------------|-------|
+| 2025-08-11 | 0             | 0              | 73           | 73    |
 | 2025-07-07 | 394           | 154            | 290          | 838   |
 | 2025-06-23 | 0             | 0              | 316          | 316   |
 | 2025-06-09 | 0             | 0              | 302          | 302   |
@@ -40,13 +46,79 @@ format:
 | 2025-02-03 | 0             | 0              | 0            | 0     |
 | 2025-01-20 | 0             | 0              | 0            | 0     |
 | 2025-01-13 | 0             | 0              | 0            | 0     |
-|**Total**   | **394**       |**154**         | **989**      |**1537**|
-
+| **Total**  | **394**       | **154**        | **1,062**    |**1,610**|
 
 
 
 
 ## Meeting Details
+
+### August 11, 2025
+
+The Madison Plan Commission held a virtual meeting on August 11, 2025, with significant discussion focused on proposed tree protection ordinance changes and housing development approvals.
+
+#### Tree Protection Ordinance
+
+The Commission extensively discussed a proposed ordinance that would significantly expand tree protection requirements for development projects affecting trees in the public right-of-way.
+
+![Tree Protection Ordinance](resources/PC_2025-08-11_2.jpg){#PC_2025-08-11_2}                  
+
+**Key Proposed Changes:**
+- Extend the "tree protection zone" from 5 feet to 1 foot per inch of trunk diameter
+- Increase fines for removing trees from \$125 to \$150 per trunk diameter
+- Require developers to involve city staff to create protection plans for any work that might affect trees, including equipment exhaust
+- Grant authority to suspend or cancel permits for violations
+
+
+
+**Enforcement Approach:**
+Staff acknowledged that current fines are insufficient deterrents, noting that removing an old tree should ideally cost closer to $50,000. Since they cannot incorporate such high fines into the ordinance, they hope the risk of permit suspensions will effectively protect trees.
+
+**Commission Concerns:**
+Commissioner Heck expressed concern that negotiations between Urban Forestry and developers might lack transparency and not be obvious to approving bodies like the Plan Commission. He requested more information be made available to oversight bodies.
+
+Commissioner Solheim raised concerns that tree condition is not adequately accounted for in the ordinance.
+
+Commissioner Field wanted more information from stakeholders about potential impacts before proceeding.
+
+**Scope and Implementation:**
+The ordinance applies only to trees in the public right-of-way (typically along streets) and use of land in the public right-of-way. Urban Forestry would not control use of private land, though larger portions of development sites could become subject to staff management.
+
+The changes would require certified arborists to measure tree diameter for any work in the public right-of-way.
+
+**Outreach Concerns:**
+Commissioners noted that Urban Forestry had not conducted extensive outreach on the proposal. Staff could not answer questions about balancing pedestrian infrastructure needs with tree protection when building sidewalks and bike paths, and had not consulted with developers about the changes' impacts.
+
+**Commission Action:**
+The Commission unanimously voted to refer the ordinance to the next meeting, expressing skepticism about the current proposal and requesting better outreach to developers both large and small about potential impacts.
+
+Notably, the ordinance sponsors are generally pro-housing advocates, and the proposal was also referred by the Public Works Committee.
+
+#### Housing Approval
+
+##### North Butler Street Development
+
+[Legistar 121 N Butler](https://madison.legistar.com/View.ashx?M=F&ID=14544387&GUID=A7653400-3E34-4FD3-9B57-AB71846C7C1D)
+
+![North Butler Street Development](resources/PC_2025-08-11_1.jpg){#PC_2025-08-11_1}
+
+The Commission approved on the consent agenda a 73-unit apartment building at 121 N Butler Street.
+
+#### Planning Process Updates
+
+**Downtown Area Plan:**
+The downtown area planning process timeline is being accelerated to coincide with the University of Wisconsin-Madison planning process.
+
+![Downtown Area Plan](resources/PC_2025-08-11_4.jpg){#PC_2025-08-11_4}
+
+**Economic Strategy Coordination:**
+The planning process will also align with the Madison Inc Economic Strategy planning process to ensure coordinated development approaches.
+
+![Public Engagement Plan](resources/PC_2025-08-11_3.jpg){#PC_2025-08-11_3}                                             
+
+The meeting highlighted ongoing tensions between environmental protection and development facilitation, with commissioners seeking greater transparency and stakeholder input in policy development processes.
+
+
 
 ### July 7, 2025
 

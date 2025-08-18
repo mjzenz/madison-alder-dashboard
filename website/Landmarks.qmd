@@ -9,11 +9,15 @@ format:
 
 ## Meeting Summaries
 
+- [2025-08-04](#august-4-2025): Approved a Certificate of Approval for an addition to a property at 739 Jenifer Street in the Third Lake Ridge Historic District. Approved demolition and addition to the Sauthoff House at 740 Jenifer Street, a designated Madison landmark.
+
 - [2025-07-21](#july-21-2025): Presented the Madison Trust for Historic Preservation's new grant program offering $10,000 annually for historic preservation projects. Approved demolition of seven buildings on East Washington Avenue for redevelopment, all determined to have no historical value.
 
 - [2025-07-07](#july-7-2025): Approved a Certificate of Approval for a five-story mixed-use building at 656 Williamson Street in the Third Lake Ridge Historic District. Approved demolition of buildings at 1802-1804 Roth Street and 3565 Tulane Avenue, both found to have no known historic value.
 
 - [2025-06-16](#june-16-2025): Approved three consent agenda items including demolition and new construction at 413 S. Brearly Street, new garage construction at 1717 Kendall Avenue, and a rear addition at 2113 Kendall Avenue. Recommended approval of historic preservation ordinance amendments to modernize terminology throughout city ordinances.
+
+- [2025-06-02](#june-2-2025): Approved a Certificate of Appropriateness for signage at 315 S. Blount Street. Advised the Urban Design and Planning Commissions that a proposed 7-story apartment building adjacent to the Mattermore-Malaney House landmark would not adversely affect its historic character. Approved a Certificate of Appropriateness for a detached garage at 1775 Norman Way within the Spring Harbor Mound Group landmark site. Determined no adverse effects on historic properties from the North-South Bus Rapid Transit project and Kennedy Road Charging Station. Found no historical value in the building at 630 E. Washington Avenue, approving its demolition.
 
 - [2025-05-05](#may-5-2025): Held annual special meeting reviewing Secretary of Interior Standards and the five-year progress check on the Madison Historic Preservation Plan. Discussed impacts of federal policy changes on preservation work and reviewed proposed updates to the Historic Preservation Ordinance.
 
@@ -26,7 +30,7 @@ format:
 ### August 4, 2025
 By Diane Zenz
 
-[Official Minutes](https://madison.legistar.com/LegislationDetail.aspx?ID=7455490&GUID=FE72334F-3019-4D5D-A493-ACF1E691C024)
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1236706&GUID=9991B7C1-5AE6-410E-ABA1-E0AA6927822C)
 
 It was a short agenda this evening with the meeting taking less than 25 minutes.
 
@@ -160,6 +164,87 @@ Commissioner Taylor inquired about public feedback and the dissemination process
 The [staff report detailing proposed changes](https://madison.legistar.com/View.ashx?M=F&ID=14280568&GUID=D753BD76-4FC3-4863-91D2-5AF33B436084) is available for review.
 
 Commissioner Arnesen moved to recommend approval to Common Council, seconded by Commissioner Morrison. The motion passed unanimously. The meeting then adjourned.
+
+
+### June 2, 2025
+By Diane Zenz
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1236700&GUID=8455DE73-55E5-449F-8AAB-15DE8FA9DD0B)
+
+The meeting of the Landmarks Commission was called to order at 5:00 p.m. and lasted 1 hour and 6 minutes. The minutes of the May 19th meeting were approved.
+
+**Public Comments** - This item gives members of the public an opportunity to comment on items that are not on the agenda. There were no comments.
+
+**Disclosures and Recusals** - There were none.
+
+- **Request for Certificate of Appropriateness** for new construction on a designated Madison Landmark site located at **1775 Norman Way** in **District 19** [Legistar 88189](https://madison.legistar.com/LegislationDetail.aspx?ID=88189&GUID=) was moved to the Consent Agenda. Motion made by Jacob Morrison and seconded by Molly Harris to approve the project.
+
+#### Development Adjacent to Mattermore-Malaney House - 501 E. Washington Ave
+
+**[Legistar 88188](https://madison.legistar.com/LegislationDetail.aspx?ID=88188&GUID=)** - **Advisory Recommendation for Development Adjacent to a Designated Madison Landmark**
+
+The Landmarks Commission is an advisory body to the Urban Design and Planning Commissions in this matter as the project is adjacent to the Mattermore-Malaney House landmark at 512 E. Main St (District 6).
+
+Kurt Stege commented positively about the move of the inlet from E. Washington St. to East Main St., believing it made a big difference in the proposal. He informed the Commission of the relationships between the landmark homes in the area and their significance to each other, and wondered what trees would come down and which could stay.
+
+Marc Ott, Nick Orthmann and several other members of the design team were available to speak in support of the project and answer questions.
+
+Heather Bailey, Preservation Planner, provided a summary of the project. The project will redevelop the property at 501 E. Washington to build a 7-story apartment building. This property shares a rear property line with the Mattermore-Malaney House at 512 E. Main St. The Mattermore-Malaney House was designated a Madison landmark in 2002 for its architectural significance as a rare and exceptionally intact example of a frame, Front Gable house. The house, constructed in 1874, is a simple clapboard structure located within the First Settlement local historic district. This area of the neighborhood has a mix of similarly scaled residential structures and larger infill apartment buildings. The landmark home has a deep residential lot (133 feet) with a substantial tree canopy. This tree canopy, along with the inset in the proposed rear wall-plane of the adjacent new structure, creates a visual buffer.
+
+Jacob Morrison and Molly Harris asked the design team if they had considered utilizing setbacks on some of the upper floors of the apartment building to lighten the impact of the height. Marc Ott explained there are some setbacks in certain areas across the upper facade.
+
+Staff recommends to the Landmarks Commission to advise the Plan and Urban Design Commissions that the proposed work will not be so large or visually intrusive as to adversely affect the historic character and integrity of the adjoining landmark.
+
+Jacob made a motion to advise the Urban Design and Planning Commissions that the proposed work will not be so large or visually intrusive that it would adversely affect the historic character and integrity of the adjoining landmark. Motion passed unanimously.
+
+#### Spring Harbor Mound Group - 1775 Norman Way
+
+**[Legistar 88189](https://madison.legistar.com/LegislationDetail.aspx?ID=88189&GUID=)** - **Certificate of Appropriateness for New Construction on a Designated Madison Landmark Site**
+
+The applicant is requesting that the Landmarks Commission approve a Certificate of Appropriateness to make alterations to a designated landmark site in District 19. The proposed project is to build a detached garage on the residential property that is part of a collection of properties within the boundary of the Spring Harbor Mound Group Landmark site. Staff have worked with the property owner to make sure the new garage is located well away from the burial mounds in the area. The Office of the State Archaeologist has approved a Request to Disturb for this project, in compliance with Wisconsin Burial Law. Staff agree with the State that this project is unlikely to disturb the burial mounds and will not have a negative impact on the historic integrity of the site. Staff believe that the standards for granting a Certificate of Appropriateness are met and recommend the project be approved.
+
+#### North-South Bus Rapid Transit - Section 106 Review
+
+**[Legistar 88465](https://madison.legistar.com/LegislationDetail.aspx?ID=88465&GUID=)** - **Section 106 Review for Bus Rapid Transit Project**
+
+The City of Madison is proposing a north-south bus rapid transit (BRT) route affecting Districts 2, 4, 6, 8, 12, 13, 14, 15, and 18. The project is pursuing funding through the Federal Transit Administration (FTA) and therefore it must comply with Section 106 of the National Historic Preservation Act and its implementing regulations 36 CFR Part 800. Section 106 requires the consideration of effects to historic properties, which are defined as any district, site, building, structure, or object listed in, or determined eligible for listing in, the National Register of Historic Places. As a result, the bus stations are considered structures that require review by the advisory body.
+
+Heather Bailey gave a brief explanation of the North-South Bus Rapid Transit, explaining that this route and the bus stations are much less concerning from a historical perspective than the East-West route was because the North-South route doesn't run near Historic Districts.
+
+Mike Cechvala, of the Planning Division, explained the project in more detail. The Rapid Route B is Transit's 2nd Bus Transit Rapid Route. It will provide 9.1 miles of new BRT runningway and includes 23 new stations. It is the stations that are of concern to Landmarks.
+
+Katherine Kaliszewski commented that she is one of the Cultural Resource Managers for the Department of Transportation. Although most of her work involves highways, she knows the reviewer for this project and knows she will want to see pictures of the stations with emphasis on detail. She added it is important to be very specific and clear that the stations will be similar but will not all look the same. She noted that the station on Park St. is not labeled as a full reconstruct but it appears it is almost a full reconstruct so it needs to be labeled as such. They also must be clear with the reviewer that potentially minor changes will need to be made along the way.
+
+Staff determines there are no adverse effects on historical properties by the project.
+
+Alder Duncan commented that he would like the project to come back to LMC as a review.
+
+Motion by Molly Harris that Landmarks has no comments at this time and would agree with the determination of no adverse effects on historical properties but would like to remain a consulting party and be notified of any changes that have the potential of impacting historical resources. Motion passed unanimously.
+
+#### Kennedy Road Charging Station - Section 106 Review
+
+**[Legistar 88466](https://madison.legistar.com/LegislationDetail.aspx?ID=88466&GUID=)** - **Section 106 Review for On-Route Charging Station**
+
+Mike Cechvala, of the Planning Division, provided a presentation on the planned on-route charging stations in District 18. These stations will be located at the end of both routes. Currently the bus has to go back to the garage to charge, which is costly and time-consuming.
+
+Installation of the on-route chargers on Northport Drive and Kennedy Rd. is a separate project. The project is in the design stage with construction expected in 2025 and 2026 and planned completion in 2026. The charging connection is overhead and includes a support building.
+
+Staff determines there are no adverse effects on historical properties by the project.
+
+Motion by Molly Harris and seconded by Edna Ely-Ledesma that Landmarks has no comments at this time and would agree with the determination of no adverse effects on historical properties. Motion passed unanimously.
+
+#### Demolition Historic Value Review - 630 E. Washington Ave
+
+**[Legistar 88190](https://madison.legistar.com/LegislationDetail.aspx?ID=88190&GUID=)** - **Consideration of a Demolition Permit to Demolish a Commercial Building**
+
+This building in District 6 was constructed in 1959 as St. Patrick's Roman Catholic School and is described as a simple instructional-type building with little architectural interest. The Landmarks Commission completed a historic value review of this same structure on August 26, 2019, and found it to have no known historic value. The Salvation Army of Dane County is proposing a redevelopment of their current property at 630 E. Washington Avenue. Currently the Salvation Army operates a women and family homeless shelter and services at the site in the former catholic school building. The proposed redevelopment would raze the current building and adjacent parking lots to the east and construct a new purpose-built shelter building. The new shelter will contain expanded capacity for single women and families stays. Additionally, it will provide respite recovery rooms, supportive services including case management, food service, classroom training rooms, multi-purpose space, and recreational space. Also, there will be space for medical primary health, mental health, and dental services to be provided.
+
+Staff recommendation is of no known historic value.
+
+The motion made for a finding of no historical value was made by Jacob Morrison, seconded by Edna Ely-Ledesma. Motion passed unanimously.
+
+
+
 
 ### May 5, 2025
 By Diane Zenz
