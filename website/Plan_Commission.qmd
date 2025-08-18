@@ -55,6 +55,10 @@ format:
 
 ### August 11, 2025
 
+By Michael Zenz with the help of Claude AI
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lw5wnpirqk2t)
+
 The Madison Plan Commission held a virtual meeting on August 11, 2025, with significant discussion focused on proposed tree protection ordinance changes and housing development approvals.
 
 #### Tree Protection Ordinance
@@ -120,10 +124,53 @@ The meeting highlighted ongoing tensions between environmental protection and de
 
 
 
+### July 28, 2025
+By Michael Zenz
+
+
+#### Election of Officers
+
+Plan Commission began with the election of officers. The following were elected uncontested. 
+
+- Chair: Commissioner Gnam
+- Vice-chair: Commissioner Solheim
+- Transportation Commission Appointment: Commissioner
+McCahil
+- Joint Campus Area Committee: Commissioner Heck
+
+
+####  Revising the Area Plan Sequence 
+
+
+[Legistar 89107](https://madison.legistar.com/LegislationDetail.aspx?ID=7475465&GUID=C2BE8057-5D78-4383-979D-D8974BE5226F)
+
+Plan Commission approved an adjustment to the Area Plan schedule so that the Downtown Area Plan coincides with other Downtown Madison and UW-Madison Campus planning. They also approved a delay to the Comprehensive Plan update so that more Area Plans can be finished before then. The city will also be delaying the complete Comprehensive Plan rewrite to 2033 to allow staff to focus on Area Plans. Although state law requires a comprehensive plan update every 10 years, according to staff our 5-year minimal plan updates count as satisfying this requirement.
+
+![Area Plan Schedule](resources/PC_2025-07-28_1.jpg){#PC_2025-07-28_1}
+
+#### Allow Excess Parking in a TOD Overlay
+
+[Legistar 88775](https://madison.legistar.com/LegislationDetail.aspx?ID=7439942&GUID=28FC18CC-F96B-4798-A9C2-C93CA74AC092)
+
+Plan Commission allowed a parking expansion to around double the allowed amount at 1502-1702 Pankratz Street in a TOD overlay, with only McCahil voting against (with Wasniewski excluded as a non-voting member). The property is owned by the construction company MSA, and they claimed that because of the nature of their business they have greater parking needs than most businesses. For instance, their employees may need to go to construction sites or meet clients who are not nearby or on a bus route. Many of their staff also do not live in Madison or on a bus route. 
+
+![Excess Parking Plan](resources/PC_2025-07-28_2){#PC_2025-07-28_2}
+
+City staff support the request, and [their report](https://madison.legistar.com/View.ashx?M=F&ID=14546718&GUID=C3538C09-9CE7-460C-BA5A-C78571F66066) lays out why they believe the developer has satisfied the conditions of approval. Although commissioners McCahil and Wasniewski didn't think that the developer provided adequate evidence that they needed parking nearly double what is allowed in the TOD overlay, having only provided a picture of their parking lot full of cars rather than a parking depend study, other alders and commissioners thought that the developer had provided enough evidence. Alder Field worried that any denial of the parking request could be reversed by a court, as was the case recently of a car wash denied conditional use in a TOD on East Washington Ave. Alder Guequierre wondered whether construction businesses like this one may require more parking than some other uses. 
+
+![Conditions of Approval for Excess Parking](resources/PC_2025-07-28_3.jpg){#PC_2025-07-28_3}
+
+
+
+
+
+
 ### July 7, 2025
 
 By Michael Zenz with the help of Claude AI
 
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235181&GUID=D3885307-8909-4C1F-A4F6-988C8810A9EF)
 
 Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3ltfvzoxh3c2h)
 
