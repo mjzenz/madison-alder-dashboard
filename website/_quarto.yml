@@ -3,11 +3,12 @@ project:
 
 
 website:
-  title: " "
+  title: "Councilytics"
   page-footer: 
     center: |
       [Contact Madison Councilytics](mailto:contact@councilytics.com)
   navbar:
+    title: false
     logo: "Councilytics_medium_pic.png"
     logo-href: index.qmd
     background: "#66cbff"
