@@ -7,7 +7,6 @@ format:
 
 ---
 
-Updated on `r format(Sys.Date(), "%B %d, %Y")`.
 
 ## Meeting Summaries
 
