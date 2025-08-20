@@ -6,9 +6,7 @@ website:
   title: " "
   page-footer: 
     center: |
-      [Contact Madison Councilytics](mailto:mail@mjzenz.org)
-   # right: |
-    #  [Source Code](https://github.com/mjzenz/madison-alder-dashboard)
+      [Contact Madison Councilytics](mailto:contact@councilytics.com)
   navbar:
     logo: "Councilytics_medium_pic.png"
     logo-href: index.qmd
@@ -22,15 +20,10 @@ website:
       - about.qmd
       - text: Who's Your Alder?
         href: https://www.cityofmadison.com/council/councilmembers/findAlderByAddress.cfm
-    #right:
-     # - about.qmd
-    #  - text: Voting Records
-     #   menu:
-      #    - Madison_alder_votes.qmd
-        #  - Alder_Detail.qmd
-    #  - text: Election 2025
-     #   menu: 
-      #    - Candidate_Summary.qmd
+    right:
+    - text: "☕ Support Madison Councilytics"
+      href: https://www.buymeacoffee.com/councilytics
+
   search:
    location: navbar
    type: overlay

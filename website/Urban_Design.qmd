@@ -7,6 +7,9 @@ format:
 
 ---
 
+Updated on `r format(Sys.Date(), "%B %d, %Y")`.
+
+
 ## Meeting Summaries
 
 - [2025-03-05](#march-5-2025): Developments at 3361-3375 East Washington Avenue and 501 E Washington Avenue were presented. Commissioners voiced concerns over the designs, particularly regarding the transition from commercial to residential areas and the impact on the surrounding historic district. The commission requested further consideration of landscaping, accessibility, and the overall aesthetic of the buildings.

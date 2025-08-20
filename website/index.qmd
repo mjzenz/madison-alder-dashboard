@@ -22,6 +22,7 @@ load("alder_data_processed.RData")
 
 **YIMBY Score for the new Madison Common Council coming in August 2025!**
 
+Updated on `r format(Sys.Date(), "%B %d, %Y")`.
 
 ## 2023-2025 YIMBY Scores
 

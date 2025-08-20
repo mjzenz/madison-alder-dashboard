@@ -7,13 +7,15 @@ format:
 
 ---
 
+Updated on `r format(Sys.Date(), "%B %d, %Y")`.
+
 
 ## Meeting Summaries
 
 
 - [2025-08-11](#august-11-2025): Discussed proposed tree protection ordinance changes, approved a 73-unit apartment building on North Butler Street, and provided updates on downtown area planning and economic strategy coordination.
 
-
+- [2025-07-28](#july-28-2025): Approved election of officers, revised area plan sequence to align with downtown planning, allowed excess parking in a TOD overlay, and approved a major alteration to the Red Caboose site on Willy Street.
 
 - [2025-07-07](#july-7-2025): Approved several significant housing developments, including a 80-unit apartment building on Northport Drive and a large mixed-use complex on City View Drive, new Reiland Grove subdivision, and advanced key "Housing Forward" zoning initiatives.
 - [2025-06-23](#june-23-2025): Approved a 93-unit affordable housing development on Verona Road and WMC building replacement on E Wash.
@@ -31,22 +33,23 @@ format:
 
 *2025 Housing Approval Counts*
 
-| Date       | Single-Family | Duplex/Triplex | Multi-Family | Total |
-|------------|---------------|----------------|--------------|-------|
-| 2025-08-11 | 0             | 0              | 73           | 73    |
-| 2025-07-07 | 394           | 154            | 290          | 838   |
-| 2025-06-23 | 0             | 0              | 316          | 316   |
-| 2025-06-09 | 0             | 0              | 302          | 302   |
-| 2025-05-19 | 0             | 0              | 0            | 0     |
-| 2025-05-12 | 0             | 0              | 21           | 21    |
-| 2025-04-27 | 0             | 0              | 0            | 0     |
-| 2025-04-07 | 0             | 0              | 0            | 0     |
-| 2025-03-17 | 0             | 0              | 60           | 60    |
-| 2025-03-03 | 0             | 0              | 0            | 0     |
-| 2025-02-03 | 0             | 0              | 0            | 0     |
-| 2025-01-20 | 0             | 0              | 0            | 0     |
-| 2025-01-13 | 0             | 0              | 0            | 0     |
-| **Total**  | **394**       | **154**        | **1,062**    |**1,610**|
+| Date       | Single-Family | Duplex/Triplex | Multi-Family | Total   |
+|------------|---------------|----------------|--------------|---------|
+| 2025-08-11 | 0             | 0              | 73           | 73      |
+| 2025-07-28 | 0             | 0              | 26           | 26      |
+| 2025-07-07 | 394           | 154            | 290          | 838     |
+| 2025-06-23 | 0             | 0              | 316          | 316     |
+| 2025-06-09 | 0             | 0              | 302          | 302     |
+| 2025-05-19 | 0             | 0              | 0            | 0       |
+| 2025-05-12 | 0             | 0              | 21           | 21      |
+| 2025-04-27 | 0             | 0              | 0            | 0       |
+| 2025-04-07 | 0             | 0              | 0            | 0       |
+| 2025-03-17 | 0             | 0              | 60           | 60      |
+| 2025-03-03 | 0             | 0              | 0            | 0       |
+| 2025-02-03 | 0             | 0              | 0            | 0       |
+| 2025-01-20 | 0             | 0              | 0            | 0       |
+| 2025-01-13 | 0             | 0              | 0            | 0       |
+|**Total**   | **394**       | **154**        | **1,088**    |**1,636**|
 
 
 
@@ -154,7 +157,7 @@ Plan Commission approved an adjustment to the Area Plan schedule so that the Dow
 
 Plan Commission allowed a parking expansion to around double the allowed amount at 1502-1702 Pankratz Street in a TOD overlay, with only McCahil voting against (with Wasniewski excluded as a non-voting member). The property is owned by the construction company MSA, and they claimed that because of the nature of their business they have greater parking needs than most businesses. For instance, their employees may need to go to construction sites or meet clients who are not nearby or on a bus route. Many of their staff also do not live in Madison or on a bus route. 
 
-![Excess Parking Plan](resources/PC_2025-07-28_2){#PC_2025-07-28_2}
+![Excess Parking Plan](resources/PC_2025-07-28_2.jpg){#PC_2025-07-28_2}
 
 City staff support the request, and [their report](https://madison.legistar.com/View.ashx?M=F&ID=14546718&GUID=C3538C09-9CE7-460C-BA5A-C78571F66066) lays out why they believe the developer has satisfied the conditions of approval. Although commissioners McCahil and Wasniewski didn't think that the developer provided adequate evidence that they needed parking nearly double what is allowed in the TOD overlay, having only provided a picture of their parking lot full of cars rather than a parking depend study, other alders and commissioners thought that the developer had provided enough evidence. Alder Field worried that any denial of the parking request could be reversed by a court, as was the case recently of a car wash denied conditional use in a TOD on East Washington Ave. Alder Guequierre wondered whether construction businesses like this one may require more parking than some other uses. 
 
@@ -163,7 +166,30 @@ City staff support the request, and [their report](https://madison.legistar.com/
 
 
 
+[Legistar 88718](https://madison.legistar.com/LegislationDetail.aspx?ID=7435674&GUID=CCEBA386-1499-425F-84EC-24D64439F62A)
 
+In Eastmoreland the Common Grace congregation sought Planned Development (PD) rezoning to allow them to demolish their current church at 3565 Tulane Ave. and build a 7000sq ft community center that will include a church, in addition to a 26 unit apartment building. Although the city typically does not use PD zoning for new developments, as it is a custom-made zoning to each lot, the inclusion of both a community center and housing required the rezoning from Traditional Residential (TR-C2) to a Planned Development. 
+
+![Tulane Ave. Community Center, Church and Housing](resources/PC_2025-07-28_4.jpg){#PC_2025-07-28_4}
+
+
+The housing in this location will consist of 18 studios, three one-bedrooms, 4 two-bedrooms, and 1  three-bedrooms. The developer said that the large number of studios on this site would make the apartments more affordable (target at < 80% Area Median Income), though it would not be subsidized. Several neighbors spoke out in support of the development, though one neighbor said that she had just learned about the plans for the church (even though there was a community meeting about it) and worried about people living in small apartments in such density.
+
+Plan Commmission recommended the zoning change to Council unanimously, with several members saying that they were impressed by the development's ability to bring affordable housing to this area while retaining the community gathering place.
+
+![Common Grace Church's Current Building](resources/PC_2025-07-28_5.jpg){#PC_2025-07-28_5}
+
+
+
+
+
+#### Alteration at Development for Red Caboose Site 
+
+[Legistar 88776](https://madison.legistar.com/LegislationDetail.aspx?ID=7439960&GUID=15E7A1F6-DD3C-40FD-9502-E30AC38CA4A2)
+
+On the consent agenda Plan Commission approved a major alteration to an approved building to replace the Red Caboose at 656 Willy St. The building will be larger, going from 45 to 53 units and now fully 5 stories. The old plans called for a part of it to be 3 stories. The first approval was controversial because of concerns about maintaining Jennifer St. Capitol views.
+
+![Comparison between new and old plans at 656 Willy](resources/PC_2025-07-28_7.jpg){#PC_2025-07-28_7}
 
 ### July 7, 2025
 

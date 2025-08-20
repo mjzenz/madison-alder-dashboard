@@ -7,6 +7,8 @@ format:
 
 ---
 
+Updated on `r format(Sys.Date(), "%B %d, %Y")`.
+
 ## Meeting Summaries
 
 - [2025-08-04](#august-4-2025): Approved a Certificate of Approval for an addition to a property at 739 Jenifer Street in the Third Lake Ridge Historic District. Approved demolition and addition to the Sauthoff House at 740 Jenifer Street, a designated Madison landmark.
@@ -36,9 +38,9 @@ It was a short agenda this evening with the meeting taking less than 25 minutes.
 
 - **Request for Certificate of Approval** of an addition to this Third Lake Ridge Historic District property located at **739 Jenifer St** in **District 6** [Legistar 88975](https://madison.legistar.com/LegislationDetail.aspx?ID=7455490&GUID=FE72334F-3019-4D5D-A493-ACF1E691C024) was moved to the Consent Agenda. Motion to approve was made by Alderman Duncan and seconded by Jacob Morrison and passed unanimously.
 
-![Site plan and elevation drawings for the 739 Jenifer St addition](LM_2025-08-04_1.png)
+![Site plan and elevation drawings for the 739 Jenifer St addition](resources\LM_2025-08-04_1.png)
 
-![Architectural renderings showing the proposed addition to 739 Jenifer St](LM_2025-08-04_2.png)
+![Architectural renderings showing the proposed addition to 739 Jenifer St](resources\LM_2025-08-04_2.png)
 
 #### Sauthoff House - 740 Jenifer St
 
@@ -46,13 +48,13 @@ It was a short agenda this evening with the meeting taking less than 25 minutes.
 
 The home is in the Third Lake Ridge Historic District (District 6). The building, known as the Sauthoff House, was built in 1857 and was designated a Madison landmark in 1977. Frederick (a tailor) and Johanna Sauthoff moved from Hanover, Germany and were the first owners of the home. The Sauthoff House was designated a landmark for its association with 19th century merchant families in the early history of the city and for its vernacular architecture. In the 1950s a rear addition was added to the home. This addition, like other additions to historic homes in that period, has no significance in its own right.
 
-![Historic photograph of the Sauthoff House at 740 Jenifer St, showing the original 1857 structure](LM_2025-08-04_3.png)
+![Historic photograph of the Sauthoff House at 740 Jenifer St, showing the original 1857 structure](resources\LM_2025-08-04_3.png)
 
 The original building is characterized by its blocky style. The proposed addition on the back of the structure (which faces the lake) is a contemporary interpretation of this same blocky style. There will also be large open areas with many of the areas featuring large glass windows.
 
-![Architectural renderings of the proposed contemporary addition to the rear of the Sauthoff House](LM_2025-08-04_4.png)
+![Architectural renderings of the proposed contemporary addition to the rear of the Sauthoff House](resources\LM_2025-08-04_4.png)
 
-![Site plan and elevation drawings showing the integration of the new addition with the historic structure](LM_2025-08-04_5.png)
+![Site plan and elevation drawings showing the integration of the new addition with the historic structure](resources\LM_2025-08-04_5.png)
 
 Joy Newmann, the next-door neighbor, spoke very highly of the owner's care for the home and the proposed project. Leslie Marshall (homeowner), Michael Abraham and Abigal Rohlinger (Michael Abraham Architecture), and Mikael Eder (Bachman Construction) were available to answer questions. There were no questions.
 
