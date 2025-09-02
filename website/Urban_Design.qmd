@@ -11,6 +11,10 @@ format:
 
 ## Meeting Summaries
 
+- [2025-08-13](#august-13-2025): The Urban Design Commission's August 13th meeting featured technical difficulties and leadership changes, but managed to grant initial approval to a mixed-use development at East Washington Avenue and held an informational hearing on affordable housing for the old Oscar Meyer site.
+
+- [2025-07-30](#july-30th-2025): The Urban Design Commission held an unusually brief July 30th meeting due to quorum issues, managing only to pass one consent agenda item and hear a presentation on a mixed-use development at East Washington Avenue and Fair Oaks before losing quorum at 5pm. The developers presented updates including additional townhouse units and building improvements, but the item was ultimately referred to the August 13th meeting without action.
+
 - [2025-07-16](#july-16th-2025): The Urban Design Commission convened to review signage proposals for the Rosen Nissan dealership and the Eastmorland Community Center and Housing development. The commission approved the signage updates for Rosen Nissan with modifications, particularly concerning the height of the brand identification sign. The Eastmorland project received unanimous approval, with commissioners praising the thoughtful design and community focus, although some concerns were raised about specific material choices.
 
 - [2025-06-25](#june-25th-2025): The Urban Design Commission held a focused meeting to review signage plans for the residential development at 655-667 S Whitney Way, ultimately denying one component of the proposal due to size restrictions. The commission approved all other signage elements, including wall-mounted and directional signs, but rejected the oversized projecting sign as it exceeded city code limits.
@@ -47,13 +51,13 @@ Finding their footing, the UDC moved on to discuss [Legistar 87242](https://madi
 
 Although they raced through the item during UDC's last meeting, the developers were asked to start fresh this time for fairness. They recapped their plans for a collection of existing commercial and residential lots that will be combined for a mixed-use building, again noting two inner parcels that will help break up the site and "add diversity" to the lot. 
 
-![Final Presentation Opening Slide provided by Knothe + Bruce Architects](UDC_2025-08-13_01.png)
+![Final Presentation Opening Slide provided by Knothe + Bruce Architects](resources/UDC_2025-08-13_01.png)
 
 The developers noted the increased overall size of building one by extending it along East Washington Avenue, which allowed for additional rooftop plaza space. They have also added a six-unit townhouse building, which will have single parking garages, three bedroom units, and be two stories tall. The townhomes' design is intended to complement building one in aesthetic, color, and material types. 
 
 The developer then reminded the commissioners of the added dog run in the southeast portion, as well as a privacy fence along the southeast lot line. There were also changes made to the landscaping, with the developer crediting the landscaping improvements to the missing Commissioner Bernau. Specifically, plans now include cedar trees in response to more screening from a landscape perspective. This is meant to aid in blocking vehicle headlights and some of the light pollution from nearby street lamps. 
 
-![Improved landscaping plan](UDC_2025-08-13_02.png)
+![Improved landscaping plan](resources/UDC_2025-08-13_02.png)
 
 The design was additionally modified to include UDC's prior suggestion for walk-up units on the North Fair Oaks Street side; however, the developers were getting concerned about footing and the walk-ups' foundations. This was largely driven by the sloping and grade drop, as they are trying to work within the existing grading and sidewalk so there is less disruption to the current set-up. Due to this, they are looking at rotating stairs, but cannot guarantee the walk-ups will make it into the final build. 
 
@@ -63,9 +67,9 @@ As for the interior, the developer highlighted three elevators total for the bui
 
 Shifting their focus back to the new townhouses, the developer again stated these are going to be a slightly more muted version of the main complex in order to aid in the transition into the current residential area. Essentially, they want it to be complementary, but did not want it to be a stark transition into the single home residential area located to the southwest of the development. 
 
-![Comparison view of main building, as rendered from the North Fair Oaks parking entrance](UDC_2025-08-13_03.png)
+![Comparison view of main building, as rendered from the North Fair Oaks parking entrance](resources/UDC_2025-08-13_03.png)
 
-![Townhouse elevation plans](UDC_2025-08-13_04.png)
+![Townhouse elevation plans](resources/UDC_2025-08-13_04.png)
 
 Commissioner Asad asked about the ceiling height in the townhomes and whether or not the height of the building meant the developer planned to hide a condenser on the roof. They responded that ceilings were planned to be nine feet high, with a parapet height of 28 feet. They do hope to install a condenser on the roof, but if they are unable to hide one on top of the building, they will explore adding one "somewhere around the building." Overall, Commissioner Asad liked the design, stating "something is very vibrant and just pops with this," and said it complements the design of the apartments well. The Commission and KBA later returned to discussing the windows for the townhomes, with some commissioners questioning placement and size. The developer walked UDC through the structural constraints they are under, as well as still needing to determine the condenser's placement—which could impact the need for extra support and space above the windows. 
 
@@ -73,11 +77,11 @@ Commissioner Klehr followed Commissioner Asad's questioning of the ceiling heigh
 
 Moving on, Commissioner Mbilinyi commented how she loves the colors and is glad to see how Madison is coming together with some of the new developments; however, she questioned the white paneling being used. The developer asserted they meant to offer some relief to the darker colors used without adding too many colors to the building. Commissioner Mbilinyi pushed for black panels to highlight the other colors more, but the developer said they really wanted the white due to how muted everything looked when they did renderings with darker colors. Meanwhile, Commissioner Asad jumped in to say he actually likes it, to which Commissioner McLean agreed. Nevertheless, Commissioner Asad suggested a light gray to make it less dramatic and be a happy medium between UDC and the developer. 
 
-![Rendering showing white paneling Mbilinyi disagrees with](UDC_2025-08-13_05.png)
+![Rendering showing white paneling Mbilinyi disagrees with](resources/UDC_2025-08-13_05.png)
 
 Commissioner McLean returned to the question posed by the developer about the walk-ups and current grading issues. McLean said he thought having enclosed patios would be fine if they could not safely implement the stairs, but that some outdoor space should be provided to the ground floor residents along North Fair Oaks.  
 
-![Image highlighting concerns over structural integrity of walk-ups](UDC_2025-08-13_06.png)
+![Image highlighting concerns over structural integrity of walk-ups](resources/UDC_2025-08-13_06.png)
 
 Commissioner Klehr spoke on the pedestrian and cyclist experience in Madison, saying a lot of the new buildings have not done a good job of transitioning between commercial and residential areas. She did admit that they are completed in the same language and complement the neighboring residences well aesthetically, but that the transition for those traversing the area is rough. This led Commissioner Asad to ask about future plans for the neighborhood and how this will impact the transition from apartments into single family homes, with Commissioner Klehr mentioning another development happening across North Fair Oaks that will be four to five stories high. The two discussed how the two will communicate, with Commissioner Klehr noting that the single family homes will likely eventually be torn down and turned into complexes. Ultimately, they agreed that the building fit with future plans, even if the building heights are currently a bit disjointed and do not communicate as well now as they have the potential to in the future with new buildings. 
 
@@ -87,21 +91,21 @@ Due to the number of changes made from previous proposals and UDC being the appr
 
 Up next, the Commission heard from developers on [Legistar 88916](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98084), which proposes a **new mixed-use building** in **Urban Design District (UDD) 4**, located at **2150 Commercial Avenue and 2231-2235 Myrtle Street** in **District 12**. 
 
-![Northwestern corner street view rendering, provided by JLA Architects](UDC_2025-08-13_07.png)
+![Northwestern corner street view rendering, provided by JLA Architects](resources/UDC_2025-08-13_07.png)
 
 Rachel Creek, from The Annex Group, gave some background on the developer and their initiatives. Creek highlighted their focus being an affordable multi-family housing group who is currently active in 15 to 20 states. Their newest endeavor, "Central at the Forge," is slated to be constructed on the old Oscar Meyer lot, located near the corner of Commercial Avenue and Packers Avenue on Madison's north side, and includes five levels of structured parking. 
 
-![About The Annex Group info sheet](UDC_2025-08-13_08.png)
+![About The Annex Group info sheet](resources/UDC_2025-08-13_08.png)
 
 Barry Yang from JLA Architects presented their design plans, noting there will be 86 units per acre over about 2.6 acres of development and 4 acres total of land (241 total units). Their plan includes affordable one-, two-, and three-bedroom options, as well as commercial space. Due to the length of the building, JLA has incorporated two entrances, one on either end of the building, and has opted for three colors of fiber-cement material to visually reduce the building scale and break up the facade. Yang also noted the added parapets to the building's corners to aid in breaking up the facade, as well as emphasize building ends. 
 
-![Building plans showing one-bedroom units in green, two-bedroom units in yellow, three-bedroom units in orange, and commercial space on north and south ends in red](UDC_2025-08-13_09.png)
+![Building plans showing one-bedroom units in green, two-bedroom units in yellow, three-bedroom units in orange, and commercial space on north and south ends in red](resources/UDC_2025-08-13_09.png)
 
 Yang then drew attention to how one part of the parking structure is exposed to the street, leading to the decision to add metal fins to the design. This pattern was then repeated for continuity, creating both vertical and horizontal patterns in the plan. As part of a similar pattern, Yang stated JLA chose not to use red brick on the commercial sections in order to de-emphasize them and instead draw attention to the more vibrant red used on the residential sections. Ultimately, their goal was to make the commercial space non-competing with other corners as far as imagery. 
 
 Going back to the concerning length of the building, Yang notes the building's somewhat odd shape. This was intended to again break up the facade, in addition to offering a respite area for a courtyard. According to Yang, the courtyard will be used to increase opportunity for social interaction by offering a barbecue area, fire pit, and benches. 
 
-![Site plan highlighting shape of building, parking structure location, and proposed courtyard space](UDC_2025-08-13_10.png)
+![Site plan highlighting shape of building, parking structure location, and proposed courtyard space](resources/UDC_2025-08-13_10.png)
 
 Once JLA and Annex finished their presentation, the Commission heard from the sole public comment registrant, Kristen, who lives in the Sherman Neighborhood. Although her comment seemed somewhat lost, she stated "that's a big building for that plot, first of all," before making what seemed to be a complaint about the number of new buildings going up and the amount of new people they were bringing into the neighborhood. She then shifted her focus to flooding in the area, complaining about the police department being "very short [staffed]… you're lucky if you get a phone call back." While somewhat confusing, it appeared she was attempting to argue that the City needs to fix the flooding issues before continuing to develop much needed housing. 
 
@@ -111,13 +115,13 @@ Commissioner Klehr refocused the group, asking the applicant why they decided on
 
 In a somewhat defensive tone, Creek asked for more information. Commissioner Klehr stated Dan Seibel is the new owner of the Oscar Meyer facility and has plans for development. Specifically, the commissioner asked if the developer is working with the other landowner to coordinate at all. Ramping up their defense, Creek stated "no, this is our land, we aren't working with them." Commissioner Klehr clocked the tone, but stood on business, clarifying the two groups could work together to make this a more cohesive, coordinated project. Creek quickly realized she was becoming unnecessarily defensive, but stated she thinks zoning switches at the other plot to IL, but would be willing to work with them for smoother zoning and property transitions. 
 
-![Street view rendering of Central at the Forge](UDC_2025-08-13_11.png)
+![Street view rendering of Central at the Forge](resources/UDC_2025-08-13_11.png)
 
 Commissioner Mbilinyi asked why the base looks like it's coming halfway up the building, making it seem as if the building is cut in half in some areas. Yang argued JLA is trying to emphasize the corner in order to draw pedestrians into areas where there is either a residential amenity or retail space as a sort of undesignated wayfinding for pedestrians. Commissioner Mbilinyi clarified that she feels like there is no base articulated by the difference in material heights—specifically focusing on the facade as a whole, not just what is housing. The architect continued to argue, stating this is their version of a contemporary design. With some back and forth between the Commissioner and architect on what exactly contemporary means, they ultimately ended the conversation with an unsaid agreement to disagree. 
 
 Commissioner McLean noted that "someplace in our hearts we all have something to say about that" with respect to the length of the building, but reminded everyone of the overall consensus this is a very long building on a very long-view, open street. Taking on the "good cop" role, he stated seeing "a little play within the canopies within the residential massing." That being said, he agreed with fellow commissioners there needs either vertical or spatial relief; however, the more he looked at it, the more he started to like it. Commissioner McLean then asked Commissioner Klehr for her thoughts, with Commissioner Klehr stating she finds the brick halfway down on the right a bit confusing. She was not sure what was going on with the design, reassuringly adding maybe it is commercial space and she just is not understanding the plan. 
 
-![Northeast corner street view rendering of Central at the Forge](UDC_2025-08-13_12.png)
+![Northeast corner street view rendering of Central at the Forge](resources/UDC_2025-08-13_12.png)
 
 Yang re-stated how red brick is applied where there is commercial space on the ground floor, dark gray brick veneer is used where there is residential, then another color is used to signify building entries. Commissioner Klehr, seemingly sensing Yang's irritation, reminded the group that this is an informational hearing, pushed her point that there is room for improvement, and urged all to take notes for future appearances with UDC. 
 
@@ -144,9 +148,9 @@ Despite ultimately being referred to their August 13th meeting, UDC heard from t
 
 The developer highlighted principal changes to the project—mainly the acquisition of two additional properties which will be included in the updated site design. 
 
-![Satellite view of two newly secured parcels](UDC_2025-07-30_01.png)
+![Satellite view of two newly secured parcels](resources/UDC_2025-07-30_01.png)
 
-![New site plan, which includes six additional townhouse units](UDC_2025-07-30_02.png)
+![New site plan, which includes six additional townhouse units](resources/UDC_2025-07-30_02.png)
 
 Thanks to the new properties, developers were able to add an additional building on the southwest corner of the property. This is planned to be a two-story, townhouse style development comprised of six units with attached garages—bumping the total number of dwelling units on site to 177. 
 
@@ -180,7 +184,7 @@ Item two on tonight's agenda focused on [Legistar 88729](https://madison.legista
 
 Coss presented plans for updated signage with a new dealership brand identification sign featuring a minimalistic design of the Nissan logo using the red, black, and white—uniform with other Nissan locations participating in the global brand refresh. Coss then reviewed the directional signage for wayfinding and exterior wall signage included in the proposal. 
 
-![Signage overview provided by Rosen Nissan, demonstrating signs approved by Nissan's Corporate offices](UDC_2025-07-16_01.png)
+![Signage overview provided by Rosen Nissan, demonstrating signs approved by Nissan's Corporate offices](resources/UDC_2025-07-16_01.png)
 
 Staff Jessica Vaughn identified several areas where the proposal exceeds current code requirements, including Rosen Nissan's request to update their 30 foot brand identifying sign, as well as the pillar-style signs that would be located throughout the property. Most notably, Staff Vaughn stated the Staff recommendation is to deny the proposal for the 30 foot sign. Currently, the City's code only allows a maximum height of 13 foot signs and encourages pole-signs over block styles. Staff clarified that existing 30-foot signs were previously approved by Dane County when they were part of the Town of Madison, but in 2022 they were absorbed into the City of Madison. Since the municipal absorption, any sign changes require new approval through the current process. Currently, signs may receive updates to their face; however, body modifications to the upper portion and total replacements require conditional use approval. 
 
@@ -198,17 +202,17 @@ The development team presented their vision for addressing the shortage of worki
 
 Tyler Crook, representing the development team, showcased significant improvements to their site plan since it last came before UDC. This included parking reorganization so areas no longer project into the central plaza, making it more usable and central to the development, flexible space design to accommodate flexible uses such as farmers markets and food trucks, enhanced landscaping to incorporate significantly more greenery, and historic preservation with the inclusion of an old spire from the existing building, which will be converted into a sculpture to honor the original structure. 
 
-![Site perspective comparison showing visual used in the informational presentation to UDC and the updated, current proposal](UDC_2025-07-16_02.png)
+![Site perspective comparison showing visual used in the informational presentation to UDC and the updated, current proposal](resources/UDC_2025-07-16_02.png)
 
 The design also includes several amenities to residents and community members—namely thirty-eight bike stalls distributed throughout the site, individual residential entries on the Ogen Street portion of the building, and a comprehensive lighting design. Crook took the opportunity to highlight the pole LED lights in parking areas, wall sconces, and rope LED lighting under plaza seating.  
 
 Commissioner Mbilinyi, an experienced practicing licensed architect, praised the development team for their thorough research and consideration. She noted the thoughtful approach to maximizing space usage while addressing critical community housing needs, stating this was clearly a well thought-out design and previous comments by UDC had been taken to heart. Although it was left unsaid, it was clear the UDC was proud of fellow Commissioner Bernau's landscaping design choices. 
 
-![Commissioner Bernau's landscape planting plan](UDC_2025-07-16_03.png)
+![Commissioner Bernau's landscape planting plan](resources/UDC_2025-07-16_03.png)
 
 Alder Asad also acknowledged the project's improvement from previous designs, but questioned the use of a white panel that appears unique to a section with six windows. While recognizing the overall progress, he felt this material choice seemed out of place with the rest of the design. Commissioner Mbilinyi agreed with the concern but understood the design intent to use white material for highlighting building height and providing spatial relief in the overall composition. 
 
-![Building design renderings, which Alder Asad referenced when commenting about the unique white sections of the building (most notable in the top middle and direct middle panels of the image)](UDC_2025-07-16_04.png)
+![Building design renderings, which Alder Asad referenced when commenting about the unique white sections of the building (most notable in the top middle and direct middle panels of the image)](resources/UDC_2025-07-16_04.png)
 
 Before UDC voted, Alder Rutherford provided strong district-level support for the development, emphasizing that it targets a demographic in dire need of housing. They highlighted the project's value in creating a walkable community with worship, shopping, and community amenities in a working-class area that needs both housing and community spaces. Alder Rutherford also spoke on a personal note, stating how difficult it has been for them recently in the search for housing not just in the city, but especially in their own district. 
 
@@ -281,9 +285,9 @@ Moving on, UDC shifted their focus to [Legistar 86816](https://madison.legistar.
 
 Multiple members of the design team presented, starting with Pat Terry from JLA Architects. Terry gave a plan overview for the five-story building, stating plans included 246 residential units, rooftop amenities such as a pool and community room, as well as two levels of below-grade parking. Terry also mentioned two current parking areas, which have plans for being combined in order to meet zoning code requirements. Another member of the development team chimed in to remind UDC of a smaller project that was approved last year, but they took what was approved and extended it to the west using the same architectural language. 
 
-![Formerly approved project and new/updated proposal renderings](UDC_2025-05-28_01.png)
+![Formerly approved project and new/updated proposal renderings](resources/UDC_2025-05-28_01.png)
 
-![Formerly approved project and new/updated proposal renderings](UDC_2025-05-28_02.png)
+![Formerly approved project and new/updated proposal renderings](resources/UDC_2025-05-28_02.png)
 
 Andrew Gifford with JSD then shifted the presentation's focus to more technical aspects of the project, informing the Commission that they have adjusted their plans to move sanitary and storm sewers around the building, whereas they were previously designed to be to the west, but have now been moved to the east side of the building. Gifford also notes the addition of more landscaping—including more shade plants, trees, and shrub buffers for patio areas. 
 
@@ -309,7 +313,7 @@ Moving on to the evening's hottest topic, the Commission reviewed [Legistar 8834
 
 The applicant team seemed to be out of their depth, although they appeared to be providing as much information as they could on the proposal. Essentially, the requesting body wanted to change the location's color to make the building more uniform with surrounding buildings, referring to the structures immediately next to the site and The Hub apartments, as well as fight the never-ending slew of graffiti the building obtains. The building has already been painted previously without approval, as well as had tiling installed on the front facade, but it was unclear when and what products were used. 
 
-![Building facade alterations on Gilman Street](UDC_2025-05-28_03.png)
+![Building facade alterations on Gilman Street](resources/UDC_2025-05-28_03.png)
 
 The applicants have contacted several pressure washing companies to see about removing the current paint, but no one would touch it. Most companies said to either get approval from the City for repainting, or to get approval for exterior changes in the event they moved forward with pressure washing and needed to repair the structure. The requesting team later clarified that the companies would not be able to water- or sand-blast due to damage concerns, as well as the fact the building was built prior to 1978. 
 
@@ -341,29 +345,29 @@ The final item of the night was [Legistar 88296](https://madison.legistar.com/ga
 
 John Welch presented first for the development team, reviewing plans for a new landfill and sustainability campus on a site that was purchased from the eastern portion of the Yahara Hills Golf Course two years ago. Welch explained the plans include critical infrastructure such as scale building and maintenance shop, as well as an administrative and public education building. 
 
-![Map of proposed layout for the new Dane County Sustainability Campus](UDC_2025-05-28_04.png)
+![Map of proposed layout for the new Dane County Sustainability Campus](resources/UDC_2025-05-28_04.png)
 
 Austin Conrad, the project manager, spoke next. Conrad showed UDC the site's location, which would be across the beltline from the current landfill. While the development will be separate from the landfill, the project is directly related. He also went over traffic plans, as they have spent a considerable amount of time evaluating the safety of the direction and flow. 
 
-![Traffic direction proposal](UDC_2025-05-28_05.png)
+![Traffic direction proposal](resources/UDC_2025-05-28_05.png)
 
 Another member from the development team went over their landscape approach, stating they wanted to focus their planting design to be "low-input to make it easier to maintain by staff." They highlighted the use of several native plants, the inclusion of shrubs and dense evergreens, in addition to a significant number of trees to provide shade and soften the location's appearance. He then went over plaza and patio space, which will have flex-use throughout the year for their trash lab, general use, public education, and more. 
 
-![Landscaping plans for the new Dane County Sustainability Campus's Main Building](UDC_2025-05-28_06.png)
+![Landscaping plans for the new Dane County Sustainability Campus's Main Building](resources/UDC_2025-05-28_06.png)
 
 The development team continued by reviewing the main building's layout, highlighting the spaces intended for educational programs. Building plans include lobby spaces, a community room, and educational classrooms. The rest of the building is meant for administrative services, with the second floor consisting of changing rooms, offices, and workspace. Developers also noted there is a screen wall included on the rendering, which provides some respite for machines and vehicles that need to be regularly stored outside of the building. 
 
 Alec Kendry then went over the plans for the maintenance shop, which will have a uniform roof, but multiple bays with varying garage door sizes to accommodate specific equipment. Kendry also pointed out a second structure located behind the shop, which will act as a sort of carport for vehicles not currently being serviced. Returning to the shop's design, the roof will be sloped to the south in order to utilize solar power panels. He also mentioned the windows on the garage doors will be above eye level, indicating it was more of an aesthetic choice than utility. Commissioner Asad later suggested looking at gutter placements, but overall liked the plans. 
 
-![Rendering of proposed maintenance shop](UDC_2025-05-28_07.png)
+![Rendering of proposed maintenance shop](resources/UDC_2025-05-28_07.png)
 
 Finally, the development team moved on to the scale building, which includes a 270 degree window view, so operators can easily identify vehicles coming to use the weigh station. 
 
 Commissioner Mbilinyi questioned the development team on their material and color choice for the main building—stating there was no articulation in the design. She thought the scale building was "beautiful" but did not think the main building's design met the standards set by its smaller counterpart. Commissioner Mbilinyi's opinion was that there was too much blocking, which led her to suggest a base or some other sort of respite to articulate the building. She reassured the developers the main building was also "beautiful," but thought it could be improved to match the level of the scale building. 
 
-![Rendering of the Scale Building for the Campus's Weigh Station](UDC_2025-05-28_08.png)
+![Rendering of the Scale Building for the Campus's Weigh Station](resources/UDC_2025-05-28_08.png)
 
-![Rendering of the Main Building to be used for administration and education](UDC_2025-05-28_09.png)
+![Rendering of the Main Building to be used for administration and education](resources/UDC_2025-05-28_09.png)
 
 Commissioner Klehr agreed the buildings are "handsome" but questioned sustainability measures, noting how most newer developments of this scale are incorporating more eco-friendly measures. The developers responded by stating they are looking at using all recyclable materials, mentioned again their desire to include solar panels, and were even open to using already recycled materials when next asked by Commissioner Bernau. 
 
@@ -393,25 +397,25 @@ Wednesday, May 7th had a concise meeting after moving two of the three agenda it
 
 On to the evening's main course, the Commission heard from JLA Architects regarding [Legistar 87954](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=97302), requesting **alterations to a previously approved mixed-use building** in Urban Design District 8, which will be located at **702 East Washington Avenue** in **District 6**. 
 
-![Updated Building Rendering Showing New and Improved Design Proposal](UDC_2025-05-07_01.png)
+![Updated Building Rendering Showing New and Improved Design Proposal](resources/UDC_2025-05-07_01.png)
 
 The familiar Troy Jacoby presented for JLA after additional technical difficulties joining the Zoom meeting. The City initially sent the developer team a link to the wrong meeting and had to send a new one. Even then, there were issues with Jacoby not receiving the email and needing to have a fellow JLA member forward the updated link to him in order to join and present. 
 
 Nevertheless, Jacoby hit the ground running, catching the UDC up on updates JLA has been making to the design over the past year since they were last before the Commission. 
 
-![Comparison of previously approved proposal and updated design](UDC_2025-05-07_02.png)
+![Comparison of previously approved proposal and updated design](resources/UDC_2025-05-07_02.png)
 
 Jacoby noted the two story plinth "with a really activated street front" is largely unchanged; however, there are reduced percentage openings on the upper half due to the unit layouts. The smaller windows are meant to accommodate building performance, energy efficiency, and to offer less restrictive options for residents' furniture layouts. 
 
 Looking specifically at the exterior design, JLA has opted for railings instead of dividers on the balconies, which allows more natural lighting into the units. There is also increased texture, additional colors, and overall more personality on both the north- and south-facing sides of the structure. Jacoby also notes a change to a "totally secured parking deck" with no openings, unlike previous design which left vehicles and a portion of the structure exposed to the elements. In the same vein as parking, the developer has introduced loading a dock on back elevation for service deliveries into building. 
 
-![Side view rendering comparing original, approved design and updated proposal](UDC_2025-05-07_03.png)
+![Side view rendering comparing original, approved design and updated proposal](resources/UDC_2025-05-07_03.png)
 
 Looking at the side views, Jacoby assured the Commission JLA would still be using metal panels, but stated there were changes in the dimensions. For one, recessed balconies were reduced to put that square footage back into the units and aid in the utilization of natural lighting in the units. Recessed lighting was also added for increased nighttime visibility without hindering the overall design and building functionality. 
 
 There were also changes made along the Blount street facade, where JLA has introduced color-matching louvers to the design. Although they must keep the service doors for MG&E, they worked to increase the artwork size, as well as decided to frame it with metal sheeting to add emphasis. 
 
-![Infographic highlighting changed made in the proposal, noted by the red dashes](UDC_2025-05-07_04.png)
+![Infographic highlighting changed made in the proposal, noted by the red dashes](resources/UDC_2025-05-07_04.png)
 
 Commissioner Klehr asked about the durability of the metal and JLA's experience working with the material. Jacoby reassured the UDC by stating they were familiar with the materials in the proposal and have recently done a project on Regent Street which used one of the two proposed metal options—specifically the Centria siding. While they had not worked with their second option, Muza, the only difference would be the flatness. JLA proposed two options due to concerns over recently imposed tariffs, which could cause them to not only run into budget issues, but supply chain troubles as well. 
 
