@@ -11,6 +11,7 @@ format:
 
 ## Meeting Summaries
 
+- [2025-08-25](#august-25-2025): Approved significant changes to the tree protection ordinance expanding protection zones and enforcement mechanisms, discussed proposed area planning policy changes including eliminating the "escalator clause" for Low-Medium Residential districts, and approved two major housing developments on Fair Oaks Avenue and Commercial Avenue.
 
 - [2025-08-11](#august-11-2025): Discussed proposed tree protection ordinance changes, approved a 73-unit apartment building on North Butler Street, and provided updates on downtown area planning and economic strategy coordination.
 
@@ -34,6 +35,7 @@ format:
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total   |
 |------------|---------------|----------------|--------------|---------|
+| 2025-08-25 | 0             | 0              | 241          | 241     |
 | 2025-08-11 | 0             | 0              | 73           | 73      |
 | 2025-07-28 | 0             | 0              | 26           | 26      |
 | 2025-07-07 | 394           | 154            | 290          | 838     |
@@ -48,12 +50,118 @@ format:
 | 2025-02-03 | 0             | 0              | 0            | 0       |
 | 2025-01-20 | 0             | 0              | 0            | 0       |
 | 2025-01-13 | 0             | 0              | 0            | 0       |
-|**Total**   | **394**       | **154**        | **1,088**    |**1,636**|
-
+| **Total**  | **394**       | **154**        | **1329**     | **1877**|
 
 
 
 ## Meeting Details
+
+### August 25, 2025
+
+By Michael Zenz with the help of Claude AI
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235184&GUID=5101D77E-A104-4213-B706-EC7484950C92)
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3lxb3x3ckps27)
+
+The Madison Plan Commission held a virtual meeting on August 25, 2025, revisiting the controversial tree protection ordinance and discussing significant changes to area planning policies that could affect future housing density.
+
+#### Tree Protection Ordinance Approved
+
+[Legistar 89254](https://madison.legistar.com/LegislationDetail.aspx?ID=7493439&GUID=86FA8FA3-43BD-48E6-9EC3-386C7FBB157A)
+
+![Tree Protection Ordinance Reasons](resources/PC_2025-08-25_1.jpg){#PC_2025-08-25_1}
+
+The Commission unanimously approved changes to the city's tree protection ordinance, expanding protection zones from a uniform 5 feet to 1 foot per inch of tree trunk diameter. The city presented additional evidence of tree damage on job sites and encroachments on the current 5-foot protection zone to justify the changes.
+
+![City Tree Damage Examples](resources/PC_2025-08-25_2.jpg){#PC_2025-08-25_2}
+
+
+![City Tree Damage Examples](resources/PC_2025-08-25_3.jpg){#PC_2025-08-25_3}
+
+**Stakeholder Input:**
+City forestry staff met with Smart Growth Madison, a developer advocacy group, to address concerns. Smart Growth continued to argue for deferral, particularly concerned that tree damage by contractors could result in permit revocation.
+
+The Realtors Association requested clearer processes for handling violations, agreeing that continued violations should have consequences but arguing that minor infractions should have compliance pathways short of permit revocation. They also wanted clarification that the tree protection zone stops at private property lines.
+
+
+
+**Public Support:**
+Several speakers supported the ordinance changes, arguing that residents have had to constantly fight to protect trees during construction, that current modest penalties don't adequately protect trees, and that street trees are especially important when private trees are removed for density.
+
+**Implementation Details:**
+Alder Guequierre explained that at the Finance Committee, sponsors emphasized implementing serious consequences for intentional tree destruction, noting that some bad actors currently agree to save street trees then simply pay damages after cutting them down.
+
+The city indicated they hope to negotiate tree protection processes upfront, with any damages reviewed by Public Works if developers disagree with Forestry staff decisions.
+
+Commissioner Solheim clarified the appeals process: violations that can't be resolved between developers and Forestry could result in permit suspension, with appeals going to the next Public Works meeting.
+
+Commissioner Field moved to pass the ordinance while requesting clarity that the protection zone applies only to public right-of-way and that negative consequences apply only to unauthorized damage. Commissioner Solheim also wanted clarity about the revocation process.
+
+#### Area Planning Policy Changes
+
+The Commission discussed significant proposed changes to area planning policies, including the controversial "escalator clause" that allows increased density in Low-Medium Residential (LMR) and Low Residential (LR) districts under certain conditions.
+
+**Escalator Clause Elimination:**
+
+
+![LMR Escalator Clause](resources/PC_2025-08-25_4.jpg){#PC_2025-08-25_4}
+
+Staff proposed eliminating the escalator clause for LMR districts, arguing it would increase transparency by having density determined solely by land use categories rather than subjective Plan Commission decisions. Staff previously attempted to eliminate this clause during interim updates but additional criteria were added instead.
+
+
+![LMR Escalator Clause](resources/PC_2025-08-25_5.jpg){#PC_2025-08-25_5}
+
+The Old Sauk Road development utilized this escalator clause for increased density.
+
+![Escalator Clause Example](resources/PC_2025-08-25_7.jpg){#PC_2025-08-25_7}
+
+**Staff Rationale:**
+Staff argued they want to reserve Low-Medium Residential for "missing middle" housing rather than apartment buildings, while retaining the escalator clause for LR districts. They suggested some LMR areas might be reclassified as Medium Residential (MR) to accommodate density.
+
+![LMR Range](resources/PC_2025-08-25_9.jpg){#PC_2025-08-25_9}
+
+**Commission Concerns:**
+Commissioner Heck worried about losing the ability to approve more housing, noting recent projects like Old Sauk Road and Northport developments benefited from the escalator clause. Staff indicated the 5-year comprehensive plan updates could allow land use changes to increase density.
+
+Commissioner Figueroa Cole expressed skepticism that eliminating the escalator clause would dramatically increase clarity while retaining it for LR districts, worrying it would reverse progress in finding appropriate density locations.
+
+Alder Guequierre questioned whether areas like the recent Old Sauk Road development could ever be categorized as Medium Residential given community pushback, highlighting a key concern about the practical limitations of the staff approach.
+
+**Alternative Approaches:**
+Commissioner Field suggested reducing escalator clause density allowances by half rather than eliminating them entirely. Commissioner Solheim wanted suggestions for increased density to be introduced earlier in area planning processes to avoid surprising the public.
+
+**Commercial/Employment District Restrictions:**
+Staff also proposed specifying which General Commercial and Employment districts are inappropriate for residential use, potentially requiring land use category changes before allowing housing in such areas.
+
+![Limiting Residential in Commercial Districts](resources/PC_2025-08-25_8.jpg){#PC_2025-08-25_8}
+
+Alder Glenn emphasized the value of flexibility in examining area nuances, while Commissioner Solheim wanted the ability to alter future land use designations if residential becomes appropriate.
+
+Staff's goal is to bar certain commercial and employment areas from residential uses, arguing they aren't suitable places for people to live.
+
+#### Housing Approvals
+
+The Commission approved two significant housing projects on the consent agenda:
+
+##### Fair Oaks Avenue Mixed-Use Development
+[Legistar 88777](https://madison.legistar.com/LegislationDetail.aspx?ID=7439961&GUID=8C3C83BC-C777-44D9-A2CF-7961868AB0A3)
+
+
+
+Conditional use approval for a five-story, 171-unit mixed-use building and 6-unit townhouse at 922-930 N Fair Oaks Avenue.
+
+![Fair Oaks Development](resources/PC_2025-08-25_10.jpg){#PC_2025-08-25_5}
+
+##### Commercial Avenue Development  
+[Legistar 89230](https://madison.legistar.com/LegislationDetail.aspx?ID=7489558&GUID=312BBD22-BABF-4820-8286-FC6698B5D61A)
+
+Approval for a 70-unit building at 3236-3300 Commercial Avenue.
+
+![Commercial Avenue Development](resources/PC_2025-08-25_11.jpg){#PC_2025-08-25_11}
+
+
+The meeting highlighted ongoing tensions between environmental protection and development facilitation, while also revealing significant policy debates about how to manage future housing density in Madison's evolving neighborhoods. The proposed elimination of density escalation tools drew considerable skepticism from commissioners concerned about limiting housing production flexibility.
 
 ### August 11, 2025
 
