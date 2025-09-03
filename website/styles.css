@@ -1,1 +1,43 @@
-/* css styles */
+/* Global image sizing */
+img {
+  max-width: 70%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem auto; /* Center images with bottom margin */
+}
+
+/* Specific sizing for different image contexts */
+.content img {
+  max-width: 60%;
+}
+
+/* Smaller images for inline content */
+.inline-image img {
+  max-width: 40%;
+  display: inline-block;
+  margin: 0 0.5rem;
+}
+
+/* Larger images when needed */
+.large-image img {
+  max-width: 90%;
+}
+
+/* Meeting-specific image sizing */
+.meeting-image {
+  max-width: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  img {
+    max-width: 90%;
+  }
+  
+  .content img {
+    max-width: 85%;
+  }
+}
