@@ -18,6 +18,10 @@ website:
          - Plan_Commission.qmd
          - Landmarks.qmd
          - Urban_Design.qmd
+      - text: Voting Record
+        menu: 
+         - index.qmd
+         - Historical_2023_25_Voting.qmd
       - about.qmd
       - text: Who's Your Alder?
         href: https://www.cityofmadison.com/council/councilmembers/findAlderByAddress.cfm
