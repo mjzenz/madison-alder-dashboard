@@ -11,6 +11,8 @@ format:
 
 ## Meeting Summaries
 
+- [2025-09-15](#september-15-2025): The Madison Plan Commission approved the 2025-2030 Park and Open Space Plan with added bike parking provisions, new school construction to replace Black Hawk Middle School and Gompers Elementary, and an 11-story, 76-unit mixed-use development at 302 E Washington Avenue that requires photographic documentation before demolishing the existing historically valuable building.Retry
+
 - [2025-08-25](#august-25-2025): Approved significant changes to the tree protection ordinance expanding protection zones and enforcement mechanisms, discussed proposed area planning policy changes including eliminating the "escalator clause" for Low-Medium Residential districts, and approved two major housing developments on Fair Oaks Avenue and Commercial Avenue.
 
 - [2025-08-11](#august-11-2025): Discussed proposed tree protection ordinance changes, approved a 73-unit apartment building on North Butler Street, and provided updates on downtown area planning and economic strategy coordination.
@@ -35,6 +37,7 @@ format:
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total   |
 |------------|---------------|----------------|--------------|---------|
+| 2025-09-15 | 0             | 0              | 76           | 76      |
 | 2025-08-25 | 0             | 0              | 241          | 241     |
 | 2025-08-11 | 0             | 0              | 73           | 73      |
 | 2025-07-28 | 0             | 0              | 26           | 26      |
@@ -50,11 +53,98 @@ format:
 | 2025-02-03 | 0             | 0              | 0            | 0       |
 | 2025-01-20 | 0             | 0              | 0            | 0       |
 | 2025-01-13 | 0             | 0              | 0            | 0       |
-| **Total**  | **394**       | **154**        | **1329**     | **1877**|
+| **Total**  | **394**       | **154**        | **1405**     | **1953**|
 
 
 
 ## Meeting Details
+
+### September 15, 2025
+By Tori Cooper with the help of Claude AI
+
+[Official Minutes](https://madison.legistar.com/View.ashx?M=M&ID=1235185&GUID=8148745B-5F29-4A15-8728-9DEA75141CE8)
+
+**Consent Agenda** item passed:
+- Request for **conditional use** in the Parks and Recreation (PR) District for an outdoor eating area for a food and beverage establishment open after 9:00 p.m., and **conditional use** for amplified sound for an outdoor eating area at **5501 Schroeder Road** in **District 20** [Legistar 89235](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98326).
+
+**Referred to October 6th Meeting** to allow for review by the Urban Design Commission:
+- Request for **conditional use** in the Traditional Residential-Consistent 4 (TR-C4) District for a school, public or private, and for a building exceeding 10,000 square feet to allow construction of a new public school building to replace Sherman Middle School and Shabazz City High School at **1601 N Sherman Avenue/1610 Ruskin Street** in **District 12** [Legistar 89232](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98323).
+
+#### 2025-2030 Park and Open Space Plan
+
+**[Legistar 89620](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98619)**: Adopting the 2025-2030 Park and Open Space Plan as a Supplement to the City of Madison Comprehensive Plan (Citywide)
+
+Lisa Laschinger, interim parks superintendent, presented the comprehensive plan highlighting Madison's status as the fastest-growing city in Wisconsin's fastest-growing county. The plan emphasizes the need for parks to meet the needs of aging generations by offering more community spaces.
+
+Laschinger reviewed the Trust for Public Land survey, which examined state, county, city, and UW resources in comparison to green space offered through the parks system. Community engagement efforts were conducted in both English and Spanish to inform the proposal development. The community agreed that parks are integral to overall wellbeing in Madison, supporting the need for more skate parks, walking trails, bike paths, and dog runs.
+
+Park use has returned to pre-pandemic levels for most activities and surpassed prior use rates in remaining areas. The committee recognized both the housing crisis and the need for park spaces around infill developments throughout Madison. Despite huge need and reliance on parks, Wisconsin invests less funding in these areas than neighboring states.
+
+Madison Parks relies heavily on volunteers, who contributed almost $1.7 million through their time, effort, and donations in the previous fiscal year. The strategies outlined in the plan build off previously stated goals and are already being partially met through previous proposals.
+
+Nicholas Davies spoke in opposition, concerned about bike parking. He observed over 15 cyclists at Monona Park over the weekend with nowhere to lock their bikes. Davies noted there's a budget line item for vehicle parking but nothing specific for bike racks, despite Madison being a bike-friendly city. He urged the Plan Commission to consider minimum bike parking requirements for parks.
+
+Commissioner Heck asked Laschinger to respond to Davies's statement. Laschinger acknowledged that Davies was correct regarding zoning requirements for parks and recreation spaces. She explained that Madison Parks does consider cyclists; however, much less funding is needed for bike racks than parking spaces. Bike parking is currently included in the "furnishings" budget line but could be specifically added under "amenities" if necessary for approval.
+
+City Staff Vaughn noted that comments regarding bicycle parking were forwarded to the zoning board for consideration.
+
+Alder Guequierre drew attention to the East Towne and West Towne areas, which are being heavily developed but appear to lack green space. Laschinger confirmed these are two larger target areas Madison Parks hopes to address, recognizing the need for larger spaces given population growth and new residences.
+
+Commissioner Wasniewski asked how the plans address inclusivity with older populations. Laschinger said this will be a focal point in the next five years, exploring amenities such as adult exercise features, walking paths, and pickleball.
+
+Commissioner Solheim moved for an amendment to add bike parking to the budget, which was included in the item, ultimately leading to approval.
+
+#### Black Hawk Middle School and Gompers Elementary School - 1402 Wyoming Way
+
+**[Legistar 89234](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98325)**: Consideration of **conditional use** in the Suburban Residential-Consistent 1 (SR-C1) District for a school and for a building exceeding 10,000 square feet to allow construction of a new public school building to replace the existing school at **1402 Wyoming Way** in **District 18**.
+
+City Planner Ernest presented the project. Construction of the new school would begin in early 2026, with the existing building remaining until demolition in late 2027. The proposed building will be two levels and approximately 90,000 square feet. The new building will be more central to the site compared to the current building's street-adjacent location. Additional access points will reduce traffic at the Comanche/Wyoming Way intersection.
+
+Matt Hasse, part of the design team working with MMSD, reviewed traffic and pedestrian safety plans. The design aims to pull current traffic congestion internally to the site rather than continuing to jam up Comanche/Wyoming Way, offering relief to commuting residents and additional safety for students and staff.
+
+Susan Bowersox for the design team reviewed floor plans, elevations, renderings, and building perspectives. The new building will be built into the hillside due to the site's grading and topography.
+
+Nicholas Davies spoke again, criticizing parent drop-off loops as having a poor track record. Davies argued this type of "child drive-through" creates a feedback loop that "induces demand and creates rather than alleviates congestion" as parents arrive earlier to get spots close to the building. He suggested closing off through traffic or making the area traffic-free to avoid bottleneck situations.
+
+Alder Glenn asked for clarification on the loops and whether there would be designated spaces for parent drop-offs versus bus areas. Hasse explained three loops would break up congestion: Wheeler Road access for Gompers Elementary parents, the Monica Lane loop for Blackhawk, and the southern loop for buses. Glenn questioned whether straight-through options or making Wyoming Way a no-traffic zone during school hours might be better solutions.
+
+Hasse assured the Commission they consulted with City Traffic Engineering early in the project. Due to site grading, there was more concern over pedestrian safety with hills in a straight-through design than with separating drop-off points into three loops. City Traffic Engineering preferred this option for alleviating traffic.
+
+Commissioner Solheim questioned the grading, noting the renderings made the field appear flat. Hasse clarified the grading issue was with Wheeler Road—while the building site itself is flat, the road is not.
+
+Commissioner Wasniewski asked about traffic projections. Hasse said they could accurately project bus volume, but vehicle traffic varies daily depending on weather, parent availability, and carpool fluctuation.
+
+Alder Glenn asked about bike racks. Hasse confirmed there would be ample bike parking and connecting paths for cyclists and pedestrians to accommodate students, staff, and parents.
+
+After extensive discussion about traffic and safety concerns, and despite Commissioner Wasniewski's disapproval, the item was approved.
+
+#### 302 E Washington Avenue Development
+
+**[Legistar 89434](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98485)**, **[Legistar 89375](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98433)**, **[Legistar 89273](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98328)**, **[Legistar 88957](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98104)**: **Demolition permit**, **zoning change**, **conditional use** for additional building height, and **Certified Survey Map** for an 11-story, 76-unit mixed-use building at **302-308 E Washington Avenue/15-27 N Butler Street** in **District 2**.
+
+City Planner Lisa Ernest noted this was the first demolition application since the code was amended earlier this year. The Landmarks Commission found historical value in the building but not substantial enough to prevent approval.
+
+Several development team members presented design plans, building height specifications, and how they were utilizing zoning transitions affordable housing to add additional stories to sections of the building.
+
+Lynn Bjorkman spoke in opposition, arguing the historical value of the building was not being given proper consideration. She referenced previous projects and a Capital Times article advocating for more documentation of landmarks and buildings lost to new developments. She argued there were insufficient building images documenting the building prior to potential demolition for future historians and architects.
+
+Commissioner Heck was receptive to Bjorkman's arguments and asked the development team if they would be open to documenting the building through photographs and redrawing building plans prior to demolition. While the team was open to photographs, Duane Johnson with the developer team was hesitant about documenting building plans. Johnson believed the Landmarks Commission already had substantial building plan documentation and was concerned about duplicating readily available resources.
+
+Commissioner Heck clarified he didn't intend to imply developers needed new plans—only to ensure documentation was on file for future reference. Johnson agreed that between photos they would take and plans on file with the City, they could bridge the gap to meet the documentation level Bjorkman argued for.
+
+Both items passed with the condition of proper photographic documentation for future reference following demolition.
+
+#### 2025 Plan Commission Member Survey Results
+
+**[Legistar 89885](https://madison.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=98823)**: Discussion of survey results.
+
+Feedback indicated staff reports were generally favorable regarding background information. However, one comment observed that applicants provide extensive project details. The comment suggested that if the letter of intent provided necessary information, it could be cross-referenced in the Staff Report rather than repeated in findings, ultimately shortening project descriptions provided by staff.
+
+Comments were made about how Staff Reports highlight conditions for approval. Traditionally, reports emphasize conditions they don't think can be met or where the Plan Commission should spend additional time determining if conditions can be met. It was suggested the analysis include conditions that have been or could easily be met as a cross-reference for findings.
+
+There was also a request regarding the time Staff Reports are released and when the Plan Commission is tasked with taking action on items. The City is looking into extending lead time and whether they have capacity to move up internal deadlines to provide information earlier. They explored moving meeting nights, but other days didn't meet Plan Commission member constraints, so Mondays would remain the scheduled meeting day.
+
+
 
 ### August 25, 2025
 
