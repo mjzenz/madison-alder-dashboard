@@ -8,13 +8,11 @@ library(kableExtra)
 # Authenticate with Google
 gs4_auth(email = "michael.zenz@gmail.com")
 # Load data from Alder Votes sheet  at this link:
-#vote.data.query.old <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
-#                              sheet = "YIMBY Votes")
+vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
+                              sheet = "YIMBY Votes")
 alder.data <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
                          sheet = "Alder Districts")
 
-#Read in csv file Votes2025.csv
-vote.data.query <- read_csv("website/Votes2025.csv")
 
 #transform list of names seperated by a ; into vector
 vote.data <- vote.data.query |>
@@ -65,7 +63,7 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
 ## Alder Vote Percentages
 
 YIMBY.prop <- alder.votes |>
-  filter(is.na(`End Date`)) |>
+  filter(is.na(`End Date`) | `End Date` < "2025-04-15") |>
   group_by(Alder, `Aldermanic District`) |>
   summarize(`n Votes` = n(),
             `YIMBY prop` = mean(`YIMBY Vote`, na.rm = TRUE) ) |>
@@ -75,7 +73,7 @@ YIMBY.prop <- alder.votes |>
 
 YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
-  filter(is.na(`End Date`)) %>%
+  filter(is.na(`End Date`) | `End Date` < "2025-04-15") |>
   arrange(Date, `Legistar`, `Vote #`) %>%
   mutate(date = Date,
          Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
@@ -90,4 +88,4 @@ YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
   arrange(desc(date), Legistar, `Vote #`)
 
-save.image(file="website/alder_data_processed.RData")
+save.image(file="website/alder_data_processed_old.RData")
