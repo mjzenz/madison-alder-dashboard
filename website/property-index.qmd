@@ -1,0 +1,117 @@
+---
+title: "Development Project Index"
+format: 
+  html:
+    toc: true
+    toc-location: left
+---
+```{r}
+#| label: setup
+#| echo: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(DT)
+```
+
+```{r}
+#| label: load-data
+#| echo: false
+#| warning: false
+#| message: false
+
+# Read the CSV file
+projects <- read_csv("development_index.csv", show_col_types = FALSE)
+
+# Create clickable links for the commission date columns
+projects_display <- projects %>%
+  mutate(
+    # Create a combined "Commission Reviews" column showing which bodies reviewed it
+    Commissions = case_when(
+      !is.na(Plan_Commission_Dates) & !is.na(Landmarks_Dates) & !is.na(Urban_Design_Dates) ~ "PC, LM, UDC",
+      !is.na(Plan_Commission_Dates) & !is.na(Landmarks_Dates) ~ "PC, LM",
+      !is.na(Plan_Commission_Dates) & !is.na(Urban_Design_Dates) ~ "PC, UDC",
+      !is.na(Landmarks_Dates) & !is.na(Urban_Design_Dates) ~ "LM, UDC",
+      !is.na(Plan_Commission_Dates) ~ "PC",
+      !is.na(Landmarks_Dates) ~ "LM",
+      !is.na(Urban_Design_Dates) ~ "UDC",
+      TRUE ~ ""
+    ),
+    # Create clickable links for Plan Commission
+    PC_Review = if_else(
+      !is.na(PC_Links),
+      paste0('<a href="', PC_Links, '" target="_blank">', Plan_Commission_Dates, '</a>'),
+      ""
+    ),
+    # Create clickable links for Landmarks
+    LM_Review = if_else(
+      !is.na(LM_Links),
+      paste0('<a href="', LM_Links, '" target="_blank">', Landmarks_Dates, '</a>'),
+      ""
+    ),
+    # Create clickable links for Urban Design
+    UDC_Review = if_else(
+      !is.na(UDC_Links),
+      paste0('<a href="', UDC_Links, '" target="_blank">', Urban_Design_Dates, '</a>'),
+      ""
+    )
+  ) %>%
+  select(Address, Legistar_Numbers, Commissions, PC_Review, LM_Review, UDC_Review, Description)
+
+# Create interactive DataTable
+datatable(
+  projects_display,
+  colnames = c(
+    "Address",
+    "Legistar #",
+    "Commissions",
+    "Plan Commission",
+    "Landmarks",
+    "Urban Design",
+    "Description"
+  ),
+  escape = FALSE,  # Allow HTML in cells
+  rownames = FALSE,
+  filter = 'top',  # Add column filters at the top
+  extensions = c('Buttons', 'FixedHeader'),
+  options = list(
+    pageLength = 25,
+    lengthMenu = c(10, 25, 50, 100),
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel'),
+    fixedHeader = TRUE,
+    scrollX = TRUE,
+    autoWidth = TRUE,
+    columnDefs = list(
+      list(width = '15%', targets = 0),  # Address
+      list(width = '10%', targets = 1),  # Legistar
+      list(width = '8%', targets = 2),   # Commissions
+      list(width = '12%', targets = 3),  # PC Review
+      list(width = '12%', targets = 4),  # LM Review
+      list(width = '12%', targets = 5),  # UDC Review
+      list(width = '31%', targets = 6)   # Description
+    ),
+    initComplete = JS(
+      "function(settings, json) {",
+      "$(this.api().table().header()).css({'background-color': '#66cbff', 'color': '#000'});",
+      "}"
+    )
+  ),
+  class = 'cell-border stripe hover'
+) %>%
+  formatStyle(
+    columns = 0:6,
+    fontSize = '12px'
+  ) %>%
+  formatStyle(
+    'Address',
+    fontWeight = 'bold'
+  )
+
+
+```
+
+

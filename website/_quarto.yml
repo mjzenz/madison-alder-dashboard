@@ -15,6 +15,7 @@ website:
     left: 
       - text: What Happened at...
         menu:  
+         - property-index.qmd
          - Plan_Commission.qmd
          - Landmarks.qmd
          - Urban_Design.qmd
