@@ -41,3 +41,41 @@ img {
     max-width: 85%;
   }
 }
+
+/* Polished navbar logo - consistent across all pages */
+.navbar-brand img,
+.navbar-logo img {
+  max-height: 55px !important;  /* Reduced from 70px */
+  width: auto !important;
+  margin-right: 12px;
+  padding: 8px 0;
+  transition: transform 0.2s ease;
+}
+
+/* Subtle hover effect */
+.navbar-brand:hover img,
+.navbar-logo:hover img {
+  transform: scale(1.05);
+}
+
+/* Better navbar spacing */
+.navbar-brand,
+.navbar-logo {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  display: flex;
+  align-items: center;
+}
+
+/* Ensure consistent sizing on homepage */
+.navbar-container .navbar-brand img,
+.navbar-container .navbar-logo img {
+  max-height: 55px !important;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand img,
+  .navbar-logo img {
+    max-height: 45px !important;  /* Reduced from 55px */
+  }
+}
