@@ -1,37 +1,98 @@
-/* Global image sizing */
+/* ========================================
+   GLOBAL IMAGE STYLES
+   ======================================== */
+
+/* Default image sizing - centered with bottom margin */
 img {
   max-width: 70%;
   height: auto;
   display: block;
-  margin: 0 auto 1rem auto; /* Center images with bottom margin */
+  margin: 0 auto 1rem auto;
 }
 
-/* Specific sizing for different image contexts */
+/* Center image captions */
+figcaption,
+.figure-caption,
+caption {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #666;
+}
+
+/* Exclude navbar images from global img rules */
+.navbar-brand img,
+.navbar-logo img {
+  max-width: none !important;
+  display: inline-block !important;
+  margin: 0 !important;
+}
+
+/* Content images - slightly smaller */
 .content img {
   max-width: 60%;
 }
 
-/* Smaller images for inline content */
+/* Inline images - smaller, inline display */
 .inline-image img {
   max-width: 40%;
   display: inline-block;
   margin: 0 0.5rem;
 }
 
-/* Larger images when needed */
+/* Large images - take up more space */
 .large-image img {
   max-width: 90%;
 }
 
-/* Meeting-specific image sizing */
+/* Meeting-specific images - with border and shadow */
 .meeting-image {
   max-width: 50%;
   border: 1px solid #ddd;
   border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Responsive design */
+/* ========================================
+   NAVBAR STYLES
+   ======================================== */
+
+/* Navbar logo sizing for SVG */
+.navbar-brand img,
+.navbar-logo img {
+  height: 50px !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
+/* Support link styling */
+.navbar-nav .nav-link {
+  font-size: 1.15rem;
+  font-weight: 500;
+  padding: 10px 20px;
+  transition: all 0.2s ease;
+}
+
+/* Button-like styling for support link */
+.navbar-right .nav-link,
+.ms-auto .nav-link {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+/* Support link hover effect */
+.navbar-right .nav-link:hover,
+.ms-auto .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+  transform: scale(1.05);
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+
+/* Tablet and mobile - adjust images */
 @media (max-width: 768px) {
   img {
     max-width: 90%;
@@ -40,42 +101,16 @@ img {
   .content img {
     max-width: 85%;
   }
-}
-
-/* Polished navbar logo - consistent across all pages */
-.navbar-brand img,
-.navbar-logo img {
-  max-height: 55px !important;  /* Reduced from 70px */
-  width: auto !important;
-  margin-right: 12px;
-  padding: 8px 0;
-  transition: transform 0.2s ease;
-}
-
-/* Subtle hover effect */
-.navbar-brand:hover img,
-.navbar-logo:hover img {
-  transform: scale(1.05);
-}
-
-/* Better navbar spacing */
-.navbar-brand,
-.navbar-logo {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  display: flex;
-  align-items: center;
-}
-
-/* Ensure consistent sizing on homepage */
-.navbar-container .navbar-brand img,
-.navbar-container .navbar-logo img {
-  max-height: 55px !important;
-}
-
-@media (max-width: 768px) {
+  
+  /* Smaller logo on mobile */
   .navbar-brand img,
   .navbar-logo img {
-    max-height: 45px !important;  /* Reduced from 55px */
+    height: 40px !important;
+  }
+  
+  /* Smaller support link on mobile */
+  .navbar-nav .nav-link {
+    font-size: 1rem;
+    padding: 8px 15px;
   }
 }

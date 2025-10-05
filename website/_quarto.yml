@@ -9,7 +9,7 @@ website:
       [Contact Madison Councilytics](mailto:contact@councilytics.com)
   navbar:
     title: false
-    logo: "Councilytics_medium_pic.png"
+    logo: "MC_Logo_Stacked.svg"
     logo-href: index.qmd
     background: "#66cbff"
     left: 
@@ -44,3 +44,4 @@ format:
     html-table-processing: none
     page-layout: full
     css: styles.css
+
