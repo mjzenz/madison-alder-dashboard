@@ -131,6 +131,74 @@ YIMBY.vote.list.2025 <- YIMBY.vote.list %>%
 
 
 
+## Other Votes
+
+### 2025
+
+
+```{r}
+#| label: tbl-all-other-votes-2025
+#| tbl-cap: Contested Non-housing votes of active alders in 2025, listed by their district. Yes votes in blue, No votes in red.
+#| echo: false
+#| warning: false
+#| message: false
+
+#Only keep votes in YIMBY.vote.list from 2025
+other.vote.list.2025 <- other.vote.list %>%
+  filter(year(date) == 2025) %>%
+  select(-date, -YIMBY) 
+
+
+kable(other.vote.list.2025, "html", escape = FALSE) %>%
+  column_spec(6, color = ifelse(YIMBY.vote.list.2025$`1` == "Y", "blue", 
+                                ifelse(YIMBY.vote.list.2025$`1` == "N", "red", "black"))) %>%
+  column_spec(7, color = ifelse(YIMBY.vote.list.2025$`2` == "Y", "blue", 
+                                ifelse(YIMBY.vote.list.2025$`2` == "N", "red", "black"))) %>%
+  column_spec(8, color = ifelse(YIMBY.vote.list.2025$`3` == "Y", "blue", 
+                                ifelse(YIMBY.vote.list.2025$`3` == "N", "red", "black"))) %>%
+  column_spec(9, color = ifelse(YIMBY.vote.list.2025$`4` == "Y", "blue", 
+                                ifelse(YIMBY.vote.list.2025$`4` == "N", "red", "black"))) %>%
+  column_spec(10, color = ifelse(YIMBY.vote.list.2025$`5` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`5` == "N", "red", "black"))) %>%
+  column_spec(11, color = ifelse(YIMBY.vote.list.2025$`6` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`6` == "N", "red", "black"))) %>%
+  column_spec(12, color = ifelse(YIMBY.vote.list.2025$`7` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`7` == "N", "red", "black"))) %>%
+  column_spec(13, color = ifelse(YIMBY.vote.list.2025$`8` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`8` == "N", "red", "black"))) %>%
+  column_spec(14, color = ifelse(YIMBY.vote.list.2025$`9` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`9` == "N", "red", "black"))) %>%
+  column_spec(15, color = ifelse(YIMBY.vote.list.2025$`10` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`10` == "N", "red", "black"))) %>%
+  column_spec(16, color = ifelse(YIMBY.vote.list.2025$`11` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`11` == "N", "red", "black"))) %>%
+  column_spec(17, color = ifelse(YIMBY.vote.list.2025$`12` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`12` == "N", "red", "black"))) %>%
+  column_spec(18, color = ifelse(YIMBY.vote.list.2025$`13` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`13` == "N", "red", "black"))) %>%
+  column_spec(19, color = ifelse(YIMBY.vote.list.2025$`14` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`14` == "N", "red", "black"))) %>%
+  column_spec(20, color = ifelse(YIMBY.vote.list.2025$`15` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`15` == "N", "red", "black"))) %>%
+  column_spec(21, color = ifelse(YIMBY.vote.list.2025$`16` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`16` == "N", "red", "black"))) %>%
+  column_spec(22, color = ifelse(YIMBY.vote.list.2025$`17` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`17` == "N", "red", "black"))) %>%
+  column_spec(23, color = ifelse(YIMBY.vote.list.2025$`18` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`18` == "N", "red", "black"))) %>%
+  column_spec(24, color = ifelse(YIMBY.vote.list.2025$`19` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`19` == "N", "red", "black"))) %>%
+  column_spec(25, color = ifelse(YIMBY.vote.list.2025$`20` == "Y", "blue", 
+                                 ifelse(YIMBY.vote.list.2025$`20` == "N", "red", "black"))) %>%
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+
+```
+
+
+  
+
 
 
 

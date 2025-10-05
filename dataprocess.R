@@ -5,6 +5,7 @@ library(kableExtra)
 
 ## Import Alder vote data from google sheets
 source("functions/calcs.R")
+source("functions/format.R")
 # Authenticate with Google
 gs4_auth(email = "michael.zenz@gmail.com")
 # Load data from Alder Votes sheet  at this link:
@@ -18,7 +19,7 @@ vote.data.query <- read_csv("website/Votes2025.csv")
 
 #transform list of names seperated by a ; into vector
 vote.data <- vote.data.query |>
-  filter(`Development Proposal`) |>
+ # filter(`Development Proposal`) |>
   mutate(Yes = strsplit(Y, ";"), 
          No = strsplit(N, ";"),
          Abstain = strsplit(as.character(ABS), ";")
@@ -65,25 +66,36 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
 ## Alder Vote Percentages
 
 YIMBY.prop <- alder.votes |>
+  filter(`Development Proposal`) |>
   filter(is.na(`End Date`)) |>
   YIMBYpropCalc()
 
 YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
+  filter(`Development Proposal`) |>
   filter(is.na(`End Date`)) %>%
-  arrange(Date, `Legistar`, `Vote #`) %>%
-  mutate(date = Date,
-         Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
-         Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
-  select(date,Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
-  group_by(date,Date, Legistar,  `Vote #`, `Short title`,`Aldermanic District`) %>%
-  mutate(Vote = substr(Vote, 1, 1), 
-         `Vote #` = ifelse(is.na(`Vote #`), 1, `Vote #`)) %>%
-  pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
-  select(date,Date, Legistar, `Vote #`, `Short Title` = `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
-         `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) %>%
+  formatVotes() 
+
+
+  # arrange(Date, `Legistar`, `Vote #`) %>%
+  # mutate(date = Date,
+  #        Legistar = cell_spec(`Legistar`, "html", link = `Legistar url`),
+  #        Date = cell_spec(format(Date, "%b %d %Y"), "html", link = `Minutes url`)) %>%
+  # select(date,Date, Legistar,  `Vote #`,`Short title`, Vote, YIMBY, `Aldermanic District`) %>%
+  # group_by(date,Date, Legistar,  `Vote #`, `Short title`,`Aldermanic District`) %>%
+  # mutate(Vote = substr(Vote, 1, 1), 
+  #        `Vote #` = ifelse(is.na(`Vote #`), 1, `Vote #`)) %>%
+  # pivot_wider(names_from = `Aldermanic District`, values_from = `Vote`, values_fill = " ") %>%
+  # select(date,Date, Legistar, `Vote #`, `Short Title` = `Short title`, YIMBY, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `10`,
+  #        `11`, `12`, `13`, `14`, `15`, `16`,`17`, `18`, `19`,`20` ) %>%
+  # ungroup() %>%
+  # arrange(desc(date), Legistar, `Vote #`)
+
+other.vote.list <- alder.votes %>%
   ungroup() %>%
-  arrange(desc(date), Legistar, `Vote #`)
+  filter(!`Development Proposal`) |>
+  filter(is.na(`End Date`)) |>
+  formatVotes()
 
 save.image(file="website/alder_data_processed.RData")
 
