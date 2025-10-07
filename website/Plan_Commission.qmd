@@ -11,6 +11,8 @@ format:
 
 ## Meeting Summaries
 
+- [2025-10-06](#october-6-2025): The Madison Plan Commission approved several significant housing developments including a 16-story, 387-unit student apartment building at 305 N Frances Street and the final plat for the multifamily and commercial portion of Raemisch Farm. They controversially approved a two-lane drive-through coffee shop in a Transit-Oriented Development district at 53 West Towne Mall, despite concerns about its auto-oriented design conflicting with TOD goals. The Commission also advanced three major zoning text amendments proposed by the Mayor to facilitate housing development, with debate around exemptions for the exclusive Highlands neighborhood. Additionally, they approved conditional use approvals for replacement facilities for Sherman Middle School and Shabazz City High School.
+
 - [2025-09-15](#september-15-2025): The Madison Plan Commission approved the 2025-2030 Park and Open Space Plan with added bike parking provisions, new school construction to replace Black Hawk Middle School and Gompers Elementary, and an 11-story, 76-unit mixed-use development at 302 E Washington Avenue that requires photographic documentation before demolishing the existing historically valuable building.Retry
 
 - [2025-08-25](#august-25-2025): Approved significant changes to the tree protection ordinance expanding protection zones and enforcement mechanisms, discussed proposed area planning policy changes including eliminating the "escalator clause" for Low-Medium Residential districts, and approved two major housing developments on Fair Oaks Avenue and Commercial Avenue.
@@ -36,7 +38,8 @@ format:
 *2025 Housing Approval Counts*
 
 | Date       | Single-Family | Duplex/Triplex | Multi-Family | Total   |
-|------------|---------------|----------------|--------------|---------|
+|:-----------|:-------------:|:--------------:|:------------:|:-------:|
+| 2025-10-06 | 0             | 0              | 387          | 387     |
 | 2025-09-15 | 0             | 0              | 76           | 76      |
 | 2025-08-25 | 0             | 0              | 241          | 241     |
 | 2025-08-11 | 0             | 0              | 73           | 73      |
@@ -53,11 +56,159 @@ format:
 | 2025-02-03 | 0             | 0              | 0            | 0       |
 | 2025-01-20 | 0             | 0              | 0            | 0       |
 | 2025-01-13 | 0             | 0              | 0            | 0       |
-| **Total**  | **394**       | **154**        | **1405**     | **1953**|
+| **Total**  | **394**       | **154**        | **1,792**    | **2,340** |
 
 
 
 ## Meeting Details
+
+### October 6, 2025
+
+By Michael Zenz with the help of Claude AI
+
+[Official Agenda](https://madison.legistar.com/View.ashx?M=A&ID=1235186&GUID=A7617F16-A33F-4626-A991-A53137146129)
+
+Also [live-tweeted on Bluesky by ZENZ](https://bsky.app/profile/therealzenz.bsky.social/post/3m2kxfbse722v)
+
+The Madison Plan Commission held a virtual meeting on October 6, 2025, approving several significant housing developments and advancing major "Housing Forward" zoning reforms proposed by the Mayor, while also controversially approving a drive-through coffee shop in a Transit-Oriented Development district.
+
+#### Major Housing Approvals
+
+##### Frances Street High-Rise Student Housing
+
+[Legistar 89452](https://madison.legistar.com/LegislationDetail.aspx?ID=7506370&GUID=B07D2F51-7ACA-4A4C-AEAE-D30834E1F820)
+
+The Commission approved a 16-story, 387-unit student apartment building at 305 N Frances Street. While the zone typically allows a maximum of 12 stories, the developer utilized a program that permits additional stories in exchange for building affordable units, with 10% of units receiving a 40% discount.
+
+![305 N Frances St](resources/PC_2025-10-06_4.jpg){#PC_2025-10-06_2}
+
+Notably, the building still meets height restrictions in the area because residential buildings tend to have lower per-story heights than commercial buildings, and the ordinances assume standard commercial story heights.
+
+![Current Saxony Building](resources/PC_2025-10-06_5.jpg){#PC_2025-10-06_5}
+
+
+The project replaces the older Saxony building, which contains 230 units that are generally more affordable. Staff was uncertain whether there would be a net loss in total affordable beds, as the new building includes some very large units.
+
+The Commission passed the conditional use and recommended certified survey map approval, with Commissioner Bhasin voting against the conditional use.
+
+##### Raemisch Farm Final Plat
+
+[Legistar 89766](https://madison.legistar.com/LegislationDetail.aspx?ID=7642256&GUID=0AF8A709-A571-43DF-ADD2-11A211827A64)
+
+
+![Raemisch Farm Final Plat](resources/PC_2025-10-06_1.jpg){#PC_2025-10-06_1}
+
+
+The Commission approved the final plat for the eastern portion of Raemisch Farm, which will contain the multifamily and commercial components. The developer indicated the single-family portion will be finalized in winter.
+
+![Entire Preliminary Plat](resources/PC_2025-10-06_3.jpg){#PC_2025-10-06_3}
+
+
+The preliminary plat was originally approved in 2022 but required resolution of airport building height restrictions. The 2022 approval was controversial, with the developer required to preserve woods adjacent to a school to the south and accept restrictions on building in the eastern portion for several years due to F-35 concerns.
+
+#### Controversial Drive-Through Coffee Shop Approval
+
+[Legistar 89479](https://madison.legistar.com/LegislationDetail.aspx?ID=7507747&GUID=27A13BF4-B9FB-40FA-82F8-FF30387F39E8)
+
+In a narrow 5-2 vote, the Commission approved a two-lane drive-through coffee shop in a Transit-Oriented Development (TOD) district at 53 West Towne Mall. The project had a troubled review process, first going to the Urban Design Commission in February where its shipping container design was criticized. The design was altered slightly but retained the same basic concept.
+
+![53 West Towne Mall](resources/PC_2025-10-06_6.jpg){#PC_2025-10-06_6}
+
+
+**Design Concerns:**
+The building only includes a second story because it's required by zoning, with the applicant using it solely for mechanicals and storage. One public speaker questioned whether the developer was a registered company in Wisconsin, while Commissioner Guequierre wondered if there were too many coffee shops in the area.
+
+![Site Layout](resources/PC_2025-10-06_7.jpg){#PC_2025-10-06_7}
+
+
+
+**TOD Standards Debate:**
+Commissioner McCahill questioned how the project meets TOD requirements, such as no parking between the building and frontage street. Staff indicated all requirements were met, noting the presence of a pedestrian window and park bench.
+
+Alder Field stated the standards were technically met so he would vote for it, but didn't believe it truly meets the city's vision for the area, suggesting potential ordinance tweaks.
+
+Commissioner McCahill voted against, arguing the designated "main entrance" wasn't truly an entrance. Commissioner Wasniewski also opposed, saying the project is inconsistent with city plans for the area, is entirely auto-oriented, and doesn't allow customers to go inside.
+
+**Systemic Issues:**
+Despite numerous complaints throughout the year from Plan Commission alders about auto-oriented developments in TODs, no substantial ordinance changes have been proposed to prevent such developments.
+
+#### Housing Forward Zoning Reforms
+
+The Commission advanced three major zoning text amendments proposed by the Mayor to facilitate housing development, with particular controversy around exemptions for an exclusive neighborhood.
+
+##### Minimum Lot Size Reductions
+
+[Legistar 89916](https://madison.legistar.com/LegislationDetail.aspx?ID=7656024&GUID=0299D8E4-6070-4D45-8841-1F00FC292CDB)
+
+The first proposal reduces minimum lot depth, width, and setback requirements in low-density residential areas to allow more divisions of very large lots. Staff indicated approximately 6,300 properties could be impacted by the changes, which could also affect the form of new developments.
+
+![Minimum Setbacks](resources/PC_2025-10-06_9.jpg){#PC_2025-10-06_9}
+
+
+**Highlands Neighborhood Opposition:**
+Residents from The Highlands neighborhood requested their special TR-R zone be excluded from the minimum lot area changes, arguing their zones have a special large-lot character and many properties recently signed 40-year private covenants restricting changes.
+
+
+
+
+Staff responded that the changes are modest and maintain differences between zones, including large lot sizes in TR-R. Staff expressed intent to align special zones like TR-R and Planned Development with other city standards.
+
+**Commission Debate:**
+Alder Guequierre, who represents the district, moved to eliminate TR-R from the setback changes, with Commissioner Heck seconding. Guequierre argued that lot shapes in the Highlands don't lend themselves to splitting and the neighborhood has "unique historical value."
+
+![Lot Splits](resources/PC_2025-10-06_10.jpg){#PC_2025-10-06_10}
+
+
+Commissioner Wasniewski opposed the exemption, arguing no neighborhood should be exempt from change and that restrictions would reduce property rights. Alder Glenn also opposed, noting the city has grown by 100,000 people. Heck, despite seconding, said restricting the neighborhood from changes is "cringe."
+
+Guequierre was the only commissioner to vote for the amendment, which failed. The main motion including TR-R passed unanimously and was recommended to Common Council.
+
+##### Height Transition Changes
+
+[Legistar 89917](https://madison.legistar.com/LegislationDetail.aspx?ID=7656025&GUID=8C69D5DE-950D-427F-8C7B-92B5A6EBC0E2)
+
+![Current Height Transition](resources/PC_2025-10-06_12.jpg){#PC_2025-10-06_12}
+![Proposed Height Transition](resources/PC_2025-10-06_13.jpg){#PC_2025-10-06_13}
+
+
+
+The second proposal modifies stepdown requirements to allow buildings to reach the maximum height allowed in adjacent districts before stepdown is applied. Currently, stepdown must begin below the maximum height allowed in adjacent districts.
+
+The Commission unanimously recommended approval.
+
+##### Duplex ADU Allowances
+
+[Legistar 89918](https://madison.legistar.com/LegislationDetail.aspx?ID=7656026&GUID=F9768184-E06C-4B82-95BE-E43F79D47E7F)
+
+The third proposal allows duplex accessory dwelling units (ADUs) without counting their square footage toward the property's accessory structure maximum.
+
+
+![ADU Zoning Change](resources/PC_2025-10-06_14.jpg){#PC_2025-10-06_14}
+
+
+The Commission unanimously recommended approval.
+
+#### Conditional Use Process Improvements
+
+[Legistar 90056](https://madison.legistar.com/LegislationDetail.aspx?ID=7662180&GUID=A45E87EE-7AD5-4F2C-AD35-EF47029017B1)
+
+The Commission unanimously recommended approval of minor changes to streamline the conditional use process, extending conditional use approval validity from 2 years to 3 years along with other developer-friendly modifications.
+
+#### Future Planning Initiatives
+
+Planning Director Meagan Tuttle announced that the Mayor intends to soon introduce changes to the TOD overlay to facilitate construction of "missing middle" (small-scale multifamily) housing.
+
+#### New Sherman Middle School
+
+On the consent agenda, the Commission approved conditional use approvals for replacement facilities for Sherman Middle School and Shabazz City High School.
+
+[Legistar 89232](https://madison.legistar.com/LegislationDetail.aspx?ID=7489560&GUID=9F4368CD-EBF6-4282-BADD-EB0E327FE37D)
+
+
+![Proposed Sherman/Shabazz](resources/PC_2025-10-06_15.jpg){#PC_2025-10-06_10}
+
+
+The meeting highlighted ongoing tensions between neighborhood preservation and citywide housing needs, with the Commission ultimately rejecting attempts to exempt wealthy neighborhoods from modest zoning reforms while approving auto-oriented development that conflicts with stated TOD goals.
 
 ### September 15, 2025
 By Tori Cooper with the help of Claude AI
