@@ -36,8 +36,15 @@ The % of votes that are pro-housing (YIMBY) for each active alder. The YIMBY sco
 #| warning: false
 #| message: false
 kableExtra::kable(YIMBY.prop, "html") |>
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-
+  kableExtra::kable_styling(
+    bootstrap_options = "striped",
+    full_width = FALSE,
+    position = "center",
+    font_size = 14
+  ) |>
+  kableExtra::column_spec(1, bold = TRUE) |>
+  kableExtra::row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 6px;") |>
+  kableExtra::row_spec(1:nrow(YIMBY.prop), extra_css = "padding: 5px 6px; line-height: 1.1;")
 
 
 ```
@@ -59,71 +66,76 @@ YIMBY.vote.list.2025 <- YIMBY.vote.list %>%
   filter(year(date) == 2025) %>%
   select(-date)
 
-    kable(YIMBY.vote.list.2025, "html", escape = FALSE) %>%
-  column_spec(6,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
+kable(YIMBY.vote.list.2025, "html", escape = FALSE) %>%
+  kable_styling(
+    bootstrap_options = "striped",
+    full_width = FALSE,
+    position = "center",
+    font_size = 13
+  ) %>%
+  row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 6px;") %>%
+  row_spec(1:nrow(YIMBY.vote.list.2025), extra_css = "padding: 4px 6px; line-height: 1.1;") %>%
+  column_spec(1:5, bold = FALSE) %>%
+  column_spec(6, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "N"))
-                               | is.na(YIMBY.vote.list$`1`)  , "blue", "red")) %>%
-  column_spec(7,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
+                               | is.na(YIMBY.vote.list$`1`), "blue", "red")) %>%
+  column_spec(7, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "N"))
-                               | is.na(YIMBY.vote.list$`2`)  , "blue", "red")) %>%
-  column_spec(8,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
+                               | is.na(YIMBY.vote.list$`2`), "blue", "red")) %>%
+  column_spec(8, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "N"))
-                               | is.na(YIMBY.vote.list$`3`)  , "blue", "red")) %>%
- column_spec(9,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
+                               | is.na(YIMBY.vote.list$`3`), "blue", "red")) %>%
+  column_spec(9, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "N"))
-                               | is.na(YIMBY.vote.list$`4`)  , "blue", "red")) %>%
-  column_spec(10,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
+                               | is.na(YIMBY.vote.list$`4`), "blue", "red")) %>%
+  column_spec(10, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
                              (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "N"))
-                           | is.na(YIMBY.vote.list$`5`)  , "blue", "red")) %>%
-  column_spec(11,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
+                           | is.na(YIMBY.vote.list$`5`), "blue", "red")) %>%
+  column_spec(11, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "N"))
-                               | is.na(YIMBY.vote.list$`6`)  , "blue", "red")) %>%
-  column_spec(12,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
+                               | is.na(YIMBY.vote.list$`6`), "blue", "red")) %>%
+  column_spec(12, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "N"))
-                               | is.na(YIMBY.vote.list$`7`)  , "blue", "red")) %>%
-  column_spec(13,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
+                               | is.na(YIMBY.vote.list$`7`), "blue", "red")) %>%
+  column_spec(13, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "N"))
-                               | is.na(YIMBY.vote.list$`8`)  , "blue", "red")) %>%
-  column_spec(14,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
+                               | is.na(YIMBY.vote.list$`8`), "blue", "red")) %>%
+  column_spec(14, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "N"))
-                               | is.na(YIMBY.vote.list$`9`)  , "blue", "red")) %>%
-        column_spec(15,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
+                               | is.na(YIMBY.vote.list$`9`), "blue", "red")) %>%
+  column_spec(15, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "N"))
-                               | is.na(YIMBY.vote.list$`10`)  , "blue", "red")) %>%
-        column_spec(16,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
+                               | is.na(YIMBY.vote.list$`10`), "blue", "red")) %>%
+  column_spec(16, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "N"))
-                               | is.na(YIMBY.vote.list$`11`)  , "blue", "red")) %>%
-        column_spec(17,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
+                               | is.na(YIMBY.vote.list$`11`), "blue", "red")) %>%
+  column_spec(17, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "N"))
-                               | is.na(YIMBY.vote.list$`12`)  , "blue", "red")) %>%
-        column_spec(18,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
+                               | is.na(YIMBY.vote.list$`12`), "blue", "red")) %>%
+  column_spec(18, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "N"))
-                               | is.na(YIMBY.vote.list$`13`)  , "blue", "red")) %>%
-        column_spec(19,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
+                               | is.na(YIMBY.vote.list$`13`), "blue", "red")) %>%
+  column_spec(19, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "N"))
-                               | is.na(YIMBY.vote.list$`14`)  , "blue", "red")) %>%
-        column_spec(20,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
+                               | is.na(YIMBY.vote.list$`14`), "blue", "red")) %>%
+  column_spec(20, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "N"))
-                               | is.na(YIMBY.vote.list$`15`)  , "blue", "red")) %>%
-        column_spec(21,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
+                               | is.na(YIMBY.vote.list$`15`), "blue", "red")) %>%
+  column_spec(21, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "N"))
-                               | is.na(YIMBY.vote.list$`16`)  , "blue", "red")) %>%
-        column_spec(22,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
+                               | is.na(YIMBY.vote.list$`16`), "blue", "red")) %>%
+  column_spec(22, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "N"))
-                               | is.na(YIMBY.vote.list$`17`)  , "blue", "red")) %>%
-        column_spec(23,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
+                               | is.na(YIMBY.vote.list$`17`), "blue", "red")) %>%
+  column_spec(23, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "N"))
-                               | is.na(YIMBY.vote.list$`18`)  , "blue", "red")) %>%
-       column_spec(24,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
+                               | is.na(YIMBY.vote.list$`18`), "blue", "red")) %>%
+  column_spec(24, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "N"))
-                               | is.na(YIMBY.vote.list$`19`)  , "blue", "red")) %>%
-       column_spec(25,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
+                               | is.na(YIMBY.vote.list$`19`), "blue", "red")) %>%
+  column_spec(25, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "N"))
-                               | is.na(YIMBY.vote.list$`20`)  , "blue", "red")) %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-
-
-
+                               | is.na(YIMBY.vote.list$`20`), "blue", "red"))
 ```
 
 
@@ -144,70 +156,76 @@ YIMBY.vote.list.2024 <- YIMBY.vote.list %>%
   filter(year(date) == 2024) %>%
   select(-date)
 
-    kable(YIMBY.vote.list.2024, "html", escape = FALSE) %>%
-  column_spec(6,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
+kable(YIMBY.vote.list.2024, "html", escape = FALSE) %>%
+  kable_styling(
+    bootstrap_options = "striped",
+    full_width = FALSE,
+    position = "center",
+    font_size = 13
+  ) %>%
+  row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 6px;") %>%
+  row_spec(1:nrow(YIMBY.vote.list.2024), extra_css = "padding: 4px 6px; line-height: 1.1;") %>%
+  column_spec(1:5, bold = FALSE) %>%
+  column_spec(6, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "N"))
-                               | is.na(YIMBY.vote.list$`1`)  , "blue", "red")) %>%
-  column_spec(7,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
+                               | is.na(YIMBY.vote.list$`1`), "blue", "red")) %>%
+  column_spec(7, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "N"))
-                               | is.na(YIMBY.vote.list$`2`)  , "blue", "red")) %>%
-  column_spec(8,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
+                               | is.na(YIMBY.vote.list$`2`), "blue", "red")) %>%
+  column_spec(8, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "N"))
-                               | is.na(YIMBY.vote.list$`3`)  , "blue", "red")) %>%
- column_spec(9,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
+                               | is.na(YIMBY.vote.list$`3`), "blue", "red")) %>%
+  column_spec(9, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "N"))
-                               | is.na(YIMBY.vote.list$`4`)  , "blue", "red")) %>%
-  column_spec(10,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
+                               | is.na(YIMBY.vote.list$`4`), "blue", "red")) %>%
+  column_spec(10, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
                              (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "N"))
-                           | is.na(YIMBY.vote.list$`5`)  , "blue", "red")) %>%
-  column_spec(11,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
+                           | is.na(YIMBY.vote.list$`5`), "blue", "red")) %>%
+  column_spec(11, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "N"))
-                               | is.na(YIMBY.vote.list$`6`)  , "blue", "red")) %>%
-  column_spec(12,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
+                               | is.na(YIMBY.vote.list$`6`), "blue", "red")) %>%
+  column_spec(12, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "N"))
-                               | is.na(YIMBY.vote.list$`7`)  , "blue", "red")) %>%
-  column_spec(13,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
+                               | is.na(YIMBY.vote.list$`7`), "blue", "red")) %>%
+  column_spec(13, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "N"))
-                               | is.na(YIMBY.vote.list$`8`)  , "blue", "red")) %>%
-  column_spec(14,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
+                               | is.na(YIMBY.vote.list$`8`), "blue", "red")) %>%
+  column_spec(14, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "N"))
-                               | is.na(YIMBY.vote.list$`9`)  , "blue", "red")) %>%
-        column_spec(15,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
+                               | is.na(YIMBY.vote.list$`9`), "blue", "red")) %>%
+  column_spec(15, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "N"))
-                               | is.na(YIMBY.vote.list$`10`)  , "blue", "red")) %>%
-        column_spec(16,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
+                               | is.na(YIMBY.vote.list$`10`), "blue", "red")) %>%
+  column_spec(16, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "N"))
-                               | is.na(YIMBY.vote.list$`11`)  , "blue", "red")) %>%
-        column_spec(17,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
+                               | is.na(YIMBY.vote.list$`11`), "blue", "red")) %>%
+  column_spec(17, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "N"))
-                               | is.na(YIMBY.vote.list$`12`)  , "blue", "red")) %>%
-        column_spec(18,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
+                               | is.na(YIMBY.vote.list$`12`), "blue", "red")) %>%
+  column_spec(18, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "N"))
-                               | is.na(YIMBY.vote.list$`13`)  , "blue", "red")) %>%
-        column_spec(19,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
+                               | is.na(YIMBY.vote.list$`13`), "blue", "red")) %>%
+  column_spec(19, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "N"))
-                               | is.na(YIMBY.vote.list$`14`)  , "blue", "red")) %>%
-        column_spec(20,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
+                               | is.na(YIMBY.vote.list$`14`), "blue", "red")) %>%
+  column_spec(20, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "N"))
-                               | is.na(YIMBY.vote.list$`15`)  , "blue", "red")) %>%
-        column_spec(21,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
+                               | is.na(YIMBY.vote.list$`15`), "blue", "red")) %>%
+  column_spec(21, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "N"))
-                               | is.na(YIMBY.vote.list$`16`)  , "blue", "red")) %>%
-        column_spec(22,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
+                               | is.na(YIMBY.vote.list$`16`), "blue", "red")) %>%
+  column_spec(22, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "N"))
-                               | is.na(YIMBY.vote.list$`17`)  , "blue", "red")) %>%
-        column_spec(23,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
+                               | is.na(YIMBY.vote.list$`17`), "blue", "red")) %>%
+  column_spec(23, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "N"))
-                               | is.na(YIMBY.vote.list$`18`)  , "blue", "red")) %>%
-       column_spec(24,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
+                               | is.na(YIMBY.vote.list$`18`), "blue", "red")) %>%
+  column_spec(24, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "N"))
-                               | is.na(YIMBY.vote.list$`19`)  , "blue", "red")) %>%
-       column_spec(25,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
+                               | is.na(YIMBY.vote.list$`19`), "blue", "red")) %>%
+  column_spec(25, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "N"))
-                               | is.na(YIMBY.vote.list$`20`)  , "blue", "red")) %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-
-
+                               | is.na(YIMBY.vote.list$`20`), "blue", "red"))
 
 ```
 
@@ -229,69 +247,76 @@ YIMBY.vote.list.2023 <- YIMBY.vote.list %>%
   filter(year(date) == 2023) %>%
   select(-date)
 
-    kable(YIMBY.vote.list.2023, "html", escape = FALSE) %>%
-  column_spec(6,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
+kable(YIMBY.vote.list.2023, "html", escape = FALSE) %>%
+  kable_styling(
+    bootstrap_options = "striped",
+    full_width = FALSE,
+    position = "center",
+    font_size = 13
+  ) %>%
+  row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 6px;") %>%
+  row_spec(1:nrow(YIMBY.vote.list.2023), extra_css = "padding: 4px 6px; line-height: 1.1;") %>%
+  column_spec(1:5, bold = FALSE) %>%
+  column_spec(6, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`1` == "N"))
-                               | is.na(YIMBY.vote.list$`1`)  , "blue", "red")) %>%
-  column_spec(7,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
+                               | is.na(YIMBY.vote.list$`1`), "blue", "red")) %>%
+  column_spec(7, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`2` == "N"))
-                               | is.na(YIMBY.vote.list$`2`)  , "blue", "red")) %>%
-  column_spec(8,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
+                               | is.na(YIMBY.vote.list$`2`), "blue", "red")) %>%
+  column_spec(8, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`3` == "N"))
-                               | is.na(YIMBY.vote.list$`3`)  , "blue", "red")) %>%
- column_spec(9,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
+                               | is.na(YIMBY.vote.list$`3`), "blue", "red")) %>%
+  column_spec(9, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`4` == "N"))
-                               | is.na(YIMBY.vote.list$`4`)  , "blue", "red")) %>%
-  column_spec(10,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
+                               | is.na(YIMBY.vote.list$`4`), "blue", "red")) %>%
+  column_spec(10, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "Y") |
                              (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`5` == "N"))
-                           | is.na(YIMBY.vote.list$`5`)  , "blue", "red")) %>%
-  column_spec(11,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
+                           | is.na(YIMBY.vote.list$`5`), "blue", "red")) %>%
+  column_spec(11, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`6` == "N"))
-                               | is.na(YIMBY.vote.list$`6`)  , "blue", "red")) %>%
-  column_spec(12,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
+                               | is.na(YIMBY.vote.list$`6`), "blue", "red")) %>%
+  column_spec(12, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`7` == "N"))
-                               | is.na(YIMBY.vote.list$`7`)  , "blue", "red")) %>%
-  column_spec(13,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
+                               | is.na(YIMBY.vote.list$`7`), "blue", "red")) %>%
+  column_spec(13, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`8` == "N"))
-                               | is.na(YIMBY.vote.list$`8`)  , "blue", "red")) %>%
-  column_spec(14,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
+                               | is.na(YIMBY.vote.list$`8`), "blue", "red")) %>%
+  column_spec(14, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`9` == "N"))
-                               | is.na(YIMBY.vote.list$`9`)  , "blue", "red")) %>%
-        column_spec(15,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
+                               | is.na(YIMBY.vote.list$`9`), "blue", "red")) %>%
+  column_spec(15, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`10` == "N"))
-                               | is.na(YIMBY.vote.list$`10`)  , "blue", "red")) %>%
-        column_spec(16,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
+                               | is.na(YIMBY.vote.list$`10`), "blue", "red")) %>%
+  column_spec(16, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`11` == "N"))
-                               | is.na(YIMBY.vote.list$`11`)  , "blue", "red")) %>%
-        column_spec(17,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
+                               | is.na(YIMBY.vote.list$`11`), "blue", "red")) %>%
+  column_spec(17, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`12` == "N"))
-                               | is.na(YIMBY.vote.list$`12`)  , "blue", "red")) %>%
-        column_spec(18,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
+                               | is.na(YIMBY.vote.list$`12`), "blue", "red")) %>%
+  column_spec(18, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`13` == "N"))
-                               | is.na(YIMBY.vote.list$`13`)  , "blue", "red")) %>%
-        column_spec(19,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
+                               | is.na(YIMBY.vote.list$`13`), "blue", "red")) %>%
+  column_spec(19, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`14` == "N"))
-                               | is.na(YIMBY.vote.list$`14`)  , "blue", "red")) %>%
-        column_spec(20,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
+                               | is.na(YIMBY.vote.list$`14`), "blue", "red")) %>%
+  column_spec(20, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`15` == "N"))
-                               | is.na(YIMBY.vote.list$`15`)  , "blue", "red")) %>%
-        column_spec(21,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
+                               | is.na(YIMBY.vote.list$`15`), "blue", "red")) %>%
+  column_spec(21, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`16` == "N"))
-                               | is.na(YIMBY.vote.list$`16`)  , "blue", "red")) %>%
-        column_spec(22,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
+                               | is.na(YIMBY.vote.list$`16`), "blue", "red")) %>%
+  column_spec(22, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`17` == "N"))
-                               | is.na(YIMBY.vote.list$`17`)  , "blue", "red")) %>%
-        column_spec(23,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
+                               | is.na(YIMBY.vote.list$`17`), "blue", "red")) %>%
+  column_spec(23, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`18` == "N"))
-                               | is.na(YIMBY.vote.list$`18`)  , "blue", "red")) %>%
-       column_spec(24,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
+                               | is.na(YIMBY.vote.list$`18`), "blue", "red")) %>%
+  column_spec(24, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`19` == "N"))
-                               | is.na(YIMBY.vote.list$`19`)  , "blue", "red")) %>%
-       column_spec(25,color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
+                               | is.na(YIMBY.vote.list$`19`), "blue", "red")) %>%
+  column_spec(25, color = ifelse(((YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "Y") |
                                  (!YIMBY.vote.list$YIMBY & YIMBY.vote.list$`20` == "N"))
-                               | is.na(YIMBY.vote.list$`20`)  , "blue", "red")) %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-
+                               | is.na(YIMBY.vote.list$`20`), "blue", "red"))
 
 
 ```
