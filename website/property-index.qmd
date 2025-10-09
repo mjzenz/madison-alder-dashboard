@@ -17,6 +17,9 @@ library(kableExtra)
 library(DT)
 ```
 
+**This is a Beta version of the property index. Try it out, but it might be a little crazy until it's perfected. I'm using AI to construct the index...so....we'll see how it goes.**
+
+
 ```{r}
 #| label: load-data
 #| echo: false
