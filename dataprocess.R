@@ -4,6 +4,7 @@ library(tidyverse)
 library(kableExtra)
 
 ## Import Alder vote data from google sheets
+START_THIS_TERM <- as.Date("2025-04-16")
 source("functions/calcs.R")
 source("functions/format.R")
 # Authenticate with Google
@@ -17,7 +18,12 @@ alder.data <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
 #Read in csv file Votes2025.csv
 vote.data.query <- read_csv("website/Votes2025.csv")
 
-#transform list of names seperated by a ; into vector
+old.vote.data.query <- read_sheet("1_zbvWvikBUMhwV0xVh4_bSQW4tCNdWBVeMP2m_vwWKA",
+                              sheet = "YIMBY Votes")
+
+vote.data.query <- bind_rows(vote.data.query, old.vote.data.query)
+
+#transform list of names separated by a ; into vector
 vote.data <- vote.data.query |>
  # filter(`Development Proposal`) |>
   mutate(Yes = strsplit(Y, ";"), 
@@ -65,10 +71,22 @@ alder.votes <- bind_rows(alder.votes.yes, alder.votes.no, alder.votes.abs) |>
 
 ## Alder Vote Percentages
 
+YIMBY.prop.year <- alder.votes |>
+  filter(`Development Proposal`) |>
+  filter(is.na(`End Date`)) |> 
+  filter(`Date` >= START_THIS_TERM) |>
+  YIMBYpropCalc() |>
+  rename(`Term n Votes` = `n Votes`,
+         `Term % YIMBY` = `% YIMBY`) 
+
+
 YIMBY.prop <- alder.votes |>
   filter(`Development Proposal`) |>
   filter(is.na(`End Date`)) |>
-  YIMBYpropCalc()
+  YIMBYpropCalc() |>
+  inner_join(YIMBY.prop.year, by = c("Alder", "Aldermanic District")) |>
+  select(Alder, `Aldermanic District`, 
+    `Term n Votes`, `Term % YIMBY`, `n Votes`, `% YIMBY`)
 
 YIMBY.vote.list <- alder.votes %>%
   ungroup() %>%
