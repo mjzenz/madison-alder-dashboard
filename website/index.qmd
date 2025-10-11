@@ -26,14 +26,18 @@ Updated on `r format(Sys.Date(), "%B %d, %Y")`.
 ## Current YIMBY Scores
 
 
-The % of votes that are pro-housing (YIMBY) for each active alder. The YIMBY score is calculated as the number of pro-housing votes divided by the total number of contested votes.  See #yimby-score for methodological details.
+The % of votes that are pro-housing (YIMBY) for each active alder. The YIMBY score is calculated as the number of pro-housing votes divided by the total number of contested votes.  See @yimby-score for methodological details. This provides both a score for only this term, as well as an "all-time" score for all votes since 2023. For vote details of previous terms see [Historical Voting Record](councilytics.com\Historical_2023_25_Voting.html). Note that alders in even-numbered districts are up for reelection in Spring 2026. 
 
 ```{r}
 #| label: tbl-YIMBY_percentage
-#| tbl-cap: Percentage of contested votes by active alders that were pro-housing (YIMBY).
-#| echo: false
+#| tbl-cap: Percentage of contested votes by active alders that were pro-housing (YIMBY). "All-time" includes all votes since 2023.
+#| echo: false   
 #| warning: false
 #| message: false
+
+names(YIMBY.prop) <- c("Alder", "Aldermanic District", 
+                       "n Votes", "% YIMBY", 
+                       "n Votes ", "% YIMBY ")
 kableExtra::kable(YIMBY.prop, "html") |>
   kableExtra::kable_styling(
     bootstrap_options = "striped",
@@ -41,9 +45,12 @@ kableExtra::kable(YIMBY.prop, "html") |>
     position = "center",
     font_size = 14
   ) |>
-  kableExtra::column_spec(1, bold = TRUE) |>
-  kableExtra::row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 9px;") |>
-  kableExtra::row_spec(1:nrow(YIMBY.prop), extra_css = "padding: 5px 10px; line-height: 1.1;")
+  kableExtra::add_header_above(c(" " = 2, "2025 Term" = 2, "All Time" = 2)) |>
+  kableExtra::column_spec(1, bold = TRUE, border_left = TRUE) |>
+  kableExtra::column_spec(c(2,4,6), border_right = TRUE) |>
+  kableExtra::column_spec(5:6, bold = TRUE) |>
+  kableExtra::row_spec(0, bold = TRUE, color = "black", background = "#66cbff", extra_css = "padding: 7px 6px;") |>
+  kableExtra::row_spec(1:nrow(YIMBY.prop), extra_css = "padding: 5px 6px; line-height: 1.1;")
 ```
 
 ## All Housing Votes, 2025-2026 Term
